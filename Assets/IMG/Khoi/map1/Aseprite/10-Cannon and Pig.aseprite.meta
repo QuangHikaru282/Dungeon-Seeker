@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -133,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 96
       height: 96
-    spriteID: c8a756985afaa1b47820b0e68e957fb1
+    spriteID: 23adb8ed1f36fcb4dae7786cdd619736
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,7 +152,7 @@ ScriptedImporter:
       y: 108
       width: 96
       height: 96
-    spriteID: 783a750bf0f361c4eb3f1216483e636d
+    spriteID: 9a6a01da990c5ca4da0ca93712c3df4d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -173,7 +172,7 @@ ScriptedImporter:
       y: 212
       width: 96
       height: 96
-    spriteID: 55fbc31af8eccad4ba2a70f858ec3603
+    spriteID: 51f11a32b30040240939a10888cf2aac
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -193,7 +192,7 @@ ScriptedImporter:
       y: 316
       width: 96
       height: 96
-    spriteID: ca5b451b5596aef4785ccd63180c3670
+    spriteID: c2dd94910042fa144bfe5316b58bddca
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -213,7 +212,7 @@ ScriptedImporter:
       y: 4
       width: 96
       height: 96
-    spriteID: d580d0f10e83cd8489f524ce03221ef0
+    spriteID: 6e630d2fba34f5843972a7795f4e0653
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -233,7 +232,7 @@ ScriptedImporter:
       y: 108
       width: 96
       height: 96
-    spriteID: 80720c263c1c8a742b4f5d561b61eee0
+    spriteID: 5403ba842cde82a41b8a0701628d6244
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,7 +252,7 @@ ScriptedImporter:
       y: 212
       width: 96
       height: 96
-    spriteID: b491215d71a220c48ad33e19d4154206
+    spriteID: 8fbb8a15ef78cd944b235830284caeb4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -273,7 +272,7 @@ ScriptedImporter:
       y: 316
       width: 96
       height: 96
-    spriteID: 56ab00b2b9298224ea16490992d1be82
+    spriteID: 8ad673a318fc7254baa26d33527ef653
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -293,7 +292,7 @@ ScriptedImporter:
       y: 4
       width: 96
       height: 96
-    spriteID: 1569370651b4b904d96ca67d1a9d7de5
+    spriteID: 0fa949296ac008241ad2c17ce886b61a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -313,7 +312,7 @@ ScriptedImporter:
       y: 108
       width: 96
       height: 96
-    spriteID: 6eb1288e068b38944a232eb083199d2a
+    spriteID: 6c22be3cc4afbca44a886cbc80e20d27
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -333,7 +332,7 @@ ScriptedImporter:
       y: 212
       width: 96
       height: 96
-    spriteID: dca6d5b774d20254088444bcb1295d11
+    spriteID: d4962d91d49cb764093d5072058c0085
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -353,7 +352,7 @@ ScriptedImporter:
       y: 316
       width: 96
       height: 96
-    spriteID: dde45f40523c4cb48b4c27d35dea9aa5
+    spriteID: 70eafdb4c61cc474f8b6d85aef95cdaf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -373,7 +372,7 @@ ScriptedImporter:
       y: 4
       width: 96
       height: 96
-    spriteID: 85297153b75df1643b16693d62e277c1
+    spriteID: 8f604497a42053b469d19e469a729f04
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -393,7 +392,7 @@ ScriptedImporter:
       y: 108
       width: 96
       height: 96
-    spriteID: 31cbe667510aa764a95b56b6dce5fc62
+    spriteID: 666aa46aa6e43124792a4ef019b22b1f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -413,7 +412,7 @@ ScriptedImporter:
       y: 212
       width: 96
       height: 96
-    spriteID: 632a1290dc229fb4e9d51d84c0ab2db7
+    spriteID: ce99d9f7e94ce9a448d47bfd7b72c0b4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -425,18 +424,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 2995902362
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: -1299064934
+    guid: -332703278
     name: 10-Cannon and Pig
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: 10-Cannon and Pig_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -444,8 +438,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: c8a756985afaa1b47820b0e68e957fb1
-    - name: Frame_1
+      spriteId: 23adb8ed1f36fcb4dae7786cdd619736
+    - name: 10-Cannon and Pig_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -453,8 +447,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: 783a750bf0f361c4eb3f1216483e636d
-    - name: Frame_2
+      spriteId: 9a6a01da990c5ca4da0ca93712c3df4d
+    - name: 10-Cannon and Pig_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -462,8 +456,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: 55fbc31af8eccad4ba2a70f858ec3603
-    - name: Frame_3
+      spriteId: 51f11a32b30040240939a10888cf2aac
+    - name: 10-Cannon and Pig_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -471,8 +465,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: ca5b451b5596aef4785ccd63180c3670
-    - name: Frame_4
+      spriteId: c2dd94910042fa144bfe5316b58bddca
+    - name: 10-Cannon and Pig_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -480,8 +474,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: d580d0f10e83cd8489f524ce03221ef0
-    - name: Frame_5
+      spriteId: 6e630d2fba34f5843972a7795f4e0653
+    - name: 10-Cannon and Pig_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -489,8 +483,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: 80720c263c1c8a742b4f5d561b61eee0
-    - name: Frame_6
+      spriteId: 5403ba842cde82a41b8a0701628d6244
+    - name: 10-Cannon and Pig_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -498,8 +492,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: b491215d71a220c48ad33e19d4154206
-    - name: Frame_7
+      spriteId: 8fbb8a15ef78cd944b235830284caeb4
+    - name: 10-Cannon and Pig_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -507,8 +501,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: 56ab00b2b9298224ea16490992d1be82
-    - name: Frame_8
+      spriteId: 8ad673a318fc7254baa26d33527ef653
+    - name: 10-Cannon and Pig_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -516,8 +510,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: 1569370651b4b904d96ca67d1a9d7de5
-    - name: Frame_9
+      spriteId: 0fa949296ac008241ad2c17ce886b61a
+    - name: 10-Cannon and Pig_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -525,8 +519,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: 6eb1288e068b38944a232eb083199d2a
-    - name: Frame_10
+      spriteId: 6c22be3cc4afbca44a886cbc80e20d27
+    - name: 10-Cannon and Pig_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -534,8 +528,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: dca6d5b774d20254088444bcb1295d11
-    - name: Frame_11
+      spriteId: d4962d91d49cb764093d5072058c0085
+    - name: 10-Cannon and Pig_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -543,8 +537,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: dde45f40523c4cb48b4c27d35dea9aa5
-    - name: Frame_12
+      spriteId: 70eafdb4c61cc474f8b6d85aef95cdaf
+    - name: 10-Cannon and Pig_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -552,8 +546,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: 85297153b75df1643b16693d62e277c1
-    - name: Frame_13
+      spriteId: 8f604497a42053b469d19e469a729f04
+    - name: 10-Cannon and Pig_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -561,8 +555,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: 31cbe667510aa764a95b56b6dce5fc62
-    - name: Frame_14
+      spriteId: 666aa46aa6e43124792a4ef019b22b1f
+    - name: 10-Cannon and Pig_Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -570,7 +564,7 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 96
-      spriteId: 632a1290dc229fb4e9d51d84c0ab2db7
+      spriteId: ce99d9f7e94ce9a448d47bfd7b72c0b4
     linkedCells: []
     parentIndex: -1
   platformSettings: []
@@ -578,4 +572,3 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 96, y: 96}
-  previousTextureSize: {x: 512, y: 512}

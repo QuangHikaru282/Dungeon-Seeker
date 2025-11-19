@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -133,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 16
       height: 16
-    spriteID: b0c11319eecfd21418d0f478024a1084
+    spriteID: 5c3939ff500d1fd48928e29e0ac06e18
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,7 +152,7 @@ ScriptedImporter:
       y: 100
       width: 12
       height: 16
-    spriteID: 32a7ee2f759e34847b0c61c09bb84c1b
+    spriteID: 8f8857016ccae29479064d5ea41092fa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -173,7 +172,7 @@ ScriptedImporter:
       y: 28
       width: 10
       height: 16
-    spriteID: b9c3e8c27fbb86a429d0bd26a6c047e8
+    spriteID: b2f925de34c11344981a1ab3e97177c6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -193,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 8
       height: 16
-    spriteID: 359dc252a993f8e4a8a478217b86ea20
+    spriteID: e51ec3b5921d9d449b4a2f526a4d1ac3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -213,7 +212,7 @@ ScriptedImporter:
       y: 52
       width: 6
       height: 16
-    spriteID: ec63cebdda8ca4c40b851c75d95a7f82
+    spriteID: df25f22980597e74d9e1e25291912177
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -233,7 +232,7 @@ ScriptedImporter:
       y: 28
       width: 2
       height: 16
-    spriteID: e60b4e5a067b00741a163ee8f59fd718
+    spriteID: f981023f06f4fd940baa92220dc41c04
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,7 +252,7 @@ ScriptedImporter:
       y: 76
       width: 6
       height: 16
-    spriteID: 27684f0f2bb938349b0d5a185d52e306
+    spriteID: 2c20224820e9b5c45b8aeaee5b160d44
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -273,7 +272,7 @@ ScriptedImporter:
       y: 52
       width: 10
       height: 16
-    spriteID: 42942dee6bfe8974d9a7c151d3097af1
+    spriteID: 3f63d1b35eaa0a347914dd0e61915a2f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -293,7 +292,7 @@ ScriptedImporter:
       y: 52
       width: 14
       height: 16
-    spriteID: 6a1df56cb5f6e3d4aaf1a7e175320e76
+    spriteID: a4c0c01b7ea97824f8e452bf0f3df267
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -313,7 +312,7 @@ ScriptedImporter:
       y: 28
       width: 16
       height: 16
-    spriteID: 645c09d9d4d82084ab3a9ba126c99a2e
+    spriteID: 3797019c4dc8cb44e9767fd8d5b796b3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -333,7 +332,7 @@ ScriptedImporter:
       y: 76
       width: 14
       height: 16
-    spriteID: aeabd2713c0f2ba4191b29d55109b2b7
+    spriteID: 22320e26abbdd754ca688056288969ee
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -353,7 +352,7 @@ ScriptedImporter:
       y: 76
       width: 10
       height: 16
-    spriteID: 4c9fbdd967a829a4fa1c8826a1472609
+    spriteID: 9b82bfb713382a142be704893673cc47
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -373,7 +372,7 @@ ScriptedImporter:
       y: 100
       width: 6
       height: 16
-    spriteID: 34951ff57acd034408ec1d4b560e3a7b
+    spriteID: 9a2f799b80dba34408e6125f435978d0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -393,7 +392,7 @@ ScriptedImporter:
       y: 52
       width: 2
       height: 16
-    spriteID: 4c51599aefba1e442a53254df6725b9a
+    spriteID: 65f1b781efd1c3744880ee0a28582909
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -413,7 +412,7 @@ ScriptedImporter:
       y: 4
       width: 6
       height: 16
-    spriteID: 4c3a5219322d8e64eb534f16bf98baac
+    spriteID: 0189a68ac1862a54c887ef02fdbdc9c3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -433,7 +432,7 @@ ScriptedImporter:
       y: 28
       width: 8
       height: 16
-    spriteID: 4fac87f33b4ac164d98a6285c8c5c7bb
+    spriteID: 7dd955c06028c6a42836f50f7a8307e3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -453,7 +452,7 @@ ScriptedImporter:
       y: 100
       width: 10
       height: 16
-    spriteID: a31de403b299ab740b89ef5ea6ab3658
+    spriteID: 1a0a4a0fa31d8e3429a746f0c58d1bec
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -473,7 +472,7 @@ ScriptedImporter:
       y: 4
       width: 12
       height: 16
-    spriteID: 0d6c782dbce849a4eb1d5278465491c1
+    spriteID: da6793e54970fd54983f2669e3f27ac2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -485,18 +484,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 428974351
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 428974351
+    guid: -1495874493
     name: Spinning-Floppy-Disk
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Spinning-Floppy-Disk_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -504,8 +498,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: b0c11319eecfd21418d0f478024a1084
-    - name: Frame_1
+      spriteId: 5c3939ff500d1fd48928e29e0ac06e18
+    - name: Spinning-Floppy-Disk_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -513,8 +507,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 32a7ee2f759e34847b0c61c09bb84c1b
-    - name: Frame_2
+      spriteId: 8f8857016ccae29479064d5ea41092fa
+    - name: Spinning-Floppy-Disk_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -522,8 +516,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: b9c3e8c27fbb86a429d0bd26a6c047e8
-    - name: Frame_3
+      spriteId: b2f925de34c11344981a1ab3e97177c6
+    - name: Spinning-Floppy-Disk_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -531,8 +525,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 359dc252a993f8e4a8a478217b86ea20
-    - name: Frame_4
+      spriteId: e51ec3b5921d9d449b4a2f526a4d1ac3
+    - name: Spinning-Floppy-Disk_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -540,8 +534,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: ec63cebdda8ca4c40b851c75d95a7f82
-    - name: Frame_5
+      spriteId: df25f22980597e74d9e1e25291912177
+    - name: Spinning-Floppy-Disk_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -549,8 +543,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: e60b4e5a067b00741a163ee8f59fd718
-    - name: Frame_6
+      spriteId: f981023f06f4fd940baa92220dc41c04
+    - name: Spinning-Floppy-Disk_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -558,8 +552,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 27684f0f2bb938349b0d5a185d52e306
-    - name: Frame_7
+      spriteId: 2c20224820e9b5c45b8aeaee5b160d44
+    - name: Spinning-Floppy-Disk_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -567,8 +561,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 42942dee6bfe8974d9a7c151d3097af1
-    - name: Frame_8
+      spriteId: 3f63d1b35eaa0a347914dd0e61915a2f
+    - name: Spinning-Floppy-Disk_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -576,8 +570,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 6a1df56cb5f6e3d4aaf1a7e175320e76
-    - name: Frame_9
+      spriteId: a4c0c01b7ea97824f8e452bf0f3df267
+    - name: Spinning-Floppy-Disk_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -585,8 +579,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 645c09d9d4d82084ab3a9ba126c99a2e
-    - name: Frame_10
+      spriteId: 3797019c4dc8cb44e9767fd8d5b796b3
+    - name: Spinning-Floppy-Disk_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -594,8 +588,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: aeabd2713c0f2ba4191b29d55109b2b7
-    - name: Frame_11
+      spriteId: 22320e26abbdd754ca688056288969ee
+    - name: Spinning-Floppy-Disk_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -603,8 +597,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 4c9fbdd967a829a4fa1c8826a1472609
-    - name: Frame_12
+      spriteId: 9b82bfb713382a142be704893673cc47
+    - name: Spinning-Floppy-Disk_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -612,8 +606,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 34951ff57acd034408ec1d4b560e3a7b
-    - name: Frame_13
+      spriteId: 9a2f799b80dba34408e6125f435978d0
+    - name: Spinning-Floppy-Disk_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -621,8 +615,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 4c51599aefba1e442a53254df6725b9a
-    - name: Frame_14
+      spriteId: 65f1b781efd1c3744880ee0a28582909
+    - name: Spinning-Floppy-Disk_Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -630,8 +624,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 4c3a5219322d8e64eb534f16bf98baac
-    - name: Frame_15
+      spriteId: 0189a68ac1862a54c887ef02fdbdc9c3
+    - name: Spinning-Floppy-Disk_Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -639,8 +633,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 4fac87f33b4ac164d98a6285c8c5c7bb
-    - name: Frame_16
+      spriteId: 7dd955c06028c6a42836f50f7a8307e3
+    - name: Spinning-Floppy-Disk_Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -648,8 +642,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: a31de403b299ab740b89ef5ea6ab3658
-    - name: Frame_17
+      spriteId: 1a0a4a0fa31d8e3429a746f0c58d1bec
+    - name: Spinning-Floppy-Disk_Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -657,7 +651,7 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 0d6c782dbce849a4eb1d5278465491c1
+      spriteId: da6793e54970fd54983f2669e3f27ac2
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -677,4 +671,3 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 16, y: 16}
-  previousTextureSize: {x: 128, y: 128}
