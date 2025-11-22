@@ -382,6 +382,10 @@ MonoBehaviour:
   networkRunner: {fileID: 0}
   playerPrefab:
     RawGuidValue: 5af87249c16785c4f95194d0201eb23a
+  coinPrefab:
+    RawGuidValue: 89956d91f54961745b8c94f795233c1a
+  enemyPrefab:
+    RawGuidValue: 6a4968e59503d47408d2f9874d067e87
 --- !u!4 &694082375
 Transform:
   m_ObjectHideFlags: 0

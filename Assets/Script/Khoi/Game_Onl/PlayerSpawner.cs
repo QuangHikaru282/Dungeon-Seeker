@@ -11,7 +11,7 @@ public class PlayerSpawner : SimulationBehaviour, IPlayerJoined
     {
         if(player == Runner.LocalPlayer)
         {
-            var spawnPosition = new Vector3(Random.Range(-5f, 5f), 0f, 0f);
+            var spawnPosition = new Vector3(Random.Range(-10f, -8f), 9, 0);
             Runner.Spawn(
                 playerPrefab,
                 spawnPosition,

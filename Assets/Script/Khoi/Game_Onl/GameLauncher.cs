@@ -14,6 +14,8 @@ public class GameLauncher : MonoBehaviour, INetworkRunnerCallbacks
     public NetworkRunner networkRunner;
 
     public NetworkPrefabRef playerPrefab;
+    public NetworkPrefabRef coinPrefab;
+    public NetworkPrefabRef enemyPrefab;
     void Start()
     {
         playGameButton.onClick.AddListener(ConnectToGame);
@@ -39,10 +41,16 @@ public class GameLauncher : MonoBehaviour, INetworkRunnerCallbacks
         
         networkRunner.ProvideInput = true;
 
-        var spawner = gameObject.AddComponent<PlayerSpawner>();
-        spawner.playerPrefab = playerPrefab;
+        var playerSpawner = gameObject.AddComponent<PlayerSpawner>();
+        playerSpawner.playerPrefab = playerPrefab;
 
-        networkRunner.AddCallbacks(this);
+        var coinSpawner = gameObject.AddComponent<CoinSpawner>();
+        coinSpawner.coinPrefab = coinPrefab;
+
+        var enemySpawner = gameObject.AddComponent<CoinSpawner>();
+        enemySpawner.coinPrefab = enemyPrefab;
+
+        //networkRunner.AddCallbacks(this);
         var scene = SceneRef.FromIndex(1);
         var sceneInfo = new NetworkSceneInfo();
         if (scene.IsValid)
