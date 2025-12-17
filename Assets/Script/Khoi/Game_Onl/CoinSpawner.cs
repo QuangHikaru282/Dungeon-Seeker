@@ -12,10 +12,8 @@ public class CoinSpawner : SimulationBehaviour, ISceneLoadDone
         var spawnPosition = new Vector3[]
         {
             new Vector3(Random.Range(-15f, -2f), 9, 0),
-            new Vector3(Random.Range(-15f, -2f), 10, 0),
-            new Vector3(Random.Range(-15f, -2f), 11, 0),
-            new Vector3(Random.Range(-15f, -2f), 12, 0),
-            new Vector3(Random.Range(-15f, -2f), 13, 0),
+            new Vector3(Random.Range(-15f, -2f), 10, 0)
+         
         };
         if (Runner.IsSharedModeMasterClient)
         {
