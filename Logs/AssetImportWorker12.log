@@ -1,0 +1,543 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.45f1 (a13dfa44d684) revision 10567162'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit CoreSingleLanguage' Language: 'vi' Physical Memory: 16163 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.45f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker12
+-projectPath
+D:/DN/UNITY/Solo-Abyss
+-logFile
+Logs/AssetImportWorker12.log
+-srvPort
+55757
+Successfully changed project path to: D:/DN/UNITY/Solo-Abyss
+D:/DN/UNITY/Solo-Abyss
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [23212]  Target information:
+
+Player connection [23212]  * "[IP] 26.253.110.139 [Port] 0 [Flags] 2 [Guid] 3967608185 [EditorId] 3967608185 [Version] 1048832 [Id] WindowsEditor(7,GIGABYTE_G5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23212]  * "[IP] 192.168.1.10 [Port] 0 [Flags] 2 [Guid] 3967608185 [EditorId] 3967608185 [Version] 1048832 [Id] WindowsEditor(7,GIGABYTE_G5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23212] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [23212] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 6.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.45f1 (a13dfa44d684)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/DN/UNITY/Solo-Abyss/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   32.0.15.9186
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007501 seconds.
+- Loaded All Assemblies, in  0.335 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 227 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.508 seconds
+Domain Reload Profiling: 842ms
+	BeginReloadAssembly (93ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (143ms)
+		LoadAssemblies (91ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (141ms)
+			TypeCache.Refresh (139ms)
+				TypeCache.ScanAssembly (123ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (509ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (465ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (299ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (118ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.478 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.514 seconds
+Domain Reload Profiling: 991ms
+	BeginReloadAssembly (142ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (255ms)
+		LoadAssemblies (231ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (101ms)
+			TypeCache.Refresh (76ms)
+				TypeCache.ScanAssembly (67ms)
+			ScanForSourceGeneratedMonoScriptInfo (13ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (515ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (370ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (190ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3219 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (414.1 KB). Loaded Objects now: 3694.
+Memory consumption went from 185.2 MB to 184.8 MB.
+Total: 3.165400 ms (FindLiveObjects: 0.262600 ms CreateObjectMapping: 0.087700 ms MarkObjects: 2.624900 ms  DeleteObjects: 0.188600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/UIParticleSystem.cs: 75704037c35ba7eeff779d77cdf4ef02 -> ae9d428231ed39e0620c5c4869aebe89
+  custom:scripting/monoscript/fileName/PanelControl.cs: a3041f590ce3bb9956463a52f741e4df -> 02e56fdb1f44a3296f5290b5dcaa9121
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/PanelView.cs: 6691c2d35e5e4bfaf63d481d72d2130a -> d2deaee66b7a61da10ffeed4fd8cb200
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Import Request.
+  Time since last request: 16625.012364 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Circle01_White.prefab
+  artifactKey: Guid(9baa26b2b172141588387aa854b84640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Circle01_White.prefab using Guid(9baa26b2b172141588387aa854b84640) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '69590c4e11df5f3e4815ed5988ee73fb') in 0.061814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 34
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_01_Convex-Group.prefab
+  artifactKey: Guid(34ead769ddd324caaaf009e88e1cc37e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_01_Convex-Group.prefab using Guid(34ead769ddd324caaaf009e88e1cc37e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '356253a5aeb070380087fc98ff673251') in 0.041786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 155
+========================================================================
+Received Import Request.
+  Time since last request: 7.411639 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 28 SDF.asset
+  artifactKey: Guid(27f54c9130c9748c9be53df11fa03382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 28 SDF.asset using Guid(27f54c9130c9748c9be53df11fa03382) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a14de11400593cbab306337cc5be77d5') in 0.352104 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 72 SDF Atlas.png
+  artifactKey: Guid(a2317bed91fc9498383c8fa5e80703b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 72 SDF Atlas.png using Guid(a2317bed91fc9498383c8fa5e80703b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2e3a36f0f54fb3ade46f5a1c9077581c') in 0.039823 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 50 SDF.asset
+  artifactKey: Guid(dd883a248fced426693e05d482ebc9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 50 SDF.asset using Guid(dd883a248fced426693e05d482ebc9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '435cd3b17aff1f90faacc19ba579cb22') in 0.037470 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 32 SDF Atlas.png
+  artifactKey: Guid(883e18eec575e4397badc8155eaf05d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 32 SDF Atlas.png using Guid(883e18eec575e4397badc8155eaf05d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f8cfddfe67c94e9184d050b5efda5c66') in 0.022427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 120 SDF.asset
+  artifactKey: Guid(0b51dbee9f2f047cebc9e85675fb05d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/Alata-Regular-Outline 120 SDF.asset using Guid(0b51dbee9f2f047cebc9e85675fb05d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '174db2d652f488a972bde0c37f9a7d7b') in 0.065401 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 100.758431 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle-Group.prefab
+  artifactKey: Guid(b306f89f672494f0793711f4ff74be31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle-Group.prefab using Guid(b306f89f672494f0793711f4ff74be31) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '50216473392516787079b9dfccb7f4ed') in 0.012171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_Green.prefab
+  artifactKey: Guid(73944a13a9d5b4398b38d7cc4d443a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_Green.prefab using Guid(73944a13a9d5b4398b38d7cc4d443a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b132550b551e9bbbcee67aa0ae244716') in 0.002089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_Orange.prefab
+  artifactKey: Guid(f614290f1900240adbed1a39bba1b2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_Orange.prefab using Guid(f614290f1900240adbed1a39bba1b2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '29164266fb3a3f130d1a0fb6877139f2') in 0.002427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.007636 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_Red.prefab
+  artifactKey: Guid(75251bdd39396472f99c4f288df81f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_Red.prefab using Guid(75251bdd39396472f99c4f288df81f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6d2c43ad3f61a495410a8ad97cbfe398') in 0.002290 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_White.prefab
+  artifactKey: Guid(8a7bd8cbcbca44bfaaceb53de757cb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_White.prefab using Guid(8a7bd8cbcbca44bfaaceb53de757cb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '95f9eeb92f70fa3114d976cbdfaf8b4e') in 0.002074 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Tapered_Gray.prefab
+  artifactKey: Guid(b09aec929a88a4fec92d35414c653c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Tapered_Gray.prefab using Guid(b09aec929a88a4fec92d35414c653c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7a6e3f122257c384bf0677aceebd6558') in 0.002758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Batteary.prefab
+  artifactKey: Guid(1e9d2298f772a426a93952216970473a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Batteary.prefab using Guid(1e9d2298f772a426a93952216970473a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0c75fb5f3e251243408469ac56a160fd') in 0.014153 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.002422 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_01_Demo.prefab
+  artifactKey: Guid(71e2fee2a57804bcbbd496f4cfa480b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_01_Demo.prefab using Guid(71e2fee2a57804bcbbd496f4cfa480b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '12fb20986a55f4131693fad27da927e7') in 0.037034 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 37
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_02_White.prefab
+  artifactKey: Guid(06ba9a8f09d6b4aa59806203417e4754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_02_White.prefab using Guid(06ba9a8f09d6b4aa59806203417e4754) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cf2f4069ead4630abbba01ae8965a6fc') in 0.022536 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 35
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_02_Demo.prefab
+  artifactKey: Guid(c94ad9f1d88ea49a892364c1cabe414f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_02_Demo.prefab using Guid(c94ad9f1d88ea49a892364c1cabe414f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3699e3f6f30ad3e0cf323624f9535151') in 0.014238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 36
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_01_White.prefab
+  artifactKey: Guid(a448e4f492fca4eb194b801cd6d75dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_01_White.prefab using Guid(a448e4f492fca4eb194b801cd6d75dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '01df5eaa26710914e0594591ab7bcd44') in 0.003544 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 35
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_Pink.prefab
+  artifactKey: Guid(f73984abc34be4cd68afc7cfe17567da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_Pink.prefab using Guid(f73984abc34be4cd68afc7cfe17567da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd866e6070883750acd2e8c186f66903e') in 0.002565 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_Tapered_01_White.prefab
+  artifactKey: Guid(4322cb0cbf6b54ea3940080b74975589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_Tapered_01_White.prefab using Guid(4322cb0cbf6b54ea3940080b74975589) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '74e334e31f43fffdb288dbd5e73dc298') in 0.006697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Tapered_White.prefab
+  artifactKey: Guid(9d15a8d61539b4fc5ae631ac35e1f023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Tapered_White.prefab using Guid(9d15a8d61539b4fc5ae631ac35e1f023) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd3b00dcae4e3ae2f4cc1e77833aea0c6') in 0.003218 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_Tapered_01_Yellow.prefab
+  artifactKey: Guid(3244e81f6a36842208618a4c786c4a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_Tapered_01_Yellow.prefab using Guid(3244e81f6a36842208618a4c786c4a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '923bec4e7d74d63f6824a7684e7f79d7') in 0.003289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_03_Demo.prefab
+  artifactKey: Guid(a0adb11fc5a964135955af02cd36317f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_03_Demo.prefab using Guid(a0adb11fc5a964135955af02cd36317f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a7ed47b7cdc9b00f5da847571dfa329d') in 0.038860 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 43
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_Blue.prefab
+  artifactKey: Guid(7664d2619d4df4d938be17b5429b26e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Basic_Rectangle_Blue.prefab using Guid(7664d2619d4df4d938be17b5429b26e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3ac2b60967d0d4b095705cbaf4e7134f') in 0.003451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_03_White.prefab
+  artifactKey: Guid(2f6de912d8ba74fe0b2b0d07ca768aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_EdgeDeco_03_White.prefab using Guid(2f6de912d8ba74fe0b2b0d07ca768aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8b7773714d7cb719c48fd83fb345d929') in 0.012231 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 42
+========================================================================
+Received Import Request.
+  Time since last request: 13.083971 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_Tapered_03_Demo.prefab
+  artifactKey: Guid(4736d3bde5ef6474eaf17379eaeb6bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Border_Tapered_03_Demo.prefab using Guid(4736d3bde5ef6474eaf17379eaeb6bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5dad9ac6b713207f9e31193293856872') in 0.003564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Handle_Demo.prefab
+  artifactKey: Guid(ce554e47e349146d8a72792b1d97e16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Handle_Demo.prefab using Guid(ce554e47e349146d8a72792b1d97e16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '08169c06abf2ed1c20712db525866995') in 0.003434 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 35
+========================================================================
+Received Import Request.
+  Time since last request: 10.368998 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Level_l_Demo.prefab
+  artifactKey: Guid(ea8d0a1b3d2e84d1c93fc39a472196c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Slider/Slider_Level_l_Demo.prefab using Guid(ea8d0a1b3d2e84d1c93fc39a472196c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'de657877875e7ad8919427f53e3802d2') in 0.010572 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 58
+========================================================================
+Received Import Request.
+  Time since last request: 16.279801 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_EdgeDeco_01_Demo_Fill.png
+  artifactKey: Guid(5649518a0104c4fdda2a3d3d0d10ad55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_EdgeDeco_01_Demo_Fill.png using Guid(5649518a0104c4fdda2a3d3d0d10ad55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '79fad8be6d23555046bde0773946ca5e') in 0.019487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_EdgeDeco_02_Border_DecoBottom.png
+  artifactKey: Guid(a92e4a6dc765b4dd498f1f563d32c535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_EdgeDeco_02_Border_DecoBottom.png using Guid(a92e4a6dc765b4dd498f1f563d32c535) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '69a22ded40299537cad2e857d60e1aa8') in 0.021566 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_Tapered_03_Border.png
+  artifactKey: Guid(81bb9397c42dc422d86b3ccafcf50f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_Tapered_03_Border.png using Guid(81bb9397c42dc422d86b3ccafcf50f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7108ce8b9f329934948db0a470474a0e') in 0.019509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_Tapered_01_FillArea.png
+  artifactKey: Guid(a11469027685846499313829caca405e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_Tapered_01_FillArea.png using Guid(a11469027685846499313829caca405e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ebc5a5892bdec1f8bb8493fbecf54e3d') in 0.018460 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_Tapered_02_Bg.png
+  artifactKey: Guid(6cf2547a8d1a84c7695ce601dc32d44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_Tapered_02_Bg.png using Guid(6cf2547a8d1a84c7695ce601dc32d44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8d94033c3c07552908c9b286e4ffab5f') in 0.020820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_EdgeDeco_03_Border.png
+  artifactKey: Guid(9ad0c7e01f6b8448e887bdf16932ba60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_EdgeDeco_03_Border.png using Guid(9ad0c7e01f6b8448e887bdf16932ba60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '314d64f06203dfb7fe1fa5ec814db223') in 0.018463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 37.447229 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_Tapered_03_FillArea.png
+  artifactKey: Guid(a3611921e3a8b40429dfdda886b2ac7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Sprites/Component/Slider/Slider_Border_Tapered_03_FillArea.png using Guid(a3611921e3a8b40429dfdda886b2ac7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f724b096146dfa0467c37d1572bbec09') in 0.022305 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 46.648733 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/PlayCombo Atlas.png
+  artifactKey: Guid(8a839e976604c4b6aac54921c27ae251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/PlayCombo Atlas.png using Guid(8a839e976604c4b6aac54921c27ae251) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '85475c3455610e7253552ee061bc6f4d') in 0.022589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/PlayGold Atlas.png
+  artifactKey: Guid(0d2319da12a0c4e6fa6a98fb3c6c19e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/ResourcesData/Fonts/PlayGold Atlas.png using Guid(0d2319da12a0c4e6fa6a98fb3c6c19e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c0d543e3b65a6f82d7bd28a549230caa') in 0.020166 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
