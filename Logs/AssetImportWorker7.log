@@ -1,0 +1,397 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.45f1 (a13dfa44d684) revision 10567162'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit CoreSingleLanguage' Language: 'vi' Physical Memory: 16163 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.45f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+D:/DN/UNITY/Solo-Abyss
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+55757
+Successfully changed project path to: D:/DN/UNITY/Solo-Abyss
+D:/DN/UNITY/Solo-Abyss
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [16348]  Target information:
+
+Player connection [16348]  * "[IP] 26.253.110.139 [Port] 0 [Flags] 2 [Guid] 2541795827 [EditorId] 2541795827 [Version] 1048832 [Id] WindowsEditor(7,GIGABYTE_G5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16348]  * "[IP] 192.168.1.10 [Port] 0 [Flags] 2 [Guid] 2541795827 [EditorId] 2541795827 [Version] 1048832 [Id] WindowsEditor(7,GIGABYTE_G5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16348] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [16348] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 4.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.45f1 (a13dfa44d684)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/DN/UNITY/Solo-Abyss/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   32.0.15.9186
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008136 seconds.
+- Loaded All Assemblies, in  0.363 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 248 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.561 seconds
+Domain Reload Profiling: 922ms
+	BeginReloadAssembly (100ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (155ms)
+		LoadAssemblies (98ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (153ms)
+			TypeCache.Refresh (151ms)
+				TypeCache.ScanAssembly (137ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (562ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (516ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (334ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (128ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.567 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.625 seconds
+Domain Reload Profiling: 1190ms
+	BeginReloadAssembly (156ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (315ms)
+		LoadAssemblies (262ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (137ms)
+			TypeCache.Refresh (108ms)
+				TypeCache.ScanAssembly (97ms)
+			ScanForSourceGeneratedMonoScriptInfo (15ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (625ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (442ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (83ms)
+			ProcessInitializeOnLoadAttributes (226ms)
+			ProcessInitializeOnLoadMethodAttributes (97ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3219 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (413.8 KB). Loaded Objects now: 3693.
+Memory consumption went from 185.1 MB to 184.7 MB.
+Total: 2.534800 ms (FindLiveObjects: 0.222500 ms CreateObjectMapping: 0.077000 ms MarkObjects: 2.089900 ms  DeleteObjects: 0.143900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/UIParticleSystem.cs: 75704037c35ba7eeff779d77cdf4ef02 -> ae9d428231ed39e0620c5c4869aebe89
+  custom:scripting/monoscript/fileName/PanelControl.cs: a3041f590ce3bb9956463a52f741e4df -> 02e56fdb1f44a3296f5290b5dcaa9121
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/PanelView.cs: 6691c2d35e5e4bfaf63d481d72d2130a -> d2deaee66b7a61da10ffeed4fd8cb200
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Import Request.
+  Time since last request: 15112.106533 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_01_Convex_White.prefab
+  artifactKey: Guid(cd3bf1a52d644407db1d31a67d1d2192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_01_Convex_White.prefab using Guid(cd3bf1a52d644407db1d31a67d1d2192) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '87e65dff732d288b6f5ebe8f162351d9') in 0.055517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 32
+========================================================================
+Received Import Request.
+  Time since last request: 1.095065 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_04_Gray.prefab
+  artifactKey: Guid(78c6b32765e3a475199335453bb2ee18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_04_Gray.prefab using Guid(78c6b32765e3a475199335453bb2ee18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5af835db3bc3c6fd581c61d2771de947') in 0.016062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 53.582234 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Circle02_Dark.prefab
+  artifactKey: Guid(af7b834b85b904b0b90a0d2b8f4f3fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Circle02_Dark.prefab using Guid(af7b834b85b904b0b90a0d2b8f4f3fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4580933b1e91633bb1c100edd922003f') in 0.007682 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_01_Flat_Dark.prefab
+  artifactKey: Guid(ee0e2cce7593d41a098ac184a329b12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_01_Flat_Dark.prefab using Guid(ee0e2cce7593d41a098ac184a329b12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '36e895d621ea4615dc3c1a3d7fbf6de2') in 0.009456 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_01_Convex_Yellow.prefab
+  artifactKey: Guid(48bece32f83aa48b9a4ce11bbd6180bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_01_Convex_Yellow.prefab using Guid(48bece32f83aa48b9a4ce11bbd6180bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6e4b547029c442bd50da5bea01dfa127') in 0.010404 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 6.891580 seconds.
+  path: Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_05_Deco_Yellow.prefab
+  artifactKey: Guid(1ca1d9074c1674180b8a9260d5944fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Assets/Layer Lab/GUI Pro-FantasyRPG/Prefabs/Prefabs_Component_Buttons/Button_Rectangle_05_Deco_Yellow.prefab using Guid(1ca1d9074c1674180b8a9260d5944fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd94e12317e25001abf3b23801583e005') in 0.008167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 252.214364 seconds.
+  path: Assets/IMG/Player/dashwhite.png
+  artifactKey: Guid(824523522b7f88247b80aa9940454920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/dashwhite.png using Guid(824523522b7f88247b80aa9940454920) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '40b48371b9c90dff54d881b3a09a48b9') in 0.077604 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/IMG/Player/dashwhite2.png
+  artifactKey: Guid(d348f753b06d6be4491ef6cee2e430bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/dashwhite2.png using Guid(d348f753b06d6be4491ef6cee2e430bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1ac9e7e462f0ca2d01d676fc2adaf50b') in 0.018016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 111.752485 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack-3-end-01.png
+  artifactKey: Guid(32f82f5b26f7c764d9d129ac661e64cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack-3-end-01.png using Guid(32f82f5b26f7c764d9d129ac661e64cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7561a1fb87b3018816cb81d56fb78894') in 0.017022 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack1-00.png
+  artifactKey: Guid(c81b2c04ff1b32643a04f47ea4665987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack1-00.png using Guid(c81b2c04ff1b32643a04f47ea4665987) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5faa4afe2201234b3ec91dcb44b1e9dd') in 0.015333 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack1-01.png
+  artifactKey: Guid(29409a1b4c12dcc48aa252b8446cd2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack1-01.png using Guid(29409a1b4c12dcc48aa252b8446cd2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '44f5becf3a165979159e96bd17c0eeb3') in 0.016617 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack2-01.png
+  artifactKey: Guid(18ea85e094b2b5046bb5d60b397659cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack2-01.png using Guid(18ea85e094b2b5046bb5d60b397659cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e21ef4433cf243c1fa7edf9f90ef9369') in 0.016547 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack3-loop-00.png
+  artifactKey: Guid(654fff046c78d9f49ba84b3c912aa0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack3-loop-00.png using Guid(654fff046c78d9f49ba84b3c912aa0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '17777bd13aa69bfcff8eb1697dd74810') in 0.019767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack1-01.png
+  artifactKey: Guid(e20a9637790b615439b053220f71a5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack1-01.png using Guid(e20a9637790b615439b053220f71a5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cc1dee3bde8f78052a264bc403490cc1') in 0.019148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002101 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack3-rdy-00.png
+  artifactKey: Guid(1e03bdfb941cca24aae27fb11a3e5b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-air-attack3-rdy-00.png using Guid(1e03bdfb941cca24aae27fb11a3e5b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1710fed7895f9172fb9b72f6880d15af') in 0.021867 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack2-00.png
+  artifactKey: Guid(30f02bb5c32240e40be23760d00723b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack2-00.png using Guid(30f02bb5c32240e40be23760d00723b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9a3be6aa6e4121051a038f825b0c3318') in 0.017895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack1-02.png
+  artifactKey: Guid(715e7a901cb46c04f947b0d4d737c825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack1-02.png using Guid(715e7a901cb46c04f947b0d4d737c825) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ce761ef3928702d407d2e1c5a67050a3') in 0.018495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.120905 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack2-04.png
+  artifactKey: Guid(755cfbfe5cdddee4e81d86ff19050e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack2-04.png using Guid(755cfbfe5cdddee4e81d86ff19050e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '58e26cdb97627cb05466943e2ab9f40a') in 0.019000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack3-00.png
+  artifactKey: Guid(8bbddec7d93990e48946cc16e811fec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack3-00.png using Guid(8bbddec7d93990e48946cc16e811fec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '01c5b834d176af86f8ca4716be7618d4') in 0.020167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000843 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack3-02.png
+  artifactKey: Guid(3a167744a6c24ca4588438d913a31bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack3-02.png using Guid(3a167744a6c24ca4588438d913a31bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7e7b6b154b74c83d623ec12434ae6fe0') in 0.019246 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001903 seconds.
+  path: Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack3-05.png
+  artifactKey: Guid(fd914d9b6c571294aa125c3ed96c736d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Player/Adventurer-1.5/Individual Sprites/adventurer-attack3-05.png using Guid(fd914d9b6c571294aa125c3ed96c736d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '31fb288cfccd9e3a7b0a0d743e535588') in 0.018521 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
