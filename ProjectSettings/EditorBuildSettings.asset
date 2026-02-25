@@ -5,22 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/TestingMap.unity
-    guid: 2e66cb57e5361e14780a6f9e513dd389
   - enabled: 1
-    path: Assets/Scenes/scene_Begin.unity
-    guid: 025a9d24191799944a9ed307a7979c16
-  - enabled: 0
-    path: Assets/Scenes/scene1 - Khoi/scene1.unity
-    guid: 9f9bf13e9f656884fb4ea53b6c40e82f
-  - enabled: 0
-    path: Assets/Scenes/scene2.unity
-    guid: 47b7b22191471664aac235a44d447b4f
-  - enabled: 0
-    path: Assets/Scenes/scene1_Quang.unity
-    guid: 2da02a576fcf9fb42be357713b64ccdb
+    path: Assets/Scenes/Scene_Menu.unity
+    guid: a29bc1fcf0ff9014dbee050e3a9db535
   - enabled: 1
-    path: Assets/Scenes/scene1/scene1_Khoi.unity
-    guid: 9eb7f5cc183c10f40b42e09961753c2a
+    path: Assets/Scenes/Scene_Level1.unity
+    guid: c0dbdd0acfb46f149a460c17f852ff77
   m_configObjects: {}

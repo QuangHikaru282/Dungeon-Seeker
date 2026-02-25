@@ -377,3 +377,338 @@ Start importing Assets/Scenes/Scene_Menu.unity using Guid(a29bc1fcf0ff9014dbee05
  -> (artifact id: 'bc965e5f06192d6cc236d2ac2f118abb') in 0.000587 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 368.942148 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_0_Component_1.png
+  artifactKey: Guid(196abfa3568cf4496adde6ed17804ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_0_Component_1.png using Guid(196abfa3568cf4496adde6ed17804ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f3a8aaeedeef4f6f7ea873eda02c12ff') in 0.059083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_0_Component_Ribbon.png
+  artifactKey: Guid(97bbabd4eadfe4e43bbe830e4587eb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_0_Component_Ribbon.png using Guid(97bbabd4eadfe4e43bbe830e4587eb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '658a6fc811e451e3a27b769de10a6be8') in 0.020764 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_03_Offline.png
+  artifactKey: Guid(37054dfe89d044306b22363aefe83402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_03_Offline.png using Guid(37054dfe89d044306b22363aefe83402) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '89e8d692492bf05cd0e3d75378775ad0') in 0.019795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_1_Chest_1.png
+  artifactKey: Guid(136dbcd7c3e5a482fafe9d9d5811d390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_1_Chest_1.png using Guid(136dbcd7c3e5a482fafe9d9d5811d390) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'af52d7850b82d22788615c4a0a92dde8') in 0.034706 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_01_LoadingBar.png
+  artifactKey: Guid(6f833260e13574a14a3218f8399ddac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_01_LoadingBar.png using Guid(6f833260e13574a14a3218f8399ddac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'adee00bb6fa0b7e7a9e681c7f21b7065') in 0.019747 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/03_Home.png
+  artifactKey: Guid(13156bbde70784988b277ce9ff07fddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/03_Home.png using Guid(13156bbde70784988b277ce9ff07fddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7fff8d2796ef81f7502c24d481efea2e') in 0.019708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/01_Title.png
+  artifactKey: Guid(29d8b5bed5fd943ee83a2bc9affeaa63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/01_Title.png using Guid(29d8b5bed5fd943ee83a2bc9affeaa63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e30a2c55a3ae235f9ae2f1188785fc4b') in 0.022280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_1_Gems.png
+  artifactKey: Guid(f2e3aa5b7db87456e8ba6a041d38be64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_1_Gems.png using Guid(f2e3aa5b7db87456e8ba6a041d38be64) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '113b43c5e61a53297636acb79475ba38') in 0.021798 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/01_TitleStart.png
+  artifactKey: Guid(d2caae5a8d0ea47978b09744d9b5fb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/01_TitleStart.png using Guid(d2caae5a8d0ea47978b09744d9b5fb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '21c7c8afbe1dd2b8d54cf34c9ac6807a') in 0.021205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_1_Icons_PictoIcons.png
+  artifactKey: Guid(8321472adf46f4b82bdf49d12cff1900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_1_Icons_PictoIcons.png using Guid(8321472adf46f4b82bdf49d12cff1900) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6ba257ecde3fc1692f552bdac99ec9ab') in 0.038860 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/02_Login.png
+  artifactKey: Guid(47770121e8fb34ee8a442a55abc45e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/02_Login.png using Guid(47770121e8fb34ee8a442a55abc45e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0c694a9ddae97450b51a1ad37a4928c2') in 0.021981 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_1_Icons_ItemIcons_1.png
+  artifactKey: Guid(850bc4a3d8a3247158cfe806189cb498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/00_1_Icons_ItemIcons_1.png using Guid(850bc4a3d8a3247158cfe806189cb498) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f84f00690a7315a5d5c75aa0003a4111') in 0.020620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.325862 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/04_CharacterTutorialChat.png
+  artifactKey: Guid(80c99d12e9de5428cbf31f173ed454bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/04_CharacterTutorialChat.png using Guid(80c99d12e9de5428cbf31f173ed454bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bc451c09d9c9e36310c169d0fc9d50e7') in 0.023058 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/06_Character.png
+  artifactKey: Guid(9f2c77b0194704204af0ccd07bfc035f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/06_Character.png using Guid(9f2c77b0194704204af0ccd07bfc035f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '219306bcb8a731df01f4ee1cf2563d21') in 0.022281 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/07_Equipment.png
+  artifactKey: Guid(a9eedacd4da1645e6860f9d1e997ab24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/07_Equipment.png using Guid(a9eedacd4da1645e6860f9d1e997ab24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ecaa8735e197aebee6d7d1c0e9df704e') in 0.026679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.325010 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/08_GuideBook.png
+  artifactKey: Guid(4e0cdc1402cd840af9a7eeeb7562e526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/08_GuideBook.png using Guid(4e0cdc1402cd840af9a7eeeb7562e526) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ac2c3b4576e04c3a04cf830c24725256') in 0.020280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/13_PlayBoss.png
+  artifactKey: Guid(dba8820330d7241b9bd82961060e9d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/13_PlayBoss.png using Guid(dba8820330d7241b9bd82961060e9d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b90f4d1ff7370d9ca3ee180536b7f6bd') in 0.021496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/10_PlayType1.png
+  artifactKey: Guid(b96a4603520054db38563a8bc98c73f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/10_PlayType1.png using Guid(b96a4603520054db38563a8bc98c73f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'caa3b8506346d5618a426af783763dd0') in 0.021287 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/16_PlayResult.png
+  artifactKey: Guid(965cfb1b473d242a88437254c7ad943f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/16_PlayResult.png using Guid(965cfb1b473d242a88437254c7ad943f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '40670da593e1a6e01e8081359ed963d5') in 0.021612 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/23_ADRemove.png
+  artifactKey: Guid(6cdd085d9e1964d178d900b7714b1476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/23_ADRemove.png using Guid(6cdd085d9e1964d178d900b7714b1476) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4f09b3cf3aea0830b9af9d2352f0720a') in 0.020863 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/25_RewardDaily.png
+  artifactKey: Guid(9294969d50fb14d2a995059101b9a16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/25_RewardDaily.png using Guid(9294969d50fb14d2a995059101b9a16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e25de45e1393f0b91bc0e71e195e6b71') in 0.020913 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/19_Language.png
+  artifactKey: Guid(adf117033075c4652a1acd9b90ebada6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/19_Language.png using Guid(adf117033075c4652a1acd9b90ebada6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c5d2eb31329ed15a7687cb8e8bf69b4a') in 0.019850 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/15_PlayPause.png
+  artifactKey: Guid(b8b6f09751b414d3e98b7d64e78b9b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/15_PlayPause.png using Guid(b8b6f09751b414d3e98b7d64e78b9b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6ead6e3f7e7c35ab44f029288222373c') in 0.024515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/21_Shop_Gem.png
+  artifactKey: Guid(6ab7d5f962a9f43d289408f3b944afd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/21_Shop_Gem.png using Guid(6ab7d5f962a9f43d289408f3b944afd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1bc8c87b6429862f0ef5678e02c121a7') in 0.020383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/21_Shop_Gold.png
+  artifactKey: Guid(f295052c36f784876b2f417d8f167bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/21_Shop_Gold.png using Guid(f295052c36f784876b2f417d8f167bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '71f3c1b00943d7936ab544118ba71a89') in 0.020329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/20_Missions.png
+  artifactKey: Guid(289bb364f23624694839d46f711eaaa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/20_Missions.png using Guid(289bb364f23624694839d46f711eaaa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cfd8add36b74541d0c242444de053c7d') in 0.018885 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.120220 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/27_Roulette.png
+  artifactKey: Guid(fef97773881ab448a85a185099570b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/27_Roulette.png using Guid(fef97773881ab448a85a185099570b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a3fdd7f64fecd30b60212a75cedbfb7a') in 0.021608 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/99_PopupChecking.png
+  artifactKey: Guid(ffcc9ca14e13340e99c8394276b68b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/99_PopupChecking.png using Guid(ffcc9ca14e13340e99c8394276b68b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e1bc63dcefb6cd07ac72ac8265fff8fe') in 0.019975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/99_PopupEUALPrivacy.png
+  artifactKey: Guid(c134bcb9e684948e189432ceafa6dbd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quan/Asset/Layer Lab/GUI Pro-FantasyRPG/Preview/99_PopupEUALPrivacy.png using Guid(c134bcb9e684948e189432ceafa6dbd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2f1eacd64aa63d91b1a0d14965bd2b5c') in 0.020719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1864.525617 seconds.
+  path: Assets/Scenes/TestingMap.unity
+  artifactKey: Guid(2e66cb57e5361e14780a6f9e513dd389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TestingMap.unity using Guid(2e66cb57e5361e14780a6f9e513dd389) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '38c4a4dce837334bb9339c1825d07df5') in 0.001768 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.359678 seconds.
+  path: Assets/Scenes/TestingMap_new.unity
+  artifactKey: Guid(11f538fe771598d47851d6de684ed40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TestingMap_new.unity using Guid(11f538fe771598d47851d6de684ed40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '868aee4c18cd8223ffecefe0a7711f3e') in 0.000749 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 31.140696 seconds.
+  path: Assets/Scenes/scene1_Quang 1.unity
+  artifactKey: Guid(c0dbdd0acfb46f149a460c17f852ff77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/scene1_Quang 1.unity using Guid(c0dbdd0acfb46f149a460c17f852ff77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd0118cb9a24971702a173cd5976e8a9e') in 0.000849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 8.692394 seconds.
+  path: Assets/Scenes/Scene_Level1.unity
+  artifactKey: Guid(c0dbdd0acfb46f149a460c17f852ff77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene_Level1.unity using Guid(c0dbdd0acfb46f149a460c17f852ff77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4c3929c38b81c9c2931e451bcd184a5b') in 0.000612 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 220.253669 seconds.
+  path: Assets/Scenes/scene1
+  artifactKey: Guid(9bd001e38b6c5314a8aebc1e7bc21d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/scene1 using Guid(9bd001e38b6c5314a8aebc1e7bc21d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8d50751299abf0f2d4af2998475834ad') in 0.000998 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
