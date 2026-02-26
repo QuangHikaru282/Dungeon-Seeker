@@ -21,6 +21,9 @@ public class PlayerController : MonoBehaviour
     public float attackRange = 0.5f;
     public int attackDamage = 10;
     public LayerMask enemyLayer;
+    public float attackMoveSpeedMultiplier = 0.3f;
+
+    private bool isAttacking;
 
     // Components
     private Rigidbody2D rb;
@@ -78,7 +81,8 @@ public class PlayerController : MonoBehaviour
     void HandleMove()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
-        rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
+        float currentSpeed = isAttacking ? moveSpeed * attackMoveSpeedMultiplier : moveSpeed;
+        rb.velocity = new Vector2(moveInput * currentSpeed, rb.velocity.y);
 
         if (moveInput > 0 && !isFacingRight) Flip();
         else if (moveInput < 0 && isFacingRight) Flip();
@@ -113,8 +117,9 @@ public class PlayerController : MonoBehaviour
 
     void HandleAttack()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && !isAttacking)
         {
+            isAttacking = true;
             anim.SetTrigger(HashAttack);
         }
     }
@@ -127,6 +132,11 @@ public class PlayerController : MonoBehaviour
         {
             hit.GetComponent<EnemyStats>()?.TakeDamage(attackDamage);
         }
+    }
+
+    public void OnAttackEnd()
+    {
+        isAttacking = false;
     }
 
     // ── Utilities ─────────────────────────────────────────
@@ -158,7 +168,7 @@ public class PlayerController : MonoBehaviour
     public void OnDeath()
     {
         isDead = true;
-        rb.linearVelocity = Vector2.zero;
+        rb.velocity = Vector2.zero;
         anim.SetTrigger(HashDeath);
     }
 
