@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -133,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 303
       height: 299
-    spriteID: 311bd70f9b84ab143bd472861b0d31e6
+    spriteID: 62a7a840603b4f940b6c87c2fd6615ed
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,7 +152,7 @@ ScriptedImporter:
       y: 4
       width: 303
       height: 299
-    spriteID: b68e9589f6bcf884ea44a6419bd487ef
+    spriteID: 40c575054fda08f459d04f22ff49cb80
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -173,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 303
       height: 299
-    spriteID: 7d84ae077b04ebe49a2a98efaa519c8b
+    spriteID: 759d3f6fbd61bd74181c45082dec0da0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -193,7 +192,7 @@ ScriptedImporter:
       y: 311
       width: 303
       height: 299
-    spriteID: 5240050ff9151f54c8f8336d3e6deb0a
+    spriteID: d1a4d0df6ea8b6442966fd74ac91b054
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -213,7 +212,7 @@ ScriptedImporter:
       y: 311
       width: 303
       height: 299
-    spriteID: 705c6987fb149e64bae04a0b43ada237
+    spriteID: 0e80f3f109697374495a74f4cbaad9d8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -233,7 +232,7 @@ ScriptedImporter:
       y: 311
       width: 303
       height: 299
-    spriteID: 370476bc0e676bd458da7fbb750561dd
+    spriteID: be8fd78eaa4a6764f9ff3442ec874c1b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,7 +252,7 @@ ScriptedImporter:
       y: 618
       width: 303
       height: 299
-    spriteID: d8aefc5fbdadbb9459180bcdba11f57b
+    spriteID: b4c44c3e44a2fbb44a7402f9d15f280a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -273,7 +272,7 @@ ScriptedImporter:
       y: 618
       width: 303
       height: 299
-    spriteID: b791d5e007c69e248984699e0b94b8b1
+    spriteID: 7f5c9ac39ba89174cbe2e7cf3ffdbb06
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -285,18 +284,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 205376722
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 205376722
+    guid: -69819990
     name: fire asset
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: fire asset_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -304,8 +298,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 311bd70f9b84ab143bd472861b0d31e6
-    - name: Frame_1
+      spriteId: 62a7a840603b4f940b6c87c2fd6615ed
+    - name: fire asset_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -313,8 +307,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: b68e9589f6bcf884ea44a6419bd487ef
-    - name: Frame_2
+      spriteId: 40c575054fda08f459d04f22ff49cb80
+    - name: fire asset_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -322,8 +316,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 7d84ae077b04ebe49a2a98efaa519c8b
-    - name: Frame_3
+      spriteId: 759d3f6fbd61bd74181c45082dec0da0
+    - name: fire asset_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -331,8 +325,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 5240050ff9151f54c8f8336d3e6deb0a
-    - name: Frame_4
+      spriteId: d1a4d0df6ea8b6442966fd74ac91b054
+    - name: fire asset_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -340,8 +334,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 705c6987fb149e64bae04a0b43ada237
-    - name: Frame_5
+      spriteId: 0e80f3f109697374495a74f4cbaad9d8
+    - name: fire asset_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -349,8 +343,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 370476bc0e676bd458da7fbb750561dd
-    - name: Frame_6
+      spriteId: be8fd78eaa4a6764f9ff3442ec874c1b
+    - name: fire asset_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -358,8 +352,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: d8aefc5fbdadbb9459180bcdba11f57b
-    - name: Frame_7
+      spriteId: b4c44c3e44a2fbb44a7402f9d15f280a
+    - name: fire asset_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -367,7 +361,7 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: b791d5e007c69e248984699e0b94b8b1
+      spriteId: 7f5c9ac39ba89174cbe2e7cf3ffdbb06
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -387,4 +381,3 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 303, y: 299}
-  previousTextureSize: {x: 1024, y: 1024}

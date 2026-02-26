@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -122,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_0
+  - name: VFX Blood Batch 1_Frame_0
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -133,7 +132,7 @@ ScriptedImporter:
       y: 6397
       width: 640
       height: 300
-    spriteID: 83a1e3092d637384fac8afb41c5d4fcb
+    spriteID: 26a27bc568c00944d811e54076a9a608
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -142,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 6397}
-  - name: Frame_1
+  - name: VFX Blood Batch 1_Frame_1
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -153,7 +152,7 @@ ScriptedImporter:
       y: 6705
       width: 640
       height: 300
-    spriteID: 979481273eaae224c8f7061deb649612
+    spriteID: cd82ae529badad740b99c16258f40042
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -162,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 6705}
-  - name: Frame_2
+  - name: VFX Blood Batch 1_Frame_2
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -173,7 +172,7 @@ ScriptedImporter:
       y: 7013
       width: 640
       height: 300
-    spriteID: d408dad6a2540d74d82a3b52685af82d
+    spriteID: 23d310e02c5255f4487a875c877c2a23
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -182,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 7013}
-  - name: Frame_3
+  - name: VFX Blood Batch 1_Frame_3
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -193,7 +192,7 @@ ScriptedImporter:
       y: 7321
       width: 640
       height: 300
-    spriteID: e7408e17315c3bc408e1f3d9a78bb42c
+    spriteID: 92a7d4d70d8907c448c9e95d0a32d8dd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -202,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 7321}
-  - name: Frame_4
+  - name: VFX Blood Batch 1_Frame_4
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -213,7 +212,7 @@ ScriptedImporter:
       y: 7629
       width: 640
       height: 300
-    spriteID: 6da5333e2831da842a00c92797787fa1
+    spriteID: 18cfdcb49f146014d93b4b4ce040c174
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -222,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 7629}
-  - name: Frame_5
+  - name: VFX Blood Batch 1_Frame_5
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -233,7 +232,7 @@ ScriptedImporter:
       y: 459
       width: 640
       height: 300
-    spriteID: 3ac9dd7aa633db444afda5ce27c2826b
+    spriteID: 4537a7be5fad5be4595b67f905cfa2b6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -242,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 459}
-  - name: Frame_6
+  - name: VFX Blood Batch 1_Frame_6
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -253,7 +252,7 @@ ScriptedImporter:
       y: 767
       width: 640
       height: 300
-    spriteID: b6f321275f6bc8f4ca3aba76dcfceea5
+    spriteID: c146a3fafce3958448b26b1578d4c816
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -262,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 767}
-  - name: Frame_7
+  - name: VFX Blood Batch 1_Frame_7
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -273,7 +272,7 @@ ScriptedImporter:
       y: 1075
       width: 640
       height: 300
-    spriteID: 3fc16fc7597a72540b9ac3a7848c32dd
+    spriteID: c0744244a4dc1014e8ed91a62a7bd919
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -282,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 1075}
-  - name: Frame_8
+  - name: VFX Blood Batch 1_Frame_8
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -293,7 +292,7 @@ ScriptedImporter:
       y: 1383
       width: 640
       height: 300
-    spriteID: 708a8995354321b4cb4d6580ba4bf737
+    spriteID: 8ebdd8970d930cd458373ef76e18300b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -302,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 1383}
-  - name: Frame_9
+  - name: VFX Blood Batch 1_Frame_9
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -313,7 +312,7 @@ ScriptedImporter:
       y: 1691
       width: 640
       height: 300
-    spriteID: 630988c950e79544d81179b3105aefd2
+    spriteID: 555a00cd1a4487d4a98ed127c12a6e29
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -322,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 1691}
-  - name: Frame_10
+  - name: VFX Blood Batch 1_Frame_10
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -333,7 +332,7 @@ ScriptedImporter:
       y: 1999
       width: 640
       height: 300
-    spriteID: 71cf4f96c5b480b4a840b23290fd046a
+    spriteID: 9a1fec43141c68744b4d6bb2c9fec82e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -342,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 1999}
-  - name: Frame_11
+  - name: VFX Blood Batch 1_Frame_11
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -353,7 +352,7 @@ ScriptedImporter:
       y: 2307
       width: 640
       height: 300
-    spriteID: 78cc037dc31dc3a488722605dbf64161
+    spriteID: fefdc3ac6870c9d43b4fcc5046562617
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -362,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 2307}
-  - name: Frame_12
+  - name: VFX Blood Batch 1_Frame_12
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -373,7 +372,7 @@ ScriptedImporter:
       y: 2615
       width: 640
       height: 300
-    spriteID: 77d2bd07ddd65a64ca108a86d33807f6
+    spriteID: a32449f1936a25c4283fa5582e7509c3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -382,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 2615}
-  - name: Frame_13
+  - name: VFX Blood Batch 1_Frame_13
     originalName: 
     pivot: {x: 0.27701673, y: 0.59999996}
     alignment: 9
@@ -393,7 +392,7 @@ ScriptedImporter:
       y: 5161
       width: 657
       height: 300
-    spriteID: 8b4dd271de1a2974fb30a03bf13ac8b6
+    spriteID: 93b77f727760dae4bb76e49bc07dd0d9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -402,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 5161}
-  - name: Frame_14
+  - name: VFX Blood Batch 1_Frame_14
     originalName: 
     pivot: {x: 0.28030303, y: 0.59999996}
     alignment: 9
@@ -413,7 +412,7 @@ ScriptedImporter:
       y: 4545
       width: 660
       height: 300
-    spriteID: f7605978fb036824bb20a738e9c6b3d3
+    spriteID: 1be460bb8ae248846a67e24db1cc3a84
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -422,7 +421,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4545}
-  - name: Frame_15
+  - name: VFX Blood Batch 1_Frame_15
     originalName: 
     pivot: {x: 0.28030303, y: 0.59999996}
     alignment: 9
@@ -433,7 +432,7 @@ ScriptedImporter:
       y: 4853
       width: 660
       height: 300
-    spriteID: 86c698e83c6fb4240879f7706ca5fc2a
+    spriteID: f7c713c10efd60e4a914be3bd349ee0b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -442,7 +441,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4853}
-  - name: Frame_16
+  - name: VFX Blood Batch 1_Frame_16
     originalName: 
     pivot: {x: 0.28139186, y: 0.59999996}
     alignment: 9
@@ -453,7 +452,7 @@ ScriptedImporter:
       y: 3621
       width: 661
       height: 300
-    spriteID: f35f015342544c240806194514426b96
+    spriteID: c62f7db4984b58a49843260b529aaa75
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -462,7 +461,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 3621}
-  - name: Frame_17
+  - name: VFX Blood Batch 1_Frame_17
     originalName: 
     pivot: {x: 0.28247735, y: 0.59999996}
     alignment: 9
@@ -473,7 +472,7 @@ ScriptedImporter:
       y: 2697
       width: 662
       height: 300
-    spriteID: 138a1cb95e2d5e6418838c8a09c72e82
+    spriteID: 68fa271da1365334e8694fae7b1890db
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -482,7 +481,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 2697}
-  - name: Frame_18
+  - name: VFX Blood Batch 1_Frame_18
     originalName: 
     pivot: {x: 0.28247735, y: 0.59999996}
     alignment: 9
@@ -493,7 +492,7 @@ ScriptedImporter:
       y: 3005
       width: 662
       height: 300
-    spriteID: f1a339de4fe90e342a72dc7c783c559d
+    spriteID: f835f55be524b29449281bedf8d82f79
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -502,7 +501,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 3005}
-  - name: Frame_19
+  - name: VFX Blood Batch 1_Frame_19
     originalName: 
     pivot: {x: 0.28247735, y: 0.59999996}
     alignment: 9
@@ -513,7 +512,7 @@ ScriptedImporter:
       y: 3313
       width: 662
       height: 300
-    spriteID: 13169a7c168a0ce4daff7e925fb7380b
+    spriteID: 18fb85f6cbd128f47825aa7e033bf589
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -522,7 +521,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 3313}
-  - name: Frame_20
+  - name: VFX Blood Batch 1_Frame_20
     originalName: 
     pivot: {x: 0.28139186, y: 0.59999996}
     alignment: 9
@@ -533,7 +532,7 @@ ScriptedImporter:
       y: 3929
       width: 661
       height: 300
-    spriteID: bfec388c294800f48bf366b456c1f8e7
+    spriteID: 9804e0c61d8f2fc4a8f46532360a12af
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -542,7 +541,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 3929}
-  - name: Frame_21
+  - name: VFX Blood Batch 1_Frame_21
     originalName: 
     pivot: {x: 0.28139186, y: 0.59999996}
     alignment: 9
@@ -553,7 +552,7 @@ ScriptedImporter:
       y: 4237
       width: 661
       height: 300
-    spriteID: a75747246321a6847bf43e825e812b1a
+    spriteID: 373ca1d26000ca74c8d15e5496cbc8b3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -562,7 +561,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4237}
-  - name: Frame_22
+  - name: VFX Blood Batch 1_Frame_22
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -573,7 +572,7 @@ ScriptedImporter:
       y: 2923
       width: 640
       height: 300
-    spriteID: 3dd1b582bde01854991bab465983905b
+    spriteID: e2ccfd4f5a9b2f0458380548317d23d3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -582,7 +581,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 2923}
-  - name: Frame_23
+  - name: VFX Blood Batch 1_Frame_23
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -593,7 +592,7 @@ ScriptedImporter:
       y: 3231
       width: 640
       height: 300
-    spriteID: 145ca5e69a6530d41ab6cdfe34592e8a
+    spriteID: c96d2993fa0df2541a346e1281659f1a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -602,7 +601,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 3231}
-  - name: Frame_24
+  - name: VFX Blood Batch 1_Frame_24
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -613,7 +612,7 @@ ScriptedImporter:
       y: 3539
       width: 640
       height: 300
-    spriteID: 1391bd48dd2dc194090d889f0c0c7b8f
+    spriteID: f17812fbfea208e42b52923a1d165aa2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -622,7 +621,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 3539}
-  - name: Frame_25
+  - name: VFX Blood Batch 1_Frame_25
     originalName: 
     pivot: {x: 0.3863049, y: 0.509915}
     alignment: 9
@@ -633,7 +632,7 @@ ScriptedImporter:
       y: 7305
       width: 774
       height: 353
-    spriteID: d17005e812434c54bb6b8501dfbf3e3f
+    spriteID: c3d6bf8298faacc4fa8e6f57c9b4239f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -642,7 +641,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 7305}
-  - name: Frame_26
+  - name: VFX Blood Batch 1_Frame_26
     originalName: 
     pivot: {x: 0.4047619, y: 0.4712042}
     alignment: 9
@@ -653,7 +652,7 @@ ScriptedImporter:
       y: 4
       width: 798
       height: 382
-    spriteID: 61256c3dc1df8634a90d49d229d5ab67
+    spriteID: c5a78041a4601854e85091e3f286e6de
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -662,7 +661,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3287, y: 4}
-  - name: Frame_27
+  - name: VFX Blood Batch 1_Frame_27
     originalName: 
     pivot: {x: 0.4171779, y: 0.46875}
     alignment: 9
@@ -673,7 +672,7 @@ ScriptedImporter:
       y: 1565
       width: 815
       height: 384
-    spriteID: b659071ee7422d74bbed7924e17ce4b3
+    spriteID: a680b53c84a9ec640bbafb54aa257f4b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -682,7 +681,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 1565}
-  - name: Frame_28
+  - name: VFX Blood Batch 1_Frame_28
     originalName: 
     pivot: {x: 0.41931537, y: 0.4699739}
     alignment: 9
@@ -693,7 +692,7 @@ ScriptedImporter:
       y: 394
       width: 818
       height: 383
-    spriteID: 6ebc72889319f4543bb884dd19121d78
+    spriteID: f645578cbb24d5349b4eaee3dfd95209
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -702,7 +701,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 394}
-  - name: Frame_29
+  - name: VFX Blood Batch 1_Frame_29
     originalName: 
     pivot: {x: 0.42073175, y: 0.4712042}
     alignment: 9
@@ -713,7 +712,7 @@ ScriptedImporter:
       y: 785
       width: 820
       height: 382
-    spriteID: 1ae80f24e8865e74aa7060bb6b2ea591
+    spriteID: f06aa9a42c516fd42ad96613bd209a2a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -722,7 +721,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 785}
-  - name: Frame_30
+  - name: VFX Blood Batch 1_Frame_30
     originalName: 
     pivot: {x: 0.42143726, y: 0.4712042}
     alignment: 9
@@ -733,7 +732,7 @@ ScriptedImporter:
       y: 4
       width: 821
       height: 382
-    spriteID: 7904eafac39f3b948921f4e1b64c8db4
+    spriteID: f42b2d640c80ada4dabf45814fdbda24
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -742,7 +741,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 4}
-  - name: Frame_31
+  - name: VFX Blood Batch 1_Frame_31
     originalName: 
     pivot: {x: 0.42073175, y: 0.4712042}
     alignment: 9
@@ -753,7 +752,7 @@ ScriptedImporter:
       y: 1175
       width: 820
       height: 382
-    spriteID: b2ffbf0f9f4312c4aa568b4733515b92
+    spriteID: 7c2ca9cf9093e12418184abbfda60817
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -762,7 +761,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 1175}
-  - name: Frame_32
+  - name: VFX Blood Batch 1_Frame_32
     originalName: 
     pivot: {x: 0.41860464, y: 0.4712042}
     alignment: 9
@@ -773,7 +772,7 @@ ScriptedImporter:
       y: 1957
       width: 817
       height: 382
-    spriteID: 1b5f104d241e2b14e9c62d9e2ef86f13
+    spriteID: 1480f657cce4c6a4d8685e8bbb22cac4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -782,7 +781,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 1957}
-  - name: Frame_33
+  - name: VFX Blood Batch 1_Frame_33
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -793,7 +792,7 @@ ScriptedImporter:
       y: 3847
       width: 640
       height: 300
-    spriteID: b3aeb34222d209347b6b2b417c334ec9
+    spriteID: 5411b0ee37c01ad40a36fab089b11aeb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -802,7 +801,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 3847}
-  - name: Frame_34
+  - name: VFX Blood Batch 1_Frame_34
     originalName: 
     pivot: {x: 0.26584235, y: 0.59999996}
     alignment: 9
@@ -813,7 +812,7 @@ ScriptedImporter:
       y: 5779
       width: 647
       height: 300
-    spriteID: 3423fa2d2fba246469229504fb401d32
+    spriteID: a2654b6d83dff834bb716e0b234b26f9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -822,7 +821,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 5779}
-  - name: Frame_35
+  - name: VFX Blood Batch 1_Frame_35
     originalName: 
     pivot: {x: 0.30044183, y: 0.55214727}
     alignment: 9
@@ -833,7 +832,7 @@ ScriptedImporter:
       y: 2363
       width: 679
       height: 326
-    spriteID: 8730595884db0cd4d999d1503f4b1887
+    spriteID: 55f25e04b0a303b489544d7f348c5bd8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -842,7 +841,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 2363}
-  - name: Frame_36
+  - name: VFX Blood Batch 1_Frame_36
     originalName: 
     pivot: {x: 0.30351904, y: 0.5070422}
     alignment: 9
@@ -853,7 +852,7 @@ ScriptedImporter:
       y: 5772
       width: 682
       height: 355
-    spriteID: f0121ee1fd3352f4694c8efce76ccdd0
+    spriteID: 35a9ba73ce3975d4380cc4ce31077073
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -862,7 +861,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 5772}
-  - name: Frame_37
+  - name: VFX Blood Batch 1_Frame_37
     originalName: 
     pivot: {x: 0.30351904, y: 0.5042017}
     alignment: 9
@@ -873,7 +872,7 @@ ScriptedImporter:
       y: 3228
       width: 682
       height: 357
-    spriteID: 6c2b968e94f54fe4eb52d96a44411cf7
+    spriteID: 2a78b44cd0e720944b5beb457fd845f1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -882,7 +881,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 3228}
-  - name: Frame_38
+  - name: VFX Blood Batch 1_Frame_38
     originalName: 
     pivot: {x: 0.30453882, y: 0.505618}
     alignment: 9
@@ -893,7 +892,7 @@ ScriptedImporter:
       y: 3593
       width: 683
       height: 356
-    spriteID: aa34ecad8a742a845a4d3c906158c39f
+    spriteID: bfdc1e6975e36d141b02171abbbc17df
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -902,7 +901,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 3593}
-  - name: Frame_39
+  - name: VFX Blood Batch 1_Frame_39
     originalName: 
     pivot: {x: 0.30555555, y: 0.5070422}
     alignment: 9
@@ -913,7 +912,7 @@ ScriptedImporter:
       y: 3957
       width: 684
       height: 355
-    spriteID: f45d807c7e7caab40bbed15c07ff1113
+    spriteID: 8bb56887d4d8a8640af7dd258374a246
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -922,7 +921,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 3957}
-  - name: Frame_40
+  - name: VFX Blood Batch 1_Frame_40
     originalName: 
     pivot: {x: 0.30555555, y: 0.5070422}
     alignment: 9
@@ -933,7 +932,7 @@ ScriptedImporter:
       y: 4320
       width: 684
       height: 355
-    spriteID: 9838a136631aa4a4e8c8b0278eff26fd
+    spriteID: 6ce27dc92bfab0d4e9349a057f810459
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -942,7 +941,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 4320}
-  - name: Frame_41
+  - name: VFX Blood Batch 1_Frame_41
     originalName: 
     pivot: {x: 0.30453882, y: 0.5070422}
     alignment: 9
@@ -953,7 +952,7 @@ ScriptedImporter:
       y: 4683
       width: 683
       height: 355
-    spriteID: 505352eabdf254249902be43f8373807
+    spriteID: c7374e2f108ae684eb64d206162e0567
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -962,7 +961,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 4683}
-  - name: Frame_42
+  - name: VFX Blood Batch 1_Frame_42
     originalName: 
     pivot: {x: 0.30453882, y: 0.5070422}
     alignment: 9
@@ -973,7 +972,7 @@ ScriptedImporter:
       y: 5046
       width: 683
       height: 355
-    spriteID: f3347927d22284c48899c850d5d7c4b5
+    spriteID: 2b060175614c7a3498a624142979649b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -982,7 +981,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 5046}
-  - name: Frame_43
+  - name: VFX Blood Batch 1_Frame_43
     originalName: 
     pivot: {x: 0.30453882, y: 0.5070422}
     alignment: 9
@@ -993,7 +992,7 @@ ScriptedImporter:
       y: 5409
       width: 683
       height: 355
-    spriteID: 3fa1ad56ade3e0c4995dfd2b6428ab0b
+    spriteID: 0808a11f7942bb34eaf8e5d8f0ce6be3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1002,7 +1001,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 5409}
-  - name: Frame_44
+  - name: VFX Blood Batch 1_Frame_44
     originalName: 
     pivot: {x: 0.2578125, y: 0.5070422}
     alignment: 9
@@ -1013,7 +1012,7 @@ ScriptedImporter:
       y: 2000
       width: 640
       height: 355
-    spriteID: aa99ccb5cbd653241977cf57262e01de
+    spriteID: bc008adc0cffbd84f83252ad71b6c1be
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1022,7 +1021,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 2000}
-  - name: Frame_45
+  - name: VFX Blood Batch 1_Frame_45
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -1033,7 +1032,7 @@ ScriptedImporter:
       y: 4155
       width: 640
       height: 300
-    spriteID: e7ebb59ed437aab40841a23af4979177
+    spriteID: 656e23447a2e91a40948395672810462
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1042,7 +1041,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 4155}
-  - name: Frame_46
+  - name: VFX Blood Batch 1_Frame_46
     originalName: 
     pivot: {x: 0.375, y: 0.59999996}
     alignment: 9
@@ -1053,7 +1052,7 @@ ScriptedImporter:
       y: 1692
       width: 760
       height: 300
-    spriteID: 94b32366323ace640b64b157b95256e1
+    spriteID: d638b17565eac714f9b5eb4503a7fc96
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1062,7 +1061,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 1692}
-  - name: Frame_47
+  - name: VFX Blood Batch 1_Frame_47
     originalName: 
     pivot: {x: 0.40025255, y: 0.5341246}
     alignment: 9
@@ -1073,7 +1072,7 @@ ScriptedImporter:
       y: 7666
       width: 792
       height: 337
-    spriteID: a208f4168487bab47b0239bd0d0ad364
+    spriteID: 2a25be83a15ca774a955a6062429ade3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1082,7 +1081,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 7666}
-  - name: Frame_48
+  - name: VFX Blood Batch 1_Frame_48
     originalName: 
     pivot: {x: 0.40251574, y: 0.49180326}
     alignment: 9
@@ -1093,7 +1092,7 @@ ScriptedImporter:
       y: 7528
       width: 795
       height: 366
-    spriteID: dde1c6dc09fbe6842b67ed19023a8523
+    spriteID: 3fe1889b96453dd499fc227bf5c2eb81
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1102,7 +1101,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 7528}
-  - name: Frame_49
+  - name: VFX Blood Batch 1_Frame_49
     originalName: 
     pivot: {x: 0.40251574, y: 0.48913044}
     alignment: 9
@@ -1113,7 +1112,7 @@ ScriptedImporter:
       y: 785
       width: 795
       height: 368
-    spriteID: 5974f7f96f633a148a98c4a677c18246
+    spriteID: 7950d97112973994aae91c2e63de7295
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1122,7 +1121,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3286, y: 785}
-  - name: Frame_50
+  - name: VFX Blood Batch 1_Frame_50
     originalName: 
     pivot: {x: 0.40326634, y: 0.4904632}
     alignment: 9
@@ -1133,7 +1132,7 @@ ScriptedImporter:
       y: 1175
       width: 796
       height: 367
-    spriteID: a2b2c350d787d1841b05d9d1846beb7b
+    spriteID: 19f2cf8ae2c5642499b6d6e8042f2c1b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1142,7 +1141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3286, y: 1175}
-  - name: Frame_51
+  - name: VFX Blood Batch 1_Frame_51
     originalName: 
     pivot: {x: 0.40401506, y: 0.49180326}
     alignment: 9
@@ -1153,7 +1152,7 @@ ScriptedImporter:
       y: 394
       width: 797
       height: 366
-    spriteID: 0107b05a6a3df874aaaa1964c5c38cc0
+    spriteID: 026862e745e6f5748a022fdcbd686e48
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1162,7 +1161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3284, y: 394}
-  - name: Frame_52
+  - name: VFX Blood Batch 1_Frame_52
     originalName: 
     pivot: {x: 0.40401506, y: 0.49180326}
     alignment: 9
@@ -1173,7 +1172,7 @@ ScriptedImporter:
       y: 1565
       width: 797
       height: 366
-    spriteID: 9d21ff95b64b89340bd65029e4c3f457
+    spriteID: 05dab7bd2ade73f41b0ee450198be5b5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1182,7 +1181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3281, y: 1565}
-  - name: Frame_53
+  - name: VFX Blood Batch 1_Frame_53
     originalName: 
     pivot: {x: 0.40326634, y: 0.49180326}
     alignment: 9
@@ -1193,7 +1192,7 @@ ScriptedImporter:
       y: 6780
       width: 796
       height: 366
-    spriteID: 044d288eeaa6519408dd5bec06efa7d9
+    spriteID: 6e14c480767361a4ea4005cffcf96d0c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1202,7 +1201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 6780}
-  - name: Frame_54
+  - name: VFX Blood Batch 1_Frame_54
     originalName: 
     pivot: {x: 0.40326634, y: 0.49180326}
     alignment: 9
@@ -1213,7 +1212,7 @@ ScriptedImporter:
       y: 7154
       width: 796
       height: 366
-    spriteID: c314d9a3dcb1fdd49b0e4aa3c0079c07
+    spriteID: f60ae1b88d8b9e749a5d303ab3421bdb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1222,7 +1221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 7154}
-  - name: Frame_55
+  - name: VFX Blood Batch 1_Frame_55
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -1233,7 +1232,7 @@ ScriptedImporter:
       y: 4463
       width: 640
       height: 300
-    spriteID: 9f6ab6fb8454d784ebc2497f5d0597ea
+    spriteID: 9f0a337a6bc1ffa4caa45def1506d719
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1242,7 +1241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 4463}
-  - name: Frame_56
+  - name: VFX Blood Batch 1_Frame_56
     originalName: 
     pivot: {x: 0.26242235, y: 0.5960265}
     alignment: 9
@@ -1253,7 +1252,7 @@ ScriptedImporter:
       y: 5469
       width: 644
       height: 302
-    spriteID: cb041668d32660e4a94aea4caa33903c
+    spriteID: 034020dc418f3724abba78c781fad6bf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1262,7 +1261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 5469}
-  - name: Frame_57
+  - name: VFX Blood Batch 1_Frame_57
     originalName: 
     pivot: {x: 0.29733726, y: 0.4326923}
     alignment: 9
@@ -1273,7 +1272,7 @@ ScriptedImporter:
       y: 6881
       width: 676
       height: 416
-    spriteID: 4947f0586ac8cae4a8db9bf6095bd5c8
+    spriteID: 255b303a6d980734ca99e11315d0a674
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1282,7 +1281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 6881}
-  - name: Frame_58
+  - name: VFX Blood Batch 1_Frame_58
     originalName: 
     pivot: {x: 0.30044183, y: 0.40449437}
     alignment: 9
@@ -1293,7 +1292,7 @@ ScriptedImporter:
       y: 6327
       width: 679
       height: 445
-    spriteID: dfb7a656fbfe0c748919a3a762d67c39
+    spriteID: a397a93dcbf3fb24a9b4c3c8b7f4e8e1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1302,7 +1301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 6327}
-  - name: Frame_59
+  - name: VFX Blood Batch 1_Frame_59
     originalName: 
     pivot: {x: 0.30044183, y: 0.40268457}
     alignment: 9
@@ -1313,7 +1312,7 @@ ScriptedImporter:
       y: 3153
       width: 679
       height: 447
-    spriteID: edfbebf7f1d7ef045a2a25219a295e39
+    spriteID: 28aafb7a16a3f6c46a6acebd235a2049
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1322,7 +1321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 3153}
-  - name: Frame_60
+  - name: VFX Blood Batch 1_Frame_60
     originalName: 
     pivot: {x: 0.3014706, y: 0.40358743}
     alignment: 9
@@ -1333,7 +1332,7 @@ ScriptedImporter:
       y: 3608
       width: 680
       height: 446
-    spriteID: efc738b0249bacb4c88cbe7fb782e0fc
+    spriteID: a31dcae2f0f567c42abae9f065f71d47
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1342,7 +1341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 3608}
-  - name: Frame_61
+  - name: VFX Blood Batch 1_Frame_61
     originalName: 
     pivot: {x: 0.30249634, y: 0.40449437}
     alignment: 9
@@ -1353,7 +1352,7 @@ ScriptedImporter:
       y: 4062
       width: 681
       height: 445
-    spriteID: 55c86798d2e7bbf4c908408b982c6675
+    spriteID: dac10cd678dd63e4baed25fdee6db5d7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1362,7 +1361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 4062}
-  - name: Frame_62
+  - name: VFX Blood Batch 1_Frame_62
     originalName: 
     pivot: {x: 0.30249634, y: 0.40449437}
     alignment: 9
@@ -1373,7 +1372,7 @@ ScriptedImporter:
       y: 4515
       width: 681
       height: 445
-    spriteID: 31c0a458416492c46a86f2f3cef0166f
+    spriteID: 9a0fd243dd205814ba31aefbc57e486d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1382,7 +1381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 4515}
-  - name: Frame_63
+  - name: VFX Blood Batch 1_Frame_63
     originalName: 
     pivot: {x: 0.3014706, y: 0.40449437}
     alignment: 9
@@ -1393,7 +1392,7 @@ ScriptedImporter:
       y: 4968
       width: 680
       height: 445
-    spriteID: 7b8e27cb27cf325479b560d25a5c24b4
+    spriteID: 02257d98311bef6418151d906be0be90
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1402,7 +1401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 4968}
-  - name: Frame_64
+  - name: VFX Blood Batch 1_Frame_64
     originalName: 
     pivot: {x: 0.3014706, y: 0.40449437}
     alignment: 9
@@ -1413,7 +1412,7 @@ ScriptedImporter:
       y: 5421
       width: 680
       height: 445
-    spriteID: 50092559216b9364e99165f8819f59e5
+    spriteID: c0d02615a0a0724458262abdc25b387e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1422,7 +1421,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 5421}
-  - name: Frame_65
+  - name: VFX Blood Batch 1_Frame_65
     originalName: 
     pivot: {x: 0.3014706, y: 0.40449437}
     alignment: 9
@@ -1433,7 +1432,7 @@ ScriptedImporter:
       y: 5874
       width: 680
       height: 445
-    spriteID: a211444eadadb334eb3f7103257fdeca
+    spriteID: cad10891d8e376542a9f2c37c1f384e5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1442,7 +1441,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 5874}
-  - name: Frame_66
+  - name: VFX Blood Batch 1_Frame_66
     originalName: 
     pivot: {x: 0.2578125, y: 0.40449437}
     alignment: 9
@@ -1453,7 +1452,7 @@ ScriptedImporter:
       y: 3710
       width: 640
       height: 445
-    spriteID: 1292b94b88d8b6447921bc5026e628fb
+    spriteID: 95b6f87655db20f4aa0403873cb9c725
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1462,7 +1461,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 3710}
-  - name: Frame_67
+  - name: VFX Blood Batch 1_Frame_67
     originalName: 
     pivot: {x: 0.2578125, y: 0.43373492}
     alignment: 9
@@ -1473,7 +1472,7 @@ ScriptedImporter:
       y: 2805
       width: 640
       height: 415
-    spriteID: b054640db7a3a644482133960b4b5ae7
+    spriteID: bfc5ca6bbb2d8e74080f68edfcc60e22
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1482,7 +1481,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 2805}
-  - name: Frame_68
+  - name: VFX Blood Batch 1_Frame_68
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -1493,7 +1492,7 @@ ScriptedImporter:
       y: 4771
       width: 640
       height: 300
-    spriteID: 193ebd1a96bee054cb4a418d95d85de6
+    spriteID: 57f5b6acb6bbf994fad506757e4b9a35
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1502,7 +1501,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 4771}
-  - name: Frame_69
+  - name: VFX Blood Batch 1_Frame_69
     originalName: 
     pivot: {x: 0.38151044, y: 0.59999996}
     alignment: 9
@@ -1513,7 +1512,7 @@ ScriptedImporter:
       y: 1384
       width: 768
       height: 300
-    spriteID: 06d84a98fb72dc24f93045d98a45d8d9
+    spriteID: 7194a70b9cc68764fb93679493ae9cf0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1522,7 +1521,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 1384}
-  - name: Frame_70
+  - name: VFX Blood Batch 1_Frame_70
     originalName: 
     pivot: {x: 0.383917, y: 0.59999996}
     alignment: 9
@@ -1533,7 +1532,7 @@ ScriptedImporter:
       y: 768
       width: 771
       height: 300
-    spriteID: a37b923d6ddefb54093db73b81905868
+    spriteID: 2cbe1f8a674d72a43bc1bbd8a0998ca7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1542,7 +1541,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 768}
-  - name: Frame_71
+  - name: VFX Blood Batch 1_Frame_71
     originalName: 
     pivot: {x: 0.383917, y: 0.59999996}
     alignment: 9
@@ -1553,7 +1552,7 @@ ScriptedImporter:
       y: 1076
       width: 771
       height: 300
-    spriteID: f244e4a23e169874a9db8563e019301b
+    spriteID: 17766d39ddf03cd43827d9338753483f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1562,7 +1561,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 1076}
-  - name: Frame_72
+  - name: VFX Blood Batch 1_Frame_72
     originalName: 
     pivot: {x: 0.38471505, y: 0.59999996}
     alignment: 9
@@ -1573,7 +1572,7 @@ ScriptedImporter:
       y: 7062
       width: 772
       height: 300
-    spriteID: 43f164d02a9baf942a10689c6b4443a6
+    spriteID: 00985682d8e2c9740afec6fb981bcea6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1582,7 +1581,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 7062}
-  - name: Frame_73
+  - name: VFX Blood Batch 1_Frame_73
     originalName: 
     pivot: {x: 0.385511, y: 0.59999996}
     alignment: 9
@@ -1593,7 +1592,7 @@ ScriptedImporter:
       y: 6446
       width: 773
       height: 300
-    spriteID: 50dbdb82e49a8bc4a9d329fa98cd53a9
+    spriteID: fadae21440df62245b15c9b17a72ee66
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1602,7 +1601,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 6446}
-  - name: Frame_74
+  - name: VFX Blood Batch 1_Frame_74
     originalName: 
     pivot: {x: 0.385511, y: 0.59999996}
     alignment: 9
@@ -1613,7 +1612,7 @@ ScriptedImporter:
       y: 6754
       width: 773
       height: 300
-    spriteID: 7971d77f66a3c6e45b490f25c50239cc
+    spriteID: 7f6b65ff954de9140a2e3348072add45
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1622,7 +1621,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 6754}
-  - name: Frame_75
+  - name: VFX Blood Batch 1_Frame_75
     originalName: 
     pivot: {x: 0.38471505, y: 0.59999996}
     alignment: 9
@@ -1633,7 +1632,7 @@ ScriptedImporter:
       y: 7370
       width: 772
       height: 300
-    spriteID: 4718b1dfab2ece34fad71564021c77a6
+    spriteID: 4f94caeb0de10fe4db6cf43395c499eb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1642,7 +1641,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 7370}
-  - name: Frame_76
+  - name: VFX Blood Batch 1_Frame_76
     originalName: 
     pivot: {x: 0.38471505, y: 0.59999996}
     alignment: 9
@@ -1653,7 +1652,7 @@ ScriptedImporter:
       y: 7678
       width: 772
       height: 300
-    spriteID: 60d5fc4b7cac9d74c891971c9ab3ab76
+    spriteID: 7ae45db18b5bd094587d4860d848cfd5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1662,7 +1661,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 7678}
-  - name: Frame_77
+  - name: VFX Blood Batch 1_Frame_77
     originalName: 
     pivot: {x: 0.38471505, y: 0.59999996}
     alignment: 9
@@ -1673,7 +1672,7 @@ ScriptedImporter:
       y: 460
       width: 772
       height: 300
-    spriteID: f838da9c1c2d6d64894c30c7b8a3ac61
+    spriteID: 39126da40885fe1428d84b3442747fc8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1682,7 +1681,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 460}
-  - name: Frame_78
+  - name: VFX Blood Batch 1_Frame_78
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -1693,7 +1692,7 @@ ScriptedImporter:
       y: 5079
       width: 640
       height: 300
-    spriteID: abd7a7fad08c22d4da6be8dc2330be4b
+    spriteID: f309387441c7f3a4abb7ec9bee1bc4b2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1702,7 +1701,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 5079}
-  - name: Frame_79
+  - name: VFX Blood Batch 1_Frame_79
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -1713,7 +1712,7 @@ ScriptedImporter:
       y: 5387
       width: 640
       height: 300
-    spriteID: 7cba3df8005311d45be2cb162509513f
+    spriteID: c7e9f9553ba3661458d8fd5d624e038e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1722,7 +1721,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 5387}
-  - name: Frame_80
+  - name: VFX Blood Batch 1_Frame_80
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -1733,7 +1732,7 @@ ScriptedImporter:
       y: 5695
       width: 640
       height: 300
-    spriteID: 2835712ea1c310b4c8f53a7d61406821
+    spriteID: 502a7391c47fd9c4b81112f17e974ef3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1742,7 +1741,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 5695}
-  - name: Frame_81
+  - name: VFX Blood Batch 1_Frame_81
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -1753,7 +1752,7 @@ ScriptedImporter:
       y: 6003
       width: 640
       height: 300
-    spriteID: a51ed18ccd8afdb4a8aed107f2b39e11
+    spriteID: dc3825e252bb32f4b856ccd8bc3b0d92
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1762,7 +1761,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 6003}
-  - name: Frame_82
+  - name: VFX Blood Batch 1_Frame_82
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -1773,7 +1772,7 @@ ScriptedImporter:
       y: 6311
       width: 640
       height: 300
-    spriteID: 5b61915c0e6ed9b42847aaed06324c01
+    spriteID: d8f7469759afe7a41a8fb7cc8f68675c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1782,7 +1781,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 6311}
-  - name: Frame_83
+  - name: VFX Blood Batch 1_Frame_83
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -1793,7 +1792,7 @@ ScriptedImporter:
       y: 6619
       width: 640
       height: 300
-    spriteID: 598cd6a97088f2641ad5e43577c69626
+    spriteID: dce59516be06be6469812696d045e685
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1802,7 +1801,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 6619}
-  - name: Frame_84
+  - name: VFX Blood Batch 1_Frame_84
     originalName: 
     pivot: {x: 0.2578125, y: 0.5960265}
     alignment: 9
@@ -1813,7 +1812,7 @@ ScriptedImporter:
       y: 6087
       width: 640
       height: 302
-    spriteID: 8bbd64b6b3fcdca4bbf8f520c4006e3b
+    spriteID: f8b5ffdb253e6d44bab94bf4db00b00d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1822,7 +1821,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 6087}
-  - name: Frame_85
+  - name: VFX Blood Batch 1_Frame_85
     originalName: 
     pivot: {x: 0.2578125, y: 0.4326923}
     alignment: 9
@@ -1833,7 +1832,7 @@ ScriptedImporter:
       y: 1957
       width: 640
       height: 416
-    spriteID: de47d4627b69f814a921ab5bfa578e9d
+    spriteID: 7022948a04d65c649bf0cf493e86e515
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1842,7 +1841,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 1957}
-  - name: Frame_86
+  - name: VFX Blood Batch 1_Frame_86
     originalName: 
     pivot: {x: 0.2578125, y: 0.40449437}
     alignment: 9
@@ -1853,7 +1852,7 @@ ScriptedImporter:
       y: 4163
       width: 640
       height: 445
-    spriteID: ea5035b0be056844f8da2186c0bcd409
+    spriteID: a77775993b06b974e9e13dce60a32146
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1862,7 +1861,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 4163}
-  - name: Frame_87
+  - name: VFX Blood Batch 1_Frame_87
     originalName: 
     pivot: {x: 0.2578125, y: 0.40268457}
     alignment: 9
@@ -1873,7 +1872,7 @@ ScriptedImporter:
       y: 2347
       width: 640
       height: 447
-    spriteID: bf30dea1070c4ed4998a3d246f0f1900
+    spriteID: 7215be8b0d8bdfc4080f491833949116
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1882,7 +1881,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 2347}
-  - name: Frame_88
+  - name: VFX Blood Batch 1_Frame_88
     originalName: 
     pivot: {x: 0.2578125, y: 0.40358743}
     alignment: 9
@@ -1893,7 +1892,7 @@ ScriptedImporter:
       y: 2802
       width: 640
       height: 446
-    spriteID: 073cec59711925349961423968e3e143
+    spriteID: 9bef0a24b22616a4cae7e4c11ce3d9b5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1902,7 +1901,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 2802}
-  - name: Frame_89
+  - name: VFX Blood Batch 1_Frame_89
     originalName: 
     pivot: {x: 0.2578125, y: 0.40449437}
     alignment: 9
@@ -1913,7 +1912,7 @@ ScriptedImporter:
       y: 4616
       width: 640
       height: 445
-    spriteID: 615a800f64e34ac4cba25a13b739e8b6
+    spriteID: 1f1bed9b5e447604ca9bffb35a50cd57
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1922,7 +1921,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 4616}
-  - name: Frame_90
+  - name: VFX Blood Batch 1_Frame_90
     originalName: 
     pivot: {x: 0.2578125, y: 0.40449437}
     alignment: 9
@@ -1933,7 +1932,7 @@ ScriptedImporter:
       y: 5069
       width: 640
       height: 445
-    spriteID: 00d4375387de6d645bfe9d2898b99291
+    spriteID: a6e7dcf635c74ad4dac9cd6a557bacfb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1942,7 +1941,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 5069}
-  - name: Frame_91
+  - name: VFX Blood Batch 1_Frame_91
     originalName: 
     pivot: {x: 0.2578125, y: 0.40449437}
     alignment: 9
@@ -1953,7 +1952,7 @@ ScriptedImporter:
       y: 5522
       width: 640
       height: 445
-    spriteID: 6176e1b69b1fa9f4c89983f2008d1a43
+    spriteID: 667c9c97391ba9e41be00e33618a2866
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1962,7 +1961,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 5522}
-  - name: Frame_92
+  - name: VFX Blood Batch 1_Frame_92
     originalName: 
     pivot: {x: 0.2578125, y: 0.40449437}
     alignment: 9
@@ -1973,7 +1972,7 @@ ScriptedImporter:
       y: 5975
       width: 640
       height: 445
-    spriteID: cc829d8ede628464e8316073261b135b
+    spriteID: 379caafc1c1348e46ad7fc3ad0268fb2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1982,7 +1981,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 5975}
-  - name: Frame_93
+  - name: VFX Blood Batch 1_Frame_93
     originalName: 
     pivot: {x: 0.2578125, y: 0.40449437}
     alignment: 9
@@ -1993,7 +1992,7 @@ ScriptedImporter:
       y: 6428
       width: 640
       height: 445
-    spriteID: e3e86a3f6c41a184680726074ef62517
+    spriteID: 167b6f85a0e03814f8d7ade3d7b19a90
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2002,7 +2001,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 6428}
-  - name: Frame_94
+  - name: VFX Blood Batch 1_Frame_94
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -2013,7 +2012,7 @@ ScriptedImporter:
       y: 6927
       width: 640
       height: 300
-    spriteID: c3f83bd57bf1518499aa017d741d1bd7
+    spriteID: a5dc63c0c2fc96e4389fb6c16fb5288f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2022,7 +2021,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 6927}
-  - name: Frame_95
+  - name: VFX Blood Batch 1_Frame_95
     originalName: 
     pivot: {x: 0.3863049, y: 0.5940594}
     alignment: 9
@@ -2033,7 +2032,7 @@ ScriptedImporter:
       y: 6135
       width: 774
       height: 303
-    spriteID: 12e271ba29c77614eb53c969a057c1f7
+    spriteID: 289473b1fe3135a428bf965b658b91ab
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2042,7 +2041,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 6135}
-  - name: Frame_96
+  - name: VFX Blood Batch 1_Frame_96
     originalName: 
     pivot: {x: 0.41066998, y: 0.43165466}
     alignment: 9
@@ -2053,7 +2052,7 @@ ScriptedImporter:
       y: 2728
       width: 806
       height: 417
-    spriteID: 2179671046d702d40bd45ceedab346d3
+    spriteID: 8ebb2c66be356994abf138ddbb2c8fed
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2062,7 +2061,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 2728}
-  - name: Frame_97
+  - name: VFX Blood Batch 1_Frame_97
     originalName: 
     pivot: {x: 0.4128554, y: 0.40358743}
     alignment: 9
@@ -2073,7 +2072,7 @@ ScriptedImporter:
       y: 2274
       width: 809
       height: 446
-    spriteID: e26affeaa4956874da11c3eb523230cc
+    spriteID: 3951be1ef8241194da80da94d0712c5b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2082,7 +2081,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 2274}
-  - name: Frame_98
+  - name: VFX Blood Batch 1_Frame_98
     originalName: 
     pivot: {x: 0.4128554, y: 0.4017857}
     alignment: 9
@@ -2093,7 +2092,7 @@ ScriptedImporter:
       y: 4
       width: 809
       height: 448
-    spriteID: 321da2684c695184399591086df4c0e9
+    spriteID: a91eebcbc3c21f54c8f68214c4e0814b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2102,7 +2101,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_99
+  - name: VFX Blood Batch 1_Frame_99
     originalName: 
     pivot: {x: 0.4135802, y: 0.40268457}
     alignment: 9
@@ -2113,7 +2112,7 @@ ScriptedImporter:
       y: 4
       width: 810
       height: 447
-    spriteID: 062f6fcb1bfcb6b4997e31f93dba6d02
+    spriteID: 20e6a18559d78f84db861357973e50af
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2122,7 +2121,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 4}
-  - name: Frame_100
+  - name: VFX Blood Batch 1_Frame_100
     originalName: 
     pivot: {x: 0.41430333, y: 0.40358743}
     alignment: 9
@@ -2133,7 +2132,7 @@ ScriptedImporter:
       y: 4
       width: 811
       height: 446
-    spriteID: 78aeada6d5942434898da2b554ca183a
+    spriteID: 4c5c7db75561f7445a1c52d86afd5c12
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2142,7 +2141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 4}
-  - name: Frame_101
+  - name: VFX Blood Batch 1_Frame_101
     originalName: 
     pivot: {x: 0.41430333, y: 0.40358743}
     alignment: 9
@@ -2153,7 +2152,7 @@ ScriptedImporter:
       y: 458
       width: 811
       height: 446
-    spriteID: 183ab56ee47707d46a457013340f2608
+    spriteID: eb34d9bf087db974fb8ff9422bb96699
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2162,7 +2161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 458}
-  - name: Frame_102
+  - name: VFX Blood Batch 1_Frame_102
     originalName: 
     pivot: {x: 0.4135802, y: 0.40358743}
     alignment: 9
@@ -2173,7 +2172,7 @@ ScriptedImporter:
       y: 912
       width: 810
       height: 446
-    spriteID: 04d54839f2eee52488bbadb4bb2d20e2
+    spriteID: 9b7f3f9e7d5f1c84195c879876bbc392
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2182,7 +2181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 912}
-  - name: Frame_103
+  - name: VFX Blood Batch 1_Frame_103
     originalName: 
     pivot: {x: 0.4135802, y: 0.40358743}
     alignment: 9
@@ -2193,7 +2192,7 @@ ScriptedImporter:
       y: 1366
       width: 810
       height: 446
-    spriteID: c781171586ac9844b8d6451c23e2c103
+    spriteID: 09e897e0b3ce74149a1a0c38af277a02
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2202,7 +2201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 1366}
-  - name: Frame_104
+  - name: VFX Blood Batch 1_Frame_104
     originalName: 
     pivot: {x: 0.4135802, y: 0.40358743}
     alignment: 9
@@ -2213,7 +2212,7 @@ ScriptedImporter:
       y: 1820
       width: 810
       height: 446
-    spriteID: 42e2b94032a6d914fb04f8f60e39bb81
+    spriteID: 2cbce835f3e7f1843b85cfc779a27ce4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2222,7 +2221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1639, y: 1820}
-  - name: Frame_105
+  - name: VFX Blood Batch 1_Frame_105
     originalName: 
     pivot: {x: 0.2578125, y: 0.40358743}
     alignment: 9
@@ -2233,7 +2232,7 @@ ScriptedImporter:
       y: 3256
       width: 640
       height: 446
-    spriteID: c8630ec2fa458d041bae665865a6af28
+    spriteID: d4040412306d610488039c6fa41b32be
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2242,7 +2241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 2458, y: 3256}
-  - name: Frame_106
+  - name: VFX Blood Batch 1_Frame_106
     originalName: 
     pivot: {x: 0.2578125, y: 0.4326923}
     alignment: 9
@@ -2253,7 +2252,7 @@ ScriptedImporter:
       y: 2381
       width: 640
       height: 416
-    spriteID: e4e78209771154845afc1dbcec700d29
+    spriteID: 9626864285b0c7945838fa43809ef378
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2262,7 +2261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 3283, y: 2381}
-  - name: Frame_107
+  - name: VFX Blood Batch 1_Frame_107
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -2273,7 +2272,7 @@ ScriptedImporter:
       y: 7235
       width: 640
       height: 300
-    spriteID: 54c855f1d16640f468a83efa752cdcfe
+    spriteID: 25699034e801e054fb73e38aad9b3f23
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2282,7 +2281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 7235}
-  - name: Frame_108
+  - name: VFX Blood Batch 1_Frame_108
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -2293,7 +2292,7 @@ ScriptedImporter:
       y: 7543
       width: 640
       height: 300
-    spriteID: a92da61360c2b4446936418a6ee75453
+    spriteID: 251309b48f75fe14a9ba45057ccc9945
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2302,7 +2301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 821, y: 7543}
-  - name: Frame_109
+  - name: VFX Blood Batch 1_Frame_109
     originalName: 
     pivot: {x: 0.2578125, y: 0.59999996}
     alignment: 9
@@ -2313,7 +2312,7 @@ ScriptedImporter:
       y: 7851
       width: 640
       height: 300
-    spriteID: 40f2ebe67ec941c4181e0cbec3825903
+    spriteID: 70052873b7fb796499b2ac7f69fb87de
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -2325,18 +2324,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 973820727
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 0
+    guid: 59771979
     name: VFX Blood Batch 1
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: VFX Blood Batch 1_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -2344,8 +2338,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 83a1e3092d637384fac8afb41c5d4fcb
-    - name: Frame_1
+      spriteId: 26a27bc568c00944d811e54076a9a608
+    - name: VFX Blood Batch 1_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -2353,8 +2347,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 979481273eaae224c8f7061deb649612
-    - name: Frame_2
+      spriteId: cd82ae529badad740b99c16258f40042
+    - name: VFX Blood Batch 1_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -2362,8 +2356,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: d408dad6a2540d74d82a3b52685af82d
-    - name: Frame_3
+      spriteId: 23d310e02c5255f4487a875c877c2a23
+    - name: VFX Blood Batch 1_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -2371,8 +2365,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: e7408e17315c3bc408e1f3d9a78bb42c
-    - name: Frame_4
+      spriteId: 92a7d4d70d8907c448c9e95d0a32d8dd
+    - name: VFX Blood Batch 1_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -2380,8 +2374,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 6da5333e2831da842a00c92797787fa1
-    - name: Frame_5
+      spriteId: 18cfdcb49f146014d93b4b4ce040c174
+    - name: VFX Blood Batch 1_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -2389,8 +2383,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 3ac9dd7aa633db444afda5ce27c2826b
-    - name: Frame_6
+      spriteId: 4537a7be5fad5be4595b67f905cfa2b6
+    - name: VFX Blood Batch 1_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -2398,8 +2392,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: b6f321275f6bc8f4ca3aba76dcfceea5
-    - name: Frame_7
+      spriteId: c146a3fafce3958448b26b1578d4c816
+    - name: VFX Blood Batch 1_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -2407,8 +2401,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 3fc16fc7597a72540b9ac3a7848c32dd
-    - name: Frame_8
+      spriteId: c0744244a4dc1014e8ed91a62a7bd919
+    - name: VFX Blood Batch 1_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -2416,8 +2410,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 708a8995354321b4cb4d6580ba4bf737
-    - name: Frame_9
+      spriteId: 8ebdd8970d930cd458373ef76e18300b
+    - name: VFX Blood Batch 1_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -2425,8 +2419,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 630988c950e79544d81179b3105aefd2
-    - name: Frame_10
+      spriteId: 555a00cd1a4487d4a98ed127c12a6e29
+    - name: VFX Blood Batch 1_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -2434,8 +2428,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 71cf4f96c5b480b4a840b23290fd046a
-    - name: Frame_11
+      spriteId: 9a1fec43141c68744b4d6bb2c9fec82e
+    - name: VFX Blood Batch 1_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -2443,8 +2437,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 78cc037dc31dc3a488722605dbf64161
-    - name: Frame_12
+      spriteId: fefdc3ac6870c9d43b4fcc5046562617
+    - name: VFX Blood Batch 1_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -2452,8 +2446,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 77d2bd07ddd65a64ca108a86d33807f6
-    - name: Frame_13
+      spriteId: a32449f1936a25c4283fa5582e7509c3
+    - name: VFX Blood Batch 1_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -2461,8 +2455,8 @@ ScriptedImporter:
         y: -180
         width: 657
         height: 300
-      spriteId: 8b4dd271de1a2974fb30a03bf13ac8b6
-    - name: Frame_14
+      spriteId: 93b77f727760dae4bb76e49bc07dd0d9
+    - name: VFX Blood Batch 1_Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -2470,8 +2464,8 @@ ScriptedImporter:
         y: -180
         width: 660
         height: 300
-      spriteId: f7605978fb036824bb20a738e9c6b3d3
-    - name: Frame_15
+      spriteId: 1be460bb8ae248846a67e24db1cc3a84
+    - name: VFX Blood Batch 1_Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -2479,8 +2473,8 @@ ScriptedImporter:
         y: -180
         width: 660
         height: 300
-      spriteId: 86c698e83c6fb4240879f7706ca5fc2a
-    - name: Frame_16
+      spriteId: f7c713c10efd60e4a914be3bd349ee0b
+    - name: VFX Blood Batch 1_Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -2488,8 +2482,8 @@ ScriptedImporter:
         y: -180
         width: 661
         height: 300
-      spriteId: f35f015342544c240806194514426b96
-    - name: Frame_17
+      spriteId: c62f7db4984b58a49843260b529aaa75
+    - name: VFX Blood Batch 1_Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -2497,8 +2491,8 @@ ScriptedImporter:
         y: -180
         width: 662
         height: 300
-      spriteId: 138a1cb95e2d5e6418838c8a09c72e82
-    - name: Frame_18
+      spriteId: 68fa271da1365334e8694fae7b1890db
+    - name: VFX Blood Batch 1_Frame_18
       frameIndex: 18
       additiveSortOrder: 0
       cellRect:
@@ -2506,8 +2500,8 @@ ScriptedImporter:
         y: -180
         width: 662
         height: 300
-      spriteId: f1a339de4fe90e342a72dc7c783c559d
-    - name: Frame_19
+      spriteId: f835f55be524b29449281bedf8d82f79
+    - name: VFX Blood Batch 1_Frame_19
       frameIndex: 19
       additiveSortOrder: 0
       cellRect:
@@ -2515,8 +2509,8 @@ ScriptedImporter:
         y: -180
         width: 662
         height: 300
-      spriteId: 13169a7c168a0ce4daff7e925fb7380b
-    - name: Frame_20
+      spriteId: 18fb85f6cbd128f47825aa7e033bf589
+    - name: VFX Blood Batch 1_Frame_20
       frameIndex: 20
       additiveSortOrder: 0
       cellRect:
@@ -2524,8 +2518,8 @@ ScriptedImporter:
         y: -180
         width: 661
         height: 300
-      spriteId: bfec388c294800f48bf366b456c1f8e7
-    - name: Frame_21
+      spriteId: 9804e0c61d8f2fc4a8f46532360a12af
+    - name: VFX Blood Batch 1_Frame_21
       frameIndex: 21
       additiveSortOrder: 0
       cellRect:
@@ -2533,8 +2527,8 @@ ScriptedImporter:
         y: -180
         width: 661
         height: 300
-      spriteId: a75747246321a6847bf43e825e812b1a
-    - name: Frame_22
+      spriteId: 373ca1d26000ca74c8d15e5496cbc8b3
+    - name: VFX Blood Batch 1_Frame_22
       frameIndex: 22
       additiveSortOrder: 0
       cellRect:
@@ -2542,8 +2536,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 3dd1b582bde01854991bab465983905b
-    - name: Frame_23
+      spriteId: e2ccfd4f5a9b2f0458380548317d23d3
+    - name: VFX Blood Batch 1_Frame_23
       frameIndex: 23
       additiveSortOrder: 0
       cellRect:
@@ -2551,8 +2545,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 145ca5e69a6530d41ab6cdfe34592e8a
-    - name: Frame_24
+      spriteId: c96d2993fa0df2541a346e1281659f1a
+    - name: VFX Blood Batch 1_Frame_24
       frameIndex: 24
       additiveSortOrder: 0
       cellRect:
@@ -2560,8 +2554,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 1391bd48dd2dc194090d889f0c0c7b8f
-    - name: Frame_25
+      spriteId: f17812fbfea208e42b52923a1d165aa2
+    - name: VFX Blood Batch 1_Frame_25
       frameIndex: 25
       additiveSortOrder: 0
       cellRect:
@@ -2569,8 +2563,8 @@ ScriptedImporter:
         y: -180
         width: 774
         height: 353
-      spriteId: d17005e812434c54bb6b8501dfbf3e3f
-    - name: Frame_26
+      spriteId: c3d6bf8298faacc4fa8e6f57c9b4239f
+    - name: VFX Blood Batch 1_Frame_26
       frameIndex: 26
       additiveSortOrder: 0
       cellRect:
@@ -2578,8 +2572,8 @@ ScriptedImporter:
         y: -180
         width: 798
         height: 382
-      spriteId: 61256c3dc1df8634a90d49d229d5ab67
-    - name: Frame_27
+      spriteId: c5a78041a4601854e85091e3f286e6de
+    - name: VFX Blood Batch 1_Frame_27
       frameIndex: 27
       additiveSortOrder: 0
       cellRect:
@@ -2587,8 +2581,8 @@ ScriptedImporter:
         y: -180
         width: 815
         height: 384
-      spriteId: b659071ee7422d74bbed7924e17ce4b3
-    - name: Frame_28
+      spriteId: a680b53c84a9ec640bbafb54aa257f4b
+    - name: VFX Blood Batch 1_Frame_28
       frameIndex: 28
       additiveSortOrder: 0
       cellRect:
@@ -2596,8 +2590,8 @@ ScriptedImporter:
         y: -180
         width: 818
         height: 383
-      spriteId: 6ebc72889319f4543bb884dd19121d78
-    - name: Frame_29
+      spriteId: f645578cbb24d5349b4eaee3dfd95209
+    - name: VFX Blood Batch 1_Frame_29
       frameIndex: 29
       additiveSortOrder: 0
       cellRect:
@@ -2605,8 +2599,8 @@ ScriptedImporter:
         y: -180
         width: 820
         height: 382
-      spriteId: 1ae80f24e8865e74aa7060bb6b2ea591
-    - name: Frame_30
+      spriteId: f06aa9a42c516fd42ad96613bd209a2a
+    - name: VFX Blood Batch 1_Frame_30
       frameIndex: 30
       additiveSortOrder: 0
       cellRect:
@@ -2614,8 +2608,8 @@ ScriptedImporter:
         y: -180
         width: 821
         height: 382
-      spriteId: 7904eafac39f3b948921f4e1b64c8db4
-    - name: Frame_31
+      spriteId: f42b2d640c80ada4dabf45814fdbda24
+    - name: VFX Blood Batch 1_Frame_31
       frameIndex: 31
       additiveSortOrder: 0
       cellRect:
@@ -2623,8 +2617,8 @@ ScriptedImporter:
         y: -180
         width: 820
         height: 382
-      spriteId: b2ffbf0f9f4312c4aa568b4733515b92
-    - name: Frame_32
+      spriteId: 7c2ca9cf9093e12418184abbfda60817
+    - name: VFX Blood Batch 1_Frame_32
       frameIndex: 32
       additiveSortOrder: 0
       cellRect:
@@ -2632,8 +2626,8 @@ ScriptedImporter:
         y: -180
         width: 817
         height: 382
-      spriteId: 1b5f104d241e2b14e9c62d9e2ef86f13
-    - name: Frame_33
+      spriteId: 1480f657cce4c6a4d8685e8bbb22cac4
+    - name: VFX Blood Batch 1_Frame_33
       frameIndex: 33
       additiveSortOrder: 0
       cellRect:
@@ -2641,8 +2635,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: b3aeb34222d209347b6b2b417c334ec9
-    - name: Frame_34
+      spriteId: 5411b0ee37c01ad40a36fab089b11aeb
+    - name: VFX Blood Batch 1_Frame_34
       frameIndex: 34
       additiveSortOrder: 0
       cellRect:
@@ -2650,8 +2644,8 @@ ScriptedImporter:
         y: -180
         width: 647
         height: 300
-      spriteId: 3423fa2d2fba246469229504fb401d32
-    - name: Frame_35
+      spriteId: a2654b6d83dff834bb716e0b234b26f9
+    - name: VFX Blood Batch 1_Frame_35
       frameIndex: 35
       additiveSortOrder: 0
       cellRect:
@@ -2659,8 +2653,8 @@ ScriptedImporter:
         y: -180
         width: 679
         height: 326
-      spriteId: 8730595884db0cd4d999d1503f4b1887
-    - name: Frame_36
+      spriteId: 55f25e04b0a303b489544d7f348c5bd8
+    - name: VFX Blood Batch 1_Frame_36
       frameIndex: 36
       additiveSortOrder: 0
       cellRect:
@@ -2668,8 +2662,8 @@ ScriptedImporter:
         y: -180
         width: 682
         height: 355
-      spriteId: f0121ee1fd3352f4694c8efce76ccdd0
-    - name: Frame_37
+      spriteId: 35a9ba73ce3975d4380cc4ce31077073
+    - name: VFX Blood Batch 1_Frame_37
       frameIndex: 37
       additiveSortOrder: 0
       cellRect:
@@ -2677,8 +2671,8 @@ ScriptedImporter:
         y: -180
         width: 682
         height: 357
-      spriteId: 6c2b968e94f54fe4eb52d96a44411cf7
-    - name: Frame_38
+      spriteId: 2a78b44cd0e720944b5beb457fd845f1
+    - name: VFX Blood Batch 1_Frame_38
       frameIndex: 38
       additiveSortOrder: 0
       cellRect:
@@ -2686,8 +2680,8 @@ ScriptedImporter:
         y: -180
         width: 683
         height: 356
-      spriteId: aa34ecad8a742a845a4d3c906158c39f
-    - name: Frame_39
+      spriteId: bfdc1e6975e36d141b02171abbbc17df
+    - name: VFX Blood Batch 1_Frame_39
       frameIndex: 39
       additiveSortOrder: 0
       cellRect:
@@ -2695,8 +2689,8 @@ ScriptedImporter:
         y: -180
         width: 684
         height: 355
-      spriteId: f45d807c7e7caab40bbed15c07ff1113
-    - name: Frame_40
+      spriteId: 8bb56887d4d8a8640af7dd258374a246
+    - name: VFX Blood Batch 1_Frame_40
       frameIndex: 40
       additiveSortOrder: 0
       cellRect:
@@ -2704,8 +2698,8 @@ ScriptedImporter:
         y: -180
         width: 684
         height: 355
-      spriteId: 9838a136631aa4a4e8c8b0278eff26fd
-    - name: Frame_41
+      spriteId: 6ce27dc92bfab0d4e9349a057f810459
+    - name: VFX Blood Batch 1_Frame_41
       frameIndex: 41
       additiveSortOrder: 0
       cellRect:
@@ -2713,8 +2707,8 @@ ScriptedImporter:
         y: -180
         width: 683
         height: 355
-      spriteId: 505352eabdf254249902be43f8373807
-    - name: Frame_42
+      spriteId: c7374e2f108ae684eb64d206162e0567
+    - name: VFX Blood Batch 1_Frame_42
       frameIndex: 42
       additiveSortOrder: 0
       cellRect:
@@ -2722,8 +2716,8 @@ ScriptedImporter:
         y: -180
         width: 683
         height: 355
-      spriteId: f3347927d22284c48899c850d5d7c4b5
-    - name: Frame_43
+      spriteId: 2b060175614c7a3498a624142979649b
+    - name: VFX Blood Batch 1_Frame_43
       frameIndex: 43
       additiveSortOrder: 0
       cellRect:
@@ -2731,8 +2725,8 @@ ScriptedImporter:
         y: -180
         width: 683
         height: 355
-      spriteId: 3fa1ad56ade3e0c4995dfd2b6428ab0b
-    - name: Frame_44
+      spriteId: 0808a11f7942bb34eaf8e5d8f0ce6be3
+    - name: VFX Blood Batch 1_Frame_44
       frameIndex: 44
       additiveSortOrder: 0
       cellRect:
@@ -2740,8 +2734,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 355
-      spriteId: aa99ccb5cbd653241977cf57262e01de
-    - name: Frame_45
+      spriteId: bc008adc0cffbd84f83252ad71b6c1be
+    - name: VFX Blood Batch 1_Frame_45
       frameIndex: 45
       additiveSortOrder: 0
       cellRect:
@@ -2749,8 +2743,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: e7ebb59ed437aab40841a23af4979177
-    - name: Frame_46
+      spriteId: 656e23447a2e91a40948395672810462
+    - name: VFX Blood Batch 1_Frame_46
       frameIndex: 46
       additiveSortOrder: 0
       cellRect:
@@ -2758,8 +2752,8 @@ ScriptedImporter:
         y: -180
         width: 760
         height: 300
-      spriteId: 94b32366323ace640b64b157b95256e1
-    - name: Frame_47
+      spriteId: d638b17565eac714f9b5eb4503a7fc96
+    - name: VFX Blood Batch 1_Frame_47
       frameIndex: 47
       additiveSortOrder: 0
       cellRect:
@@ -2767,8 +2761,8 @@ ScriptedImporter:
         y: -180
         width: 792
         height: 337
-      spriteId: a208f4168487bab47b0239bd0d0ad364
-    - name: Frame_48
+      spriteId: 2a25be83a15ca774a955a6062429ade3
+    - name: VFX Blood Batch 1_Frame_48
       frameIndex: 48
       additiveSortOrder: 0
       cellRect:
@@ -2776,8 +2770,8 @@ ScriptedImporter:
         y: -180
         width: 795
         height: 366
-      spriteId: dde1c6dc09fbe6842b67ed19023a8523
-    - name: Frame_49
+      spriteId: 3fe1889b96453dd499fc227bf5c2eb81
+    - name: VFX Blood Batch 1_Frame_49
       frameIndex: 49
       additiveSortOrder: 0
       cellRect:
@@ -2785,8 +2779,8 @@ ScriptedImporter:
         y: -180
         width: 795
         height: 368
-      spriteId: 5974f7f96f633a148a98c4a677c18246
-    - name: Frame_50
+      spriteId: 7950d97112973994aae91c2e63de7295
+    - name: VFX Blood Batch 1_Frame_50
       frameIndex: 50
       additiveSortOrder: 0
       cellRect:
@@ -2794,8 +2788,8 @@ ScriptedImporter:
         y: -180
         width: 796
         height: 367
-      spriteId: a2b2c350d787d1841b05d9d1846beb7b
-    - name: Frame_51
+      spriteId: 19f2cf8ae2c5642499b6d6e8042f2c1b
+    - name: VFX Blood Batch 1_Frame_51
       frameIndex: 51
       additiveSortOrder: 0
       cellRect:
@@ -2803,8 +2797,8 @@ ScriptedImporter:
         y: -180
         width: 797
         height: 366
-      spriteId: 0107b05a6a3df874aaaa1964c5c38cc0
-    - name: Frame_52
+      spriteId: 026862e745e6f5748a022fdcbd686e48
+    - name: VFX Blood Batch 1_Frame_52
       frameIndex: 52
       additiveSortOrder: 0
       cellRect:
@@ -2812,8 +2806,8 @@ ScriptedImporter:
         y: -180
         width: 797
         height: 366
-      spriteId: 9d21ff95b64b89340bd65029e4c3f457
-    - name: Frame_53
+      spriteId: 05dab7bd2ade73f41b0ee450198be5b5
+    - name: VFX Blood Batch 1_Frame_53
       frameIndex: 53
       additiveSortOrder: 0
       cellRect:
@@ -2821,8 +2815,8 @@ ScriptedImporter:
         y: -180
         width: 796
         height: 366
-      spriteId: 044d288eeaa6519408dd5bec06efa7d9
-    - name: Frame_54
+      spriteId: 6e14c480767361a4ea4005cffcf96d0c
+    - name: VFX Blood Batch 1_Frame_54
       frameIndex: 54
       additiveSortOrder: 0
       cellRect:
@@ -2830,8 +2824,8 @@ ScriptedImporter:
         y: -180
         width: 796
         height: 366
-      spriteId: c314d9a3dcb1fdd49b0e4aa3c0079c07
-    - name: Frame_55
+      spriteId: f60ae1b88d8b9e749a5d303ab3421bdb
+    - name: VFX Blood Batch 1_Frame_55
       frameIndex: 55
       additiveSortOrder: 0
       cellRect:
@@ -2839,8 +2833,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 9f6ab6fb8454d784ebc2497f5d0597ea
-    - name: Frame_56
+      spriteId: 9f0a337a6bc1ffa4caa45def1506d719
+    - name: VFX Blood Batch 1_Frame_56
       frameIndex: 56
       additiveSortOrder: 0
       cellRect:
@@ -2848,8 +2842,8 @@ ScriptedImporter:
         y: -180
         width: 644
         height: 302
-      spriteId: cb041668d32660e4a94aea4caa33903c
-    - name: Frame_57
+      spriteId: 034020dc418f3724abba78c781fad6bf
+    - name: VFX Blood Batch 1_Frame_57
       frameIndex: 57
       additiveSortOrder: 0
       cellRect:
@@ -2857,8 +2851,8 @@ ScriptedImporter:
         y: -180
         width: 676
         height: 416
-      spriteId: 4947f0586ac8cae4a8db9bf6095bd5c8
-    - name: Frame_58
+      spriteId: 255b303a6d980734ca99e11315d0a674
+    - name: VFX Blood Batch 1_Frame_58
       frameIndex: 58
       additiveSortOrder: 0
       cellRect:
@@ -2866,8 +2860,8 @@ ScriptedImporter:
         y: -180
         width: 679
         height: 445
-      spriteId: dfb7a656fbfe0c748919a3a762d67c39
-    - name: Frame_59
+      spriteId: a397a93dcbf3fb24a9b4c3c8b7f4e8e1
+    - name: VFX Blood Batch 1_Frame_59
       frameIndex: 59
       additiveSortOrder: 0
       cellRect:
@@ -2875,8 +2869,8 @@ ScriptedImporter:
         y: -180
         width: 679
         height: 447
-      spriteId: edfbebf7f1d7ef045a2a25219a295e39
-    - name: Frame_60
+      spriteId: 28aafb7a16a3f6c46a6acebd235a2049
+    - name: VFX Blood Batch 1_Frame_60
       frameIndex: 60
       additiveSortOrder: 0
       cellRect:
@@ -2884,8 +2878,8 @@ ScriptedImporter:
         y: -180
         width: 680
         height: 446
-      spriteId: efc738b0249bacb4c88cbe7fb782e0fc
-    - name: Frame_61
+      spriteId: a31dcae2f0f567c42abae9f065f71d47
+    - name: VFX Blood Batch 1_Frame_61
       frameIndex: 61
       additiveSortOrder: 0
       cellRect:
@@ -2893,8 +2887,8 @@ ScriptedImporter:
         y: -180
         width: 681
         height: 445
-      spriteId: 55c86798d2e7bbf4c908408b982c6675
-    - name: Frame_62
+      spriteId: dac10cd678dd63e4baed25fdee6db5d7
+    - name: VFX Blood Batch 1_Frame_62
       frameIndex: 62
       additiveSortOrder: 0
       cellRect:
@@ -2902,8 +2896,8 @@ ScriptedImporter:
         y: -180
         width: 681
         height: 445
-      spriteId: 31c0a458416492c46a86f2f3cef0166f
-    - name: Frame_63
+      spriteId: 9a0fd243dd205814ba31aefbc57e486d
+    - name: VFX Blood Batch 1_Frame_63
       frameIndex: 63
       additiveSortOrder: 0
       cellRect:
@@ -2911,8 +2905,8 @@ ScriptedImporter:
         y: -180
         width: 680
         height: 445
-      spriteId: 7b8e27cb27cf325479b560d25a5c24b4
-    - name: Frame_64
+      spriteId: 02257d98311bef6418151d906be0be90
+    - name: VFX Blood Batch 1_Frame_64
       frameIndex: 64
       additiveSortOrder: 0
       cellRect:
@@ -2920,8 +2914,8 @@ ScriptedImporter:
         y: -180
         width: 680
         height: 445
-      spriteId: 50092559216b9364e99165f8819f59e5
-    - name: Frame_65
+      spriteId: c0d02615a0a0724458262abdc25b387e
+    - name: VFX Blood Batch 1_Frame_65
       frameIndex: 65
       additiveSortOrder: 0
       cellRect:
@@ -2929,8 +2923,8 @@ ScriptedImporter:
         y: -180
         width: 680
         height: 445
-      spriteId: a211444eadadb334eb3f7103257fdeca
-    - name: Frame_66
+      spriteId: cad10891d8e376542a9f2c37c1f384e5
+    - name: VFX Blood Batch 1_Frame_66
       frameIndex: 66
       additiveSortOrder: 0
       cellRect:
@@ -2938,8 +2932,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 445
-      spriteId: 1292b94b88d8b6447921bc5026e628fb
-    - name: Frame_67
+      spriteId: 95b6f87655db20f4aa0403873cb9c725
+    - name: VFX Blood Batch 1_Frame_67
       frameIndex: 67
       additiveSortOrder: 0
       cellRect:
@@ -2947,8 +2941,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 415
-      spriteId: b054640db7a3a644482133960b4b5ae7
-    - name: Frame_68
+      spriteId: bfc5ca6bbb2d8e74080f68edfcc60e22
+    - name: VFX Blood Batch 1_Frame_68
       frameIndex: 68
       additiveSortOrder: 0
       cellRect:
@@ -2956,8 +2950,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 193ebd1a96bee054cb4a418d95d85de6
-    - name: Frame_69
+      spriteId: 57f5b6acb6bbf994fad506757e4b9a35
+    - name: VFX Blood Batch 1_Frame_69
       frameIndex: 69
       additiveSortOrder: 0
       cellRect:
@@ -2965,8 +2959,8 @@ ScriptedImporter:
         y: -180
         width: 768
         height: 300
-      spriteId: 06d84a98fb72dc24f93045d98a45d8d9
-    - name: Frame_70
+      spriteId: 7194a70b9cc68764fb93679493ae9cf0
+    - name: VFX Blood Batch 1_Frame_70
       frameIndex: 70
       additiveSortOrder: 0
       cellRect:
@@ -2974,8 +2968,8 @@ ScriptedImporter:
         y: -180
         width: 771
         height: 300
-      spriteId: a37b923d6ddefb54093db73b81905868
-    - name: Frame_71
+      spriteId: 2cbe1f8a674d72a43bc1bbd8a0998ca7
+    - name: VFX Blood Batch 1_Frame_71
       frameIndex: 71
       additiveSortOrder: 0
       cellRect:
@@ -2983,8 +2977,8 @@ ScriptedImporter:
         y: -180
         width: 771
         height: 300
-      spriteId: f244e4a23e169874a9db8563e019301b
-    - name: Frame_72
+      spriteId: 17766d39ddf03cd43827d9338753483f
+    - name: VFX Blood Batch 1_Frame_72
       frameIndex: 72
       additiveSortOrder: 0
       cellRect:
@@ -2992,8 +2986,8 @@ ScriptedImporter:
         y: -180
         width: 772
         height: 300
-      spriteId: 43f164d02a9baf942a10689c6b4443a6
-    - name: Frame_73
+      spriteId: 00985682d8e2c9740afec6fb981bcea6
+    - name: VFX Blood Batch 1_Frame_73
       frameIndex: 73
       additiveSortOrder: 0
       cellRect:
@@ -3001,8 +2995,8 @@ ScriptedImporter:
         y: -180
         width: 773
         height: 300
-      spriteId: 50dbdb82e49a8bc4a9d329fa98cd53a9
-    - name: Frame_74
+      spriteId: fadae21440df62245b15c9b17a72ee66
+    - name: VFX Blood Batch 1_Frame_74
       frameIndex: 74
       additiveSortOrder: 0
       cellRect:
@@ -3010,8 +3004,8 @@ ScriptedImporter:
         y: -180
         width: 773
         height: 300
-      spriteId: 7971d77f66a3c6e45b490f25c50239cc
-    - name: Frame_75
+      spriteId: 7f6b65ff954de9140a2e3348072add45
+    - name: VFX Blood Batch 1_Frame_75
       frameIndex: 75
       additiveSortOrder: 0
       cellRect:
@@ -3019,8 +3013,8 @@ ScriptedImporter:
         y: -180
         width: 772
         height: 300
-      spriteId: 4718b1dfab2ece34fad71564021c77a6
-    - name: Frame_76
+      spriteId: 4f94caeb0de10fe4db6cf43395c499eb
+    - name: VFX Blood Batch 1_Frame_76
       frameIndex: 76
       additiveSortOrder: 0
       cellRect:
@@ -3028,8 +3022,8 @@ ScriptedImporter:
         y: -180
         width: 772
         height: 300
-      spriteId: 60d5fc4b7cac9d74c891971c9ab3ab76
-    - name: Frame_77
+      spriteId: 7ae45db18b5bd094587d4860d848cfd5
+    - name: VFX Blood Batch 1_Frame_77
       frameIndex: 77
       additiveSortOrder: 0
       cellRect:
@@ -3037,8 +3031,8 @@ ScriptedImporter:
         y: -180
         width: 772
         height: 300
-      spriteId: f838da9c1c2d6d64894c30c7b8a3ac61
-    - name: Frame_78
+      spriteId: 39126da40885fe1428d84b3442747fc8
+    - name: VFX Blood Batch 1_Frame_78
       frameIndex: 78
       additiveSortOrder: 0
       cellRect:
@@ -3046,8 +3040,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: abd7a7fad08c22d4da6be8dc2330be4b
-    - name: Frame_79
+      spriteId: f309387441c7f3a4abb7ec9bee1bc4b2
+    - name: VFX Blood Batch 1_Frame_79
       frameIndex: 79
       additiveSortOrder: 0
       cellRect:
@@ -3055,8 +3049,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 7cba3df8005311d45be2cb162509513f
-    - name: Frame_80
+      spriteId: c7e9f9553ba3661458d8fd5d624e038e
+    - name: VFX Blood Batch 1_Frame_80
       frameIndex: 80
       additiveSortOrder: 0
       cellRect:
@@ -3064,8 +3058,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 2835712ea1c310b4c8f53a7d61406821
-    - name: Frame_81
+      spriteId: 502a7391c47fd9c4b81112f17e974ef3
+    - name: VFX Blood Batch 1_Frame_81
       frameIndex: 81
       additiveSortOrder: 0
       cellRect:
@@ -3073,8 +3067,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: a51ed18ccd8afdb4a8aed107f2b39e11
-    - name: Frame_82
+      spriteId: dc3825e252bb32f4b856ccd8bc3b0d92
+    - name: VFX Blood Batch 1_Frame_82
       frameIndex: 82
       additiveSortOrder: 0
       cellRect:
@@ -3082,8 +3076,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 5b61915c0e6ed9b42847aaed06324c01
-    - name: Frame_83
+      spriteId: d8f7469759afe7a41a8fb7cc8f68675c
+    - name: VFX Blood Batch 1_Frame_83
       frameIndex: 83
       additiveSortOrder: 0
       cellRect:
@@ -3091,8 +3085,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 598cd6a97088f2641ad5e43577c69626
-    - name: Frame_84
+      spriteId: dce59516be06be6469812696d045e685
+    - name: VFX Blood Batch 1_Frame_84
       frameIndex: 84
       additiveSortOrder: 0
       cellRect:
@@ -3100,8 +3094,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 302
-      spriteId: 8bbd64b6b3fcdca4bbf8f520c4006e3b
-    - name: Frame_85
+      spriteId: f8b5ffdb253e6d44bab94bf4db00b00d
+    - name: VFX Blood Batch 1_Frame_85
       frameIndex: 85
       additiveSortOrder: 0
       cellRect:
@@ -3109,8 +3103,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 416
-      spriteId: de47d4627b69f814a921ab5bfa578e9d
-    - name: Frame_86
+      spriteId: 7022948a04d65c649bf0cf493e86e515
+    - name: VFX Blood Batch 1_Frame_86
       frameIndex: 86
       additiveSortOrder: 0
       cellRect:
@@ -3118,8 +3112,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 445
-      spriteId: ea5035b0be056844f8da2186c0bcd409
-    - name: Frame_87
+      spriteId: a77775993b06b974e9e13dce60a32146
+    - name: VFX Blood Batch 1_Frame_87
       frameIndex: 87
       additiveSortOrder: 0
       cellRect:
@@ -3127,8 +3121,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 447
-      spriteId: bf30dea1070c4ed4998a3d246f0f1900
-    - name: Frame_88
+      spriteId: 7215be8b0d8bdfc4080f491833949116
+    - name: VFX Blood Batch 1_Frame_88
       frameIndex: 88
       additiveSortOrder: 0
       cellRect:
@@ -3136,8 +3130,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 446
-      spriteId: 073cec59711925349961423968e3e143
-    - name: Frame_89
+      spriteId: 9bef0a24b22616a4cae7e4c11ce3d9b5
+    - name: VFX Blood Batch 1_Frame_89
       frameIndex: 89
       additiveSortOrder: 0
       cellRect:
@@ -3145,8 +3139,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 445
-      spriteId: 615a800f64e34ac4cba25a13b739e8b6
-    - name: Frame_90
+      spriteId: 1f1bed9b5e447604ca9bffb35a50cd57
+    - name: VFX Blood Batch 1_Frame_90
       frameIndex: 90
       additiveSortOrder: 0
       cellRect:
@@ -3154,8 +3148,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 445
-      spriteId: 00d4375387de6d645bfe9d2898b99291
-    - name: Frame_91
+      spriteId: a6e7dcf635c74ad4dac9cd6a557bacfb
+    - name: VFX Blood Batch 1_Frame_91
       frameIndex: 91
       additiveSortOrder: 0
       cellRect:
@@ -3163,8 +3157,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 445
-      spriteId: 6176e1b69b1fa9f4c89983f2008d1a43
-    - name: Frame_92
+      spriteId: 667c9c97391ba9e41be00e33618a2866
+    - name: VFX Blood Batch 1_Frame_92
       frameIndex: 92
       additiveSortOrder: 0
       cellRect:
@@ -3172,8 +3166,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 445
-      spriteId: cc829d8ede628464e8316073261b135b
-    - name: Frame_93
+      spriteId: 379caafc1c1348e46ad7fc3ad0268fb2
+    - name: VFX Blood Batch 1_Frame_93
       frameIndex: 93
       additiveSortOrder: 0
       cellRect:
@@ -3181,8 +3175,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 445
-      spriteId: e3e86a3f6c41a184680726074ef62517
-    - name: Frame_94
+      spriteId: 167b6f85a0e03814f8d7ade3d7b19a90
+    - name: VFX Blood Batch 1_Frame_94
       frameIndex: 94
       additiveSortOrder: 0
       cellRect:
@@ -3190,8 +3184,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: c3f83bd57bf1518499aa017d741d1bd7
-    - name: Frame_95
+      spriteId: a5dc63c0c2fc96e4389fb6c16fb5288f
+    - name: VFX Blood Batch 1_Frame_95
       frameIndex: 95
       additiveSortOrder: 0
       cellRect:
@@ -3199,8 +3193,8 @@ ScriptedImporter:
         y: -180
         width: 774
         height: 303
-      spriteId: 12e271ba29c77614eb53c969a057c1f7
-    - name: Frame_96
+      spriteId: 289473b1fe3135a428bf965b658b91ab
+    - name: VFX Blood Batch 1_Frame_96
       frameIndex: 96
       additiveSortOrder: 0
       cellRect:
@@ -3208,8 +3202,8 @@ ScriptedImporter:
         y: -180
         width: 806
         height: 417
-      spriteId: 2179671046d702d40bd45ceedab346d3
-    - name: Frame_97
+      spriteId: 8ebb2c66be356994abf138ddbb2c8fed
+    - name: VFX Blood Batch 1_Frame_97
       frameIndex: 97
       additiveSortOrder: 0
       cellRect:
@@ -3217,8 +3211,8 @@ ScriptedImporter:
         y: -180
         width: 809
         height: 446
-      spriteId: e26affeaa4956874da11c3eb523230cc
-    - name: Frame_98
+      spriteId: 3951be1ef8241194da80da94d0712c5b
+    - name: VFX Blood Batch 1_Frame_98
       frameIndex: 98
       additiveSortOrder: 0
       cellRect:
@@ -3226,8 +3220,8 @@ ScriptedImporter:
         y: -180
         width: 809
         height: 448
-      spriteId: 321da2684c695184399591086df4c0e9
-    - name: Frame_99
+      spriteId: a91eebcbc3c21f54c8f68214c4e0814b
+    - name: VFX Blood Batch 1_Frame_99
       frameIndex: 99
       additiveSortOrder: 0
       cellRect:
@@ -3235,8 +3229,8 @@ ScriptedImporter:
         y: -180
         width: 810
         height: 447
-      spriteId: 062f6fcb1bfcb6b4997e31f93dba6d02
-    - name: Frame_100
+      spriteId: 20e6a18559d78f84db861357973e50af
+    - name: VFX Blood Batch 1_Frame_100
       frameIndex: 100
       additiveSortOrder: 0
       cellRect:
@@ -3244,8 +3238,8 @@ ScriptedImporter:
         y: -180
         width: 811
         height: 446
-      spriteId: 78aeada6d5942434898da2b554ca183a
-    - name: Frame_101
+      spriteId: 4c5c7db75561f7445a1c52d86afd5c12
+    - name: VFX Blood Batch 1_Frame_101
       frameIndex: 101
       additiveSortOrder: 0
       cellRect:
@@ -3253,8 +3247,8 @@ ScriptedImporter:
         y: -180
         width: 811
         height: 446
-      spriteId: 183ab56ee47707d46a457013340f2608
-    - name: Frame_102
+      spriteId: eb34d9bf087db974fb8ff9422bb96699
+    - name: VFX Blood Batch 1_Frame_102
       frameIndex: 102
       additiveSortOrder: 0
       cellRect:
@@ -3262,8 +3256,8 @@ ScriptedImporter:
         y: -180
         width: 810
         height: 446
-      spriteId: 04d54839f2eee52488bbadb4bb2d20e2
-    - name: Frame_103
+      spriteId: 9b7f3f9e7d5f1c84195c879876bbc392
+    - name: VFX Blood Batch 1_Frame_103
       frameIndex: 103
       additiveSortOrder: 0
       cellRect:
@@ -3271,8 +3265,8 @@ ScriptedImporter:
         y: -180
         width: 810
         height: 446
-      spriteId: c781171586ac9844b8d6451c23e2c103
-    - name: Frame_104
+      spriteId: 09e897e0b3ce74149a1a0c38af277a02
+    - name: VFX Blood Batch 1_Frame_104
       frameIndex: 104
       additiveSortOrder: 0
       cellRect:
@@ -3280,8 +3274,8 @@ ScriptedImporter:
         y: -180
         width: 810
         height: 446
-      spriteId: 42e2b94032a6d914fb04f8f60e39bb81
-    - name: Frame_105
+      spriteId: 2cbce835f3e7f1843b85cfc779a27ce4
+    - name: VFX Blood Batch 1_Frame_105
       frameIndex: 105
       additiveSortOrder: 0
       cellRect:
@@ -3289,8 +3283,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 446
-      spriteId: c8630ec2fa458d041bae665865a6af28
-    - name: Frame_106
+      spriteId: d4040412306d610488039c6fa41b32be
+    - name: VFX Blood Batch 1_Frame_106
       frameIndex: 106
       additiveSortOrder: 0
       cellRect:
@@ -3298,8 +3292,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 416
-      spriteId: e4e78209771154845afc1dbcec700d29
-    - name: Frame_107
+      spriteId: 9626864285b0c7945838fa43809ef378
+    - name: VFX Blood Batch 1_Frame_107
       frameIndex: 107
       additiveSortOrder: 0
       cellRect:
@@ -3307,8 +3301,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 54c855f1d16640f468a83efa752cdcfe
-    - name: Frame_108
+      spriteId: 25699034e801e054fb73e38aad9b3f23
+    - name: VFX Blood Batch 1_Frame_108
       frameIndex: 108
       additiveSortOrder: 0
       cellRect:
@@ -3316,8 +3310,8 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: a92da61360c2b4446936418a6ee75453
-    - name: Frame_109
+      spriteId: 251309b48f75fe14a9ba45057ccc9945
+    - name: VFX Blood Batch 1_Frame_109
       frameIndex: 109
       additiveSortOrder: 0
       cellRect:
@@ -3325,7 +3319,7 @@ ScriptedImporter:
         y: -180
         width: 640
         height: 300
-      spriteId: 40f2ebe67ec941c4181e0cbec3825903
+      spriteId: 70052873b7fb796499b2ac7f69fb87de
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -3345,4 +3339,3 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 110, y: 93}
-  previousTextureSize: {x: 4096, y: 8192}

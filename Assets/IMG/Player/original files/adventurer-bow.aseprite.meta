@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -133,7 +132,7 @@ ScriptedImporter:
       y: 199
       width: 20
       height: 26
-    spriteID: 3e1233b6e24b988499f5df293730fce5
+    spriteID: a88caa5f78616494790862e2953d3554
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,7 +152,7 @@ ScriptedImporter:
       y: 166
       width: 22
       height: 25
-    spriteID: a4a61d598332a0e4da7d5980c1939bb2
+    spriteID: 2b54f5f6d5f36ad458b1d50f6544b6a0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -173,7 +172,7 @@ ScriptedImporter:
       y: 37
       width: 24
       height: 24
-    spriteID: 36948433e5f1d694398093aa942f89ac
+    spriteID: bdb3b52ad542a5a45ad825cd97502d07
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -193,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 24
       height: 25
-    spriteID: f74c38420ce318243be107d2fbdbfecc
+    spriteID: 8b093b2c5fc3b8d49ae27be783136f51
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -213,7 +212,7 @@ ScriptedImporter:
       y: 173
       width: 24
       height: 26
-    spriteID: 817fdf6ed116dcc4da4265ac09ada296
+    spriteID: f24d85e9a0f05f143b1ed2d7d770971d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -233,7 +232,7 @@ ScriptedImporter:
       y: 69
       width: 23
       height: 25
-    spriteID: 798b2b818f5d9094fb25fc58505da3d3
+    spriteID: a991e597c1a570d49b467fcec9d981ef
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,7 +252,7 @@ ScriptedImporter:
       y: 207
       width: 24
       height: 26
-    spriteID: b4ca3d629c72e1a45b5387c132f76ad4
+    spriteID: 0e3b556fe8ac841478675906f8a97f10
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -273,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 36
       height: 26
-    spriteID: d9cf00c28fae1434690bff5847e7da65
+    spriteID: 00c4d24c2375ec540a18ebf4fb156994
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -293,7 +292,7 @@ ScriptedImporter:
       y: 106
       width: 29
       height: 26
-    spriteID: d2ef5a304ed49f94d968bb8ad4d53647
+    spriteID: d6a911f80473d624bbc70da2ca3747a7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -313,7 +312,7 @@ ScriptedImporter:
       y: 102
       width: 23
       height: 25
-    spriteID: 8fa801f5a56b0964cb72ef8446c64e5a
+    spriteID: 04d5110790611704f80c0a1ef200ec02
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -333,7 +332,7 @@ ScriptedImporter:
       y: 135
       width: 24
       height: 23
-    spriteID: 506189196f4ec7743944b2b115a49aa4
+    spriteID: 2ece890261e187f4698cc64013052682
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -353,7 +352,7 @@ ScriptedImporter:
       y: 4
       width: 25
       height: 24
-    spriteID: d5044f94d09f2ee48914455fdc2752d1
+    spriteID: 1076f5a30e0233f4da84c8dfd1ede304
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -373,7 +372,7 @@ ScriptedImporter:
       y: 140
       width: 27
       height: 25
-    spriteID: 99263a47ed12c6b45b5e994fe918b225
+    spriteID: ab28b72195cf56549877ee82c3c239f4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -393,7 +392,7 @@ ScriptedImporter:
       y: 38
       width: 36
       height: 26
-    spriteID: 419de6346ca0247448dcdef43a624a02
+    spriteID: 164f2958eb5951d49836e9ab8a0febbc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -413,7 +412,7 @@ ScriptedImporter:
       y: 72
       width: 34
       height: 26
-    spriteID: 3616fed47820efd45a810dc6776316a9
+    spriteID: 6bb104efc7d1c604aa6c29ef4cea9978
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -425,18 +424,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 4000061415
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: -294905881
+    guid: -1113517765
     name: adventurer-bow
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: adventurer-bow_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -444,8 +438,8 @@ ScriptedImporter:
         y: 1
         width: 20
         height: 26
-      spriteId: 3e1233b6e24b988499f5df293730fce5
-    - name: Frame_1
+      spriteId: a88caa5f78616494790862e2953d3554
+    - name: adventurer-bow_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -453,8 +447,8 @@ ScriptedImporter:
         y: 1
         width: 22
         height: 25
-      spriteId: a4a61d598332a0e4da7d5980c1939bb2
-    - name: Frame_2
+      spriteId: 2b54f5f6d5f36ad458b1d50f6544b6a0
+    - name: adventurer-bow_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -462,8 +456,8 @@ ScriptedImporter:
         y: 1
         width: 24
         height: 24
-      spriteId: 36948433e5f1d694398093aa942f89ac
-    - name: Frame_3
+      spriteId: bdb3b52ad542a5a45ad825cd97502d07
+    - name: adventurer-bow_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -471,8 +465,8 @@ ScriptedImporter:
         y: 1
         width: 24
         height: 25
-      spriteId: f74c38420ce318243be107d2fbdbfecc
-    - name: Frame_4
+      spriteId: 8b093b2c5fc3b8d49ae27be783136f51
+    - name: adventurer-bow_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -480,8 +474,8 @@ ScriptedImporter:
         y: 1
         width: 24
         height: 26
-      spriteId: 817fdf6ed116dcc4da4265ac09ada296
-    - name: Frame_5
+      spriteId: f24d85e9a0f05f143b1ed2d7d770971d
+    - name: adventurer-bow_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -489,8 +483,8 @@ ScriptedImporter:
         y: 1
         width: 23
         height: 25
-      spriteId: 798b2b818f5d9094fb25fc58505da3d3
-    - name: Frame_6
+      spriteId: a991e597c1a570d49b467fcec9d981ef
+    - name: adventurer-bow_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -498,8 +492,8 @@ ScriptedImporter:
         y: 1
         width: 24
         height: 26
-      spriteId: b4ca3d629c72e1a45b5387c132f76ad4
-    - name: Frame_7
+      spriteId: 0e3b556fe8ac841478675906f8a97f10
+    - name: adventurer-bow_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -507,8 +501,8 @@ ScriptedImporter:
         y: 1
         width: 36
         height: 26
-      spriteId: d9cf00c28fae1434690bff5847e7da65
-    - name: Frame_8
+      spriteId: 00c4d24c2375ec540a18ebf4fb156994
+    - name: adventurer-bow_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -516,8 +510,8 @@ ScriptedImporter:
         y: 1
         width: 29
         height: 26
-      spriteId: d2ef5a304ed49f94d968bb8ad4d53647
-    - name: Frame_9
+      spriteId: d6a911f80473d624bbc70da2ca3747a7
+    - name: adventurer-bow_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -525,8 +519,8 @@ ScriptedImporter:
         y: 3
         width: 23
         height: 25
-      spriteId: 8fa801f5a56b0964cb72ef8446c64e5a
-    - name: Frame_10
+      spriteId: 04d5110790611704f80c0a1ef200ec02
+    - name: adventurer-bow_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -534,8 +528,8 @@ ScriptedImporter:
         y: 6
         width: 24
         height: 23
-      spriteId: 506189196f4ec7743944b2b115a49aa4
-    - name: Frame_11
+      spriteId: 2ece890261e187f4698cc64013052682
+    - name: adventurer-bow_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -543,8 +537,8 @@ ScriptedImporter:
         y: 6
         width: 25
         height: 24
-      spriteId: d5044f94d09f2ee48914455fdc2752d1
-    - name: Frame_12
+      spriteId: 1076f5a30e0233f4da84c8dfd1ede304
+    - name: adventurer-bow_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -552,8 +546,8 @@ ScriptedImporter:
         y: 4
         width: 27
         height: 25
-      spriteId: 99263a47ed12c6b45b5e994fe918b225
-    - name: Frame_13
+      spriteId: ab28b72195cf56549877ee82c3c239f4
+    - name: adventurer-bow_Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -561,8 +555,8 @@ ScriptedImporter:
         y: 4
         width: 36
         height: 26
-      spriteId: 419de6346ca0247448dcdef43a624a02
-    - name: Frame_14
+      spriteId: 164f2958eb5951d49836e9ab8a0febbc
+    - name: adventurer-bow_Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -570,7 +564,7 @@ ScriptedImporter:
         y: 4
         width: 34
         height: 26
-      spriteId: 3616fed47820efd45a810dc6776316a9
+      spriteId: 6bb104efc7d1c604aa6c29ef4cea9978
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -590,4 +584,3 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 50, y: 37}
-  previousTextureSize: {x: 128, y: 256}

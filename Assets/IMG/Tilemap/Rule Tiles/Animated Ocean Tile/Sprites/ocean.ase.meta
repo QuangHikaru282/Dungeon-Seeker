@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -133,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 5370ab61650dc8f4094285c4325aa6f5
+    spriteID: b260343a9e159f249a18fcd0606b58ce
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,7 +152,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 730c68f08719da648ac413b758a3167d
+    spriteID: 8f63bc6e81d4f3b46afa7ad1d6dd733d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -173,7 +172,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 10375df589416754295d94e356b7fe59
+    spriteID: 337bf9be811cfbc439af435b8ed470d6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -193,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: d875f5f02b9b1554880666c9ae61986e
+    spriteID: 7a8c6c628ab9d854aa4fa6cf9980cc67
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -205,18 +204,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3362753348
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: -932213948
+    guid: -721749900
     name: ocean
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: ocean_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -224,8 +218,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 5370ab61650dc8f4094285c4325aa6f5
-    - name: Frame_1
+      spriteId: b260343a9e159f249a18fcd0606b58ce
+    - name: ocean_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -233,8 +227,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 730c68f08719da648ac413b758a3167d
-    - name: Frame_2
+      spriteId: 8f63bc6e81d4f3b46afa7ad1d6dd733d
+    - name: ocean_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -242,8 +236,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 10375df589416754295d94e356b7fe59
-    - name: Frame_3
+      spriteId: 337bf9be811cfbc439af435b8ed470d6
+    - name: ocean_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -251,7 +245,7 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: d875f5f02b9b1554880666c9ae61986e
+      spriteId: 7a8c6c628ab9d854aa4fa6cf9980cc67
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -271,4 +265,3 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 64, y: 64}
-  previousTextureSize: {x: 256, y: 256}
