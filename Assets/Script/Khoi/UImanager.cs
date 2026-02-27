@@ -28,6 +28,8 @@ public class UImanager : MonoBehaviour
     [SerializeField]
     private GameObject AudioPlay;
     [SerializeField]
+    private GameObject titleUI;
+    [SerializeField]
     private GameObject AudioGame;
 
     [SerializeField]
@@ -56,7 +58,7 @@ public class UImanager : MonoBehaviour
             darkUI.SetActive(true);
             Time.timeScale = 0;
         }
-        else 
+        else
         {
             pauseUI.SetActive(false);
             darkUI.SetActive(false);
@@ -68,6 +70,7 @@ public class UImanager : MonoBehaviour
         Exit.SetActive(false);
         playUI.SetActive(false);
         logoUI.SetActive(false);
+        titleUI.SetActive(false);
         stopUI.SetActive(false);
         playerUI.SetActive(true);
         loadUI.SetActive(false);

@@ -1,9 +1,9 @@
 {
-    "health": 18,
+    "health": 16,
     "mana": 200,
-    "x": 22.077058792114259,
-    "y": 1.8529057502746583,
-    "sceneName": "scene1_Khoi",
+    "x": 22.08719253540039,
+    "y": 1.8528454303741456,
+    "sceneName": "Gameplay_lv1",
     "unlockSkill_L": false,
     "unlockSkill_E": false,
     "unlockSkill_Q": false,

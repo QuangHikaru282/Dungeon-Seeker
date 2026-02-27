@@ -7,6 +7,6 @@ public class SceneLoadBegin : MonoBehaviour
 {
     public void Start()
     {
-        SceneLoadData.nextSceneName = "scene1_Khoi";
+        SceneLoadData.nextSceneName = "Gameplay_lv1";
     }
 }
