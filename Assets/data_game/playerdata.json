@@ -1,12 +1,12 @@
 {
     "health": 16,
-    "mana": 200,
-    "x": 22.08719253540039,
-    "y": 1.8528454303741456,
+    "mana": 68,
+    "x": 83.9772720336914,
+    "y": 26.425819396972658,
     "sceneName": "Gameplay_lv1",
     "unlockSkill_L": false,
-    "unlockSkill_E": false,
-    "unlockSkill_Q": false,
-    "unlockSkill_DoubleJump": false,
+    "unlockSkill_E": true,
+    "unlockSkill_Q": true,
+    "unlockSkill_DoubleJump": true,
     "door": false
 }
