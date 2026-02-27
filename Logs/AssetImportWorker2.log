@@ -15,7 +15,7 @@ D:/DN/UNITY/Solo-Abyss
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-54380
+64374
 Successfully changed project path to: D:/DN/UNITY/Solo-Abyss
 D:/DN/UNITY/Solo-Abyss
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,16 +49,16 @@ D:/DN/UNITY/Solo-Abyss
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [18032]  Target information:
+Player connection [10628]  Target information:
 
-Player connection [18032]  * "[IP] 26.253.110.139 [Port] 0 [Flags] 2 [Guid] 2641624565 [EditorId] 2641624565 [Version] 1048832 [Id] WindowsEditor(7,GIGABYTE_G5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [10628]  * "[IP] 26.253.110.139 [Port] 0 [Flags] 2 [Guid] 1143768164 [EditorId] 1143768164 [Version] 1048832 [Id] WindowsEditor(7,GIGABYTE_G5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [18032]  * "[IP] 192.168.100.100 [Port] 0 [Flags] 2 [Guid] 2641624565 [EditorId] 2641624565 [Version] 1048832 [Id] WindowsEditor(7,GIGABYTE_G5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [10628]  * "[IP] 192.168.100.100 [Port] 0 [Flags] 2 [Guid] 1143768164 [EditorId] 1143768164 [Version] 1048832 [Id] WindowsEditor(7,GIGABYTE_G5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [18032] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [18032] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [10628] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [10628] Host joined alternative multi-casting on [225.0.0.222:34997]...
 [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-Refreshing native plugins compatible for Editor in 3.91 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 4.98 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.45f1 (a13dfa44d684)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Resources/UnitySubsystems
@@ -74,47 +74,47 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56644
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008870 seconds.
-- Loaded All Assemblies, in  0.366 seconds
+Registered in 0.015063 seconds.
+- Loaded All Assemblies, in  0.583 seconds
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 221 ms
+Android Extension - Scanning For ADB Devices 299 ms
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.510 seconds
-Domain Reload Profiling: 875ms
-	BeginReloadAssembly (95ms)
+- Finished resetting the current domain, in  0.682 seconds
+Domain Reload Profiling: 1263ms
+	BeginReloadAssembly (208ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (30ms)
-	RebuildNativeTypeToScriptingClass (10ms)
-	initialDomainReloadingComplete (63ms)
-	LoadAllAssembliesAndSetupDomain (165ms)
-		LoadAssemblies (93ms)
+	RebuildCommonClasses (58ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (93ms)
+	LoadAllAssembliesAndSetupDomain (204ms)
+		LoadAssemblies (205ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (163ms)
-			TypeCache.Refresh (161ms)
-				TypeCache.ScanAssembly (149ms)
+		AnalyzeDomain (201ms)
+			TypeCache.Refresh (199ms)
+				TypeCache.ScanAssembly (184ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
-			ResolveRequiredComponents (0ms)
-	FinalizeReload (511ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (683ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (465ms)
+		SetupLoadedEditorAssemblies (624ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (292ms)
-			SetLoadedEditorAssemblies (4ms)
+			InitializePlatformSupportModulesInManaged (390ms)
+			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (3ms)
-			ProcessInitializeOnLoadAttributes (118ms)
-			ProcessInitializeOnLoadMethodAttributes (48ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (159ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -123,51 +123,51 @@ Domain Reload Profiling: 875ms
 Worker process is ready to serve import requests
 Caller must complete domain reload
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.599 seconds
+- Loaded All Assemblies, in  0.732 seconds
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.900 seconds
-Domain Reload Profiling: 1497ms
-	BeginReloadAssembly (158ms)
+- Finished resetting the current domain, in  1.125 seconds
+Domain Reload Profiling: 1856ms
+	BeginReloadAssembly (184ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (5ms)
+		DisableScriptedObjects (8ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (29ms)
-	RebuildCommonClasses (34ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (39ms)
-	LoadAllAssembliesAndSetupDomain (355ms)
-		LoadAssemblies (270ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (428ms)
+		LoadAssemblies (334ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (176ms)
-			TypeCache.Refresh (133ms)
-				TypeCache.ScanAssembly (117ms)
-			ScanForSourceGeneratedMonoScriptInfo (28ms)
-			ResolveRequiredComponents (13ms)
-	FinalizeReload (901ms)
+		AnalyzeDomain (186ms)
+			TypeCache.Refresh (146ms)
+				TypeCache.ScanAssembly (128ms)
+			ScanForSourceGeneratedMonoScriptInfo (24ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1126ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (720ms)
+		SetupLoadedEditorAssemblies (910ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (20ms)
-			SetLoadedEditorAssemblies (5ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (9ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (106ms)
-			ProcessInitializeOnLoadAttributes (259ms)
-			ProcessInitializeOnLoadMethodAttributes (321ms)
+			BeforeProcessingInitializeOnLoad (144ms)
+			ProcessInitializeOnLoadAttributes (312ms)
+			ProcessInitializeOnLoadMethodAttributes (408ms)
 			AfterProcessingInitializeOnLoad (10ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (8ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 3.36 ms, found 1 plugins.
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 2.97 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3894 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 37 unused Assets / (413.4 KB). Loaded Objects now: 4375.
-Memory consumption went from 206.2 MB to 205.8 MB.
-Total: 3.378400 ms (FindLiveObjects: 0.318200 ms CreateObjectMapping: 0.114300 ms MarkObjects: 2.739300 ms  DeleteObjects: 0.205000 ms)
+Unloading 3899 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 37 unused Assets / (413.5 KB). Loaded Objects now: 4380.
+Memory consumption went from 206.9 MB to 206.5 MB.
+Total: 5.025900 ms (FindLiveObjects: 0.483100 ms CreateObjectMapping: 0.368900 ms MarkObjects: 3.847200 ms  DeleteObjects: 0.322900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -185,49 +185,1374 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 54453.479570 seconds.
-  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile
-  artifactKey: Guid(11ac5e5d947110d4b8399671acf8a045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile using Guid(11ac5e5d947110d4b8399671acf8a045) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b1246606cd60908a5406df2841a92b2c') in 0.002352 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.026587 seconds.
-  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_1.png
-  artifactKey: Guid(07498d7fc0ad33a478ace8c04802b7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_1.png using Guid(07498d7fc0ad33a478ace8c04802b7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'a74de94a14a6219175361643ee5201fc') in 0.079103 seconds
+  Time since last request: 22765.964760 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_542.asset
+  artifactKey: Guid(c85d4ec95309fd94fb8f2a0cd5633443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_542.asset using Guid(c85d4ec95309fd94fb8f2a0cd5633443) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '22e3e23566a75a6bbe6f4fe611bfef6d') in 0.094964 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 2.517959 seconds.
-  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast
-  artifactKey: Guid(ecd4eb1b48aaaf442849ff4f618806e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast using Guid(ecd4eb1b48aaaf442849ff4f618806e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '78a75eaa88b95914575d703ea6f819a5') in 0.001014 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.055158 seconds.
-  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_1.png
-  artifactKey: Guid(351262128803e9349a821a54cf933204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_1.png using Guid(351262128803e9349a821a54cf933204) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '0bd98ddd832c029d8b4154eb33e5b3c0') in 0.011824 seconds
+  Time since last request: 0.000041 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_540.asset
+  artifactKey: Guid(2a1fc60c8c0fd6146b0fa98178cbc9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_540.asset using Guid(2a1fc60c8c0fd6146b0fa98178cbc9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '421a701bc2cd54f7f3840e779bbb3662') in 0.009541 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_5.png
-  artifactKey: Guid(7c4ac1360ec604b4a8536aa873bdce48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_5.png using Guid(7c4ac1360ec604b4a8536aa873bdce48) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '46c7e1a02aa2439e0e121095db4fdd99') in 0.009449 seconds
+  Time since last request: 0.000022 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_4.asset
+  artifactKey: Guid(c2056b82243bdc841b796324f005634d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_4.asset using Guid(c2056b82243bdc841b796324f005634d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd19df135986b7b4075d1ef044b0ae42f') in 0.010803 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_536.asset
+  artifactKey: Guid(2e1aa568e98c5ec4f8718303b69bdd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_536.asset using Guid(2e1aa568e98c5ec4f8718303b69bdd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '387188ebff12ae5ded6d171a1884c0cf') in 0.008490 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_531.asset
+  artifactKey: Guid(bd94f70ec7095b34ab1bbd9bcaf53d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_531.asset using Guid(bd94f70ec7095b34ab1bbd9bcaf53d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b8bc323bb421e480973b283fd971dc12') in 0.008712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_10.asset
+  artifactKey: Guid(bc13331969893914d9ab5b22bd9ab5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_10.asset using Guid(bc13331969893914d9ab5b22bd9ab5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3fa128e468091f9a385c9487da721213') in 0.008851 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_546.asset
+  artifactKey: Guid(3ea8991abddfe3a48806d7c2b019f2ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_546.asset using Guid(3ea8991abddfe3a48806d7c2b019f2ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5e5ff96711693374d993b8130cef0d1b') in 0.008167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_550.asset
+  artifactKey: Guid(ec0e81f20ec089a43ad9d8da5421a558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_550.asset using Guid(ec0e81f20ec089a43ad9d8da5421a558) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8b0d7309ee945d7306d273c56bb1e915') in 0.007173 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_533.asset
+  artifactKey: Guid(4b0e8831372658e4f9fed95530145cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_533.asset using Guid(4b0e8831372658e4f9fed95530145cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3ded492fb85ab12b9cc2b41f71940526') in 0.008816 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_555.asset
+  artifactKey: Guid(2a1200f0b9c0c5644a1e8a1685283726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_555.asset using Guid(2a1200f0b9c0c5644a1e8a1685283726) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '86dacbeaa6a267e4414d5223d9f385a9') in 0.006852 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.107608 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_15.asset
+  artifactKey: Guid(fe860def2453f1f4995f680b2a2051ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_15.asset using Guid(fe860def2453f1f4995f680b2a2051ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ffd49811ef7c83769193fdbf9afbb765') in 0.009677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_24.asset
+  artifactKey: Guid(ec2c72be6bbcbbb40b86175c62c33eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_24.asset using Guid(ec2c72be6bbcbbb40b86175c62c33eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '16ad0747373ffd4a61df45d5c4af90e3') in 0.009515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_29.asset
+  artifactKey: Guid(cb9f5c756c6421c46a294baef3807f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_29.asset using Guid(cb9f5c756c6421c46a294baef3807f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a50e44d93cbe6256311da1c2add7e347') in 0.008324 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_22.asset
+  artifactKey: Guid(4521f17f96a06c646b7e88f964d7ddf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_22.asset using Guid(4521f17f96a06c646b7e88f964d7ddf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5bd3733c53366af31ecc759b72fdc45a') in 0.010672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_32.asset
+  artifactKey: Guid(7a3956212a109674ba5b52e6eccc1238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_32.asset using Guid(7a3956212a109674ba5b52e6eccc1238) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '09aab82c4bf2ed685b31282c35fc2099') in 0.007733 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_51.asset
+  artifactKey: Guid(af224a325fa8bff428532b4fb38219ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_51.asset using Guid(af224a325fa8bff428532b4fb38219ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7cd49a5cc91bc020fa10b397f51cdb79') in 0.011485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_52.asset
+  artifactKey: Guid(11a8155daca394f4c9d07f82445d6d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_52.asset using Guid(11a8155daca394f4c9d07f82445d6d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '041508bba07b4fa92aa0acf15f5c85a1') in 0.007616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_46.asset
+  artifactKey: Guid(0eae130e6ccbfb542afc0d271fef4f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_46.asset using Guid(0eae130e6ccbfb542afc0d271fef4f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '941150e813a225fe902310efbb5ada49') in 0.008608 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_41.asset
+  artifactKey: Guid(ebf202ae39c41604bb33903bbff758cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_41.asset using Guid(ebf202ae39c41604bb33903bbff758cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5840597d104ef9f6ad543f49c8cf7fda') in 0.029560 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_35.asset
+  artifactKey: Guid(abb2f6098281e2b4a8e37d2edd251b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_35.asset using Guid(abb2f6098281e2b4a8e37d2edd251b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '693dbcb1bdf722d8de0b29ece77e3c86') in 0.010082 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.734977 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_55.asset
+  artifactKey: Guid(f533c418876cd2e4a88d87b81678b1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_55.asset using Guid(f533c418876cd2e4a88d87b81678b1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b5c0d89166bde68e7007a6d3324251f5') in 0.009404 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_60.asset
+  artifactKey: Guid(31fbdb4a68355a142a924c1362da14b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_60.asset using Guid(31fbdb4a68355a142a924c1362da14b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2d370b4d9353a58098a91a06f119e68e') in 0.008079 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_63.asset
+  artifactKey: Guid(b1e8f5165aa4f6d4094f8b488677c630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_63.asset using Guid(b1e8f5165aa4f6d4094f8b488677c630) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd9c7cde6ddfa0610665cc733bb1ba2f4') in 0.007854 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.030823 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_65.asset
+  artifactKey: Guid(b954a73bd83c5b64b97f6537cc2ec110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_65.asset using Guid(b954a73bd83c5b64b97f6537cc2ec110) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6483a719b1233a69826beecb9ace5a1c') in 0.008181 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_70.asset
+  artifactKey: Guid(a3f1ecf488414104e962a4131420d65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_70.asset using Guid(a3f1ecf488414104e962a4131420d65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fbb7471d86d244aa1edcf818fdedffeb') in 0.009262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.025576 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_75.asset
+  artifactKey: Guid(68600f557d0b57b499e2fb010087a7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_75.asset using Guid(68600f557d0b57b499e2fb010087a7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'adefd0ae81ee608f2274187db3dd8555') in 0.012937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_side_top_80.asset
+  artifactKey: Guid(892c82c883cd873488fcb60290120b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_side_top_80.asset using Guid(892c82c883cd873488fcb60290120b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ac9b73825f9f8fda097d6472f4bc5750') in 0.013728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.703218 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_521.asset
+  artifactKey: Guid(4506c241f426a7f418e2d4f1162a9a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_521.asset using Guid(4506c241f426a7f418e2d4f1162a9a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '29e5f0d7174c6faacd753f54d10feb7d') in 0.011676 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_530.asset
+  artifactKey: Guid(7d225194af9ee804680ae70d388107ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_530.asset using Guid(7d225194af9ee804680ae70d388107ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7b169ac0d3b698f6cc874802a99d90b5') in 0.009617 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_513.asset
+  artifactKey: Guid(9ecbce7bb525b9d45a99093c3d5ec1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_513.asset using Guid(9ecbce7bb525b9d45a99093c3d5ec1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'df8db3aeba37b70253dd441942355823') in 0.012337 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_512.asset
+  artifactKey: Guid(2267e0c8a73fdda4a8bffc26cfc038ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_512.asset using Guid(2267e0c8a73fdda4a8bffc26cfc038ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '90ab72dbe13e2815c52a5ab95c17fec1') in 0.010442 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_527.asset
+  artifactKey: Guid(ede2616aa289ddb409d46bd5c63c6cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_527.asset using Guid(ede2616aa289ddb409d46bd5c63c6cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd84dfced68074ae5c22a7beea4e898c0') in 0.008557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.149450 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_501.asset
+  artifactKey: Guid(a59adb06dbc11f44092b0e3ea0eba39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_501.asset using Guid(a59adb06dbc11f44092b0e3ea0eba39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2d5a937b65d61ef70aa5bd4a9f179f4b') in 0.009498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_510.asset
+  artifactKey: Guid(b6cc5182103eddc4d8816b40ce381dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_510.asset using Guid(b6cc5182103eddc4d8816b40ce381dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e4ccad07ed402c8ea8795208e8d9d60d') in 0.007121 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_505.asset
+  artifactKey: Guid(f974082afd7929f4baaaee7a98471ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_505.asset using Guid(f974082afd7929f4baaaee7a98471ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '712bcd813d730446bcffc2269a5fbde1') in 0.006626 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002786 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_481.asset
+  artifactKey: Guid(70e202ccf8bede04bb65eb0455b50c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_481.asset using Guid(70e202ccf8bede04bb65eb0455b50c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd86ba5c396dcd0545f0d2f2e89d132b4') in 0.008863 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_496.asset
+  artifactKey: Guid(47813cea004361344a685f3ae643c64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_496.asset using Guid(47813cea004361344a685f3ae643c64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '45688e561ea78b0c7de012f55184faee') in 0.008847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_495.asset
+  artifactKey: Guid(75914c9465279fb458fa6e65a9010684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_495.asset using Guid(75914c9465279fb458fa6e65a9010684) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b5ec4b72547b700d8a81f0fb3f332a66') in 0.007780 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_480.asset
+  artifactKey: Guid(80b58c909f3f3d541982a4971f73edc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_480.asset using Guid(80b58c909f3f3d541982a4971f73edc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '04f70f92fd38ea8934eb6abda7ecea33') in 0.008010 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_477.asset
+  artifactKey: Guid(db6673d64b5e943478e9891dd41f8fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_477.asset using Guid(db6673d64b5e943478e9891dd41f8fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f0379722cab4d7fa1a093ca96d3c9d92') in 0.009122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_472.asset
+  artifactKey: Guid(45dc25a8d125fea4db234b34ce4c180e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_472.asset using Guid(45dc25a8d125fea4db234b34ce4c180e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '22a70cc4f80905e692c58ef83a31dc03') in 0.008247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_497.asset
+  artifactKey: Guid(dcdc2eb45bd52d74bb1421a9c72068cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_497.asset using Guid(dcdc2eb45bd52d74bb1421a9c72068cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '55db2b42f82455bbc3faeac1ebe5afd3') in 0.009305 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_476.asset
+  artifactKey: Guid(dae2056d66a36464d8aecfd55fa66ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_476.asset using Guid(dae2056d66a36464d8aecfd55fa66ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0573b453379e8664d1984ace8c1309d5') in 0.007508 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.118067 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_461.asset
+  artifactKey: Guid(1b242c8c95df1d849a2fab656f933333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_461.asset using Guid(1b242c8c95df1d849a2fab656f933333) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3044e11298ffaeae44cdbfeb777d4615') in 0.009767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_469.asset
+  artifactKey: Guid(96d3a955cb1f6ab48804b33288c9864a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_469.asset using Guid(96d3a955cb1f6ab48804b33288c9864a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a550e11a698212a966a6a9b08f92d590') in 0.008100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_455.asset
+  artifactKey: Guid(ccd54e8aa899a294ab19382af7b33f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_455.asset using Guid(ccd54e8aa899a294ab19382af7b33f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5c74c4fc68eb609a81aee86964b282e1') in 0.008185 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_456.asset
+  artifactKey: Guid(4b1f56dbbaa46a545bc781bec206ab16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_456.asset using Guid(4b1f56dbbaa46a545bc781bec206ab16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9f21651a6024b1dc66806224bd3c1499') in 0.008887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_450.asset
+  artifactKey: Guid(bd4d6715d9f0c1944a7518356214d4f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_450.asset using Guid(bd4d6715d9f0c1944a7518356214d4f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '588c9147b000d7483d1cdde78053a9c2') in 0.008185 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_431.asset
+  artifactKey: Guid(cdca8d851ec95e24abb83694b5e524d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_431.asset using Guid(cdca8d851ec95e24abb83694b5e524d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b88869f021abd29b781cf1cca3a8e6d4') in 0.007096 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_437.asset
+  artifactKey: Guid(70629f2b7a1ef4b46add5b8b1f6243cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_437.asset using Guid(70629f2b7a1ef4b46add5b8b1f6243cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5a7c2d90cbaf7ef909273a33a3d87c8c') in 0.008021 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_443.asset
+  artifactKey: Guid(563fb22cc5e0397408a72e14ee1c4ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_443.asset using Guid(563fb22cc5e0397408a72e14ee1c4ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5cf126755f8ce89e479bc317f55053c0') in 0.008563 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_453.asset
+  artifactKey: Guid(e86d90d1f7baab846ae0f1418121c46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_453.asset using Guid(e86d90d1f7baab846ae0f1418121c46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0e548df18718bb360ac1397fcbdd3b76') in 0.007552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_440.asset
+  artifactKey: Guid(272f0c9d093a5a343951b6301a44618f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_440.asset using Guid(272f0c9d093a5a343951b6301a44618f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c854d26dc59531ad38cc75786cd50f35') in 0.007947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.125659 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_421.asset
+  artifactKey: Guid(64d9dbdc6516ea44d9f121422ab43cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_421.asset using Guid(64d9dbdc6516ea44d9f121422ab43cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ba8dffe2ae59d9aa543e4334b8df37ae') in 0.008813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_426.asset
+  artifactKey: Guid(b302b50363727394487c3550e81dbf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_426.asset using Guid(b302b50363727394487c3550e81dbf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cfabbf25a0e63c0ef741095f9f3ea747') in 0.007641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_418.asset
+  artifactKey: Guid(10c08d4087d048c41a3a20c3d24283e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_418.asset using Guid(10c08d4087d048c41a3a20c3d24283e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c6c7213c353eeadb1f493c22c616075a') in 0.008314 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_412.asset
+  artifactKey: Guid(61bdeda44cdae424dbc26e774217a6ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_412.asset using Guid(61bdeda44cdae424dbc26e774217a6ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9d72951b4f99e74eca3efbc8c461e56d') in 0.007880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_403.asset
+  artifactKey: Guid(ed4f487a4c41ea9479e1f53da73342e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_403.asset using Guid(ed4f487a4c41ea9479e1f53da73342e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5550afba84569c835a8804e696eaa958') in 0.008691 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_393.asset
+  artifactKey: Guid(34b01f24ecb1db346abd725c7d535e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_393.asset using Guid(34b01f24ecb1db346abd725c7d535e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7f833815b667f25705b065a291a6a1ae') in 0.009073 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_404.asset
+  artifactKey: Guid(94e24be24866df44fb49102aa1163b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_404.asset using Guid(94e24be24866df44fb49102aa1163b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8658899562be4287a9f47ac0c3b3a4bd') in 0.009204 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_407.asset
+  artifactKey: Guid(cf6d8720043dc76429e62b04662e0cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_407.asset using Guid(cf6d8720043dc76429e62b04662e0cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ddb9d98bd921dfdf8edde15c75881036') in 0.007821 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_411.asset
+  artifactKey: Guid(54daed59aabe17245ac910db4df837df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_411.asset using Guid(54daed59aabe17245ac910db4df837df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2dc5ca4865a1d287b35cda966666854c') in 0.006835 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_405.asset
+  artifactKey: Guid(aff6e9fa1b5beac4a85c12e283e7f817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_405.asset using Guid(aff6e9fa1b5beac4a85c12e283e7f817) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2530c8a2f9204766a8934aea51a17bc1') in 0.008538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.115732 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_381.asset
+  artifactKey: Guid(663d9d6adc5967b4195299fcebd2d16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_381.asset using Guid(663d9d6adc5967b4195299fcebd2d16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '468ed722bb76c2093bab2a83b567f092') in 0.009446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_387.asset
+  artifactKey: Guid(a3a771cfc6a9069438c5db5dfbd161b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_387.asset using Guid(a3a771cfc6a9069438c5db5dfbd161b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e78eee98f2f99094513d11fabc3a6bdc') in 0.008260 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_372.asset
+  artifactKey: Guid(97315733d75a0c94380372071318f0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_372.asset using Guid(97315733d75a0c94380372071318f0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b53ddd34050f3290fe61f03d4103a936') in 0.010058 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_374.asset
+  artifactKey: Guid(b0c11890d1b195c43a3f3656f6d5b83d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_374.asset using Guid(b0c11890d1b195c43a3f3656f6d5b83d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bcc7e22882038ff7c5ac96d82ec5e22c') in 0.008719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_357.asset
+  artifactKey: Guid(f1f207a826676ab40b557718dd37083b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_357.asset using Guid(f1f207a826676ab40b557718dd37083b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b3d9c2f009f3555c65c2365532478022') in 0.008421 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_351.asset
+  artifactKey: Guid(9bce017c61c3a20478500816dfcb41e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_351.asset using Guid(9bce017c61c3a20478500816dfcb41e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '765a6ce32fd418b65218981bb773f4df') in 0.007235 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_365.asset
+  artifactKey: Guid(dc6c22167fca3e149920b0d9c9c0e5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_365.asset using Guid(dc6c22167fca3e149920b0d9c9c0e5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5e00b964534ffbda34ee9f46dda91a83') in 0.007581 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_352.asset
+  artifactKey: Guid(985cc5f1685da95488cea91df35594bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_352.asset using Guid(985cc5f1685da95488cea91df35594bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7716ce511635141a91b60a8eca0b42ba') in 0.007960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_385.asset
+  artifactKey: Guid(05ae4befc8541754fa31f986ce48f5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_385.asset using Guid(05ae4befc8541754fa31f986ce48f5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f80291cc8abf35c4524da3808a540518') in 0.008017 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_366.asset
+  artifactKey: Guid(25f3b82dd01c6eb49b4a85575fb488b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_366.asset using Guid(25f3b82dd01c6eb49b4a85575fb488b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f89d4b59a6302559f109750a37bf58d6') in 0.006752 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.111768 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_341.asset
+  artifactKey: Guid(a51c24832a237c244a9bde02b06c3ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_341.asset using Guid(a51c24832a237c244a9bde02b06c3ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1146f60daebff576a938612e82d674b2') in 0.008247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_347.asset
+  artifactKey: Guid(ebef38f23653ae74db90295af71eb413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_347.asset using Guid(ebef38f23653ae74db90295af71eb413) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '83d15f34b6eb81a9cee67444c8161e17') in 0.009245 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_345.asset
+  artifactKey: Guid(d18d51626d3e45f43907e752f6b3b431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_345.asset using Guid(d18d51626d3e45f43907e752f6b3b431) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd169a1f10e653a1f9a3382007acb238f') in 0.008519 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_333.asset
+  artifactKey: Guid(8af1b0fc57d024446bff1f84239d0890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_333.asset using Guid(8af1b0fc57d024446bff1f84239d0890) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '75093f25019c4ffe6d9bd4d9aff3a755') in 0.009198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_335.asset
+  artifactKey: Guid(1cd58e54681291a4aae3cca5761bd3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_335.asset using Guid(1cd58e54681291a4aae3cca5761bd3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c79dc3bed7f2d5c51b39ab53e48ba71b') in 0.007791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_328.asset
+  artifactKey: Guid(b1aad61e8e6b87c47b4d30dfb4d44ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_328.asset using Guid(b1aad61e8e6b87c47b4d30dfb4d44ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a9d8604e7c6ba86071420e57c05325d7') in 0.008178 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_325.asset
+  artifactKey: Guid(ce2884443e9c1694582ebd7cc08f632a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_325.asset using Guid(ce2884443e9c1694582ebd7cc08f632a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '25ca65e16e0af0621cc51c4c6192aa52') in 0.012258 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_327.asset
+  artifactKey: Guid(314d50d3deab47846a101911790a34c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_327.asset using Guid(314d50d3deab47846a101911790a34c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6acad098a581de0a65f9302b43c0b3fa') in 0.008774 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.208293 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_171.asset
+  artifactKey: Guid(0bc4ce27fb59b3f4182ef7f5399f4ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_171.asset using Guid(0bc4ce27fb59b3f4182ef7f5399f4ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e6467ece26519566c4b4f6d9cc207df9') in 0.007990 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_189.asset
+  artifactKey: Guid(1d467c251f31c5d49a6cf9d227b5b00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_189.asset using Guid(1d467c251f31c5d49a6cf9d227b5b00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '542f0a5057c00068248ebe77eec2e1a9') in 0.007509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_183.asset
+  artifactKey: Guid(47d07116380eabe4f9e3d6a6e9f2d292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_183.asset using Guid(47d07116380eabe4f9e3d6a6e9f2d292) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e5571ab5e4b26cc699c907dedc56f8c5') in 0.007600 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_282.asset
+  artifactKey: Guid(52ffa0dcf4bef914aa40f2ae720ca4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_282.asset using Guid(52ffa0dcf4bef914aa40f2ae720ca4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ee33f6dc83fd3acc79b7711cd9c37757') in 0.008529 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_204.asset
+  artifactKey: Guid(7e323924c83768c4cbbb0645e2b6a3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_204.asset using Guid(7e323924c83768c4cbbb0645e2b6a3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c97ad53f37eb0932e5279201f9c6b050') in 0.008224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_435.asset
+  artifactKey: Guid(b2b4df8424ae8384496053ccdbda9b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_435.asset using Guid(b2b4df8424ae8384496053ccdbda9b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4078825b571a34d17e8c3ce44f129816') in 0.008413 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_454.asset
+  artifactKey: Guid(62e960da71e33784d8f31ab9334c0823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_454.asset using Guid(62e960da71e33784d8f31ab9334c0823) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b919394fe3c11bd75cd6234e33705d2b') in 0.006524 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_475.asset
+  artifactKey: Guid(449492bb918066f4b9fd6d2c06f616fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_475.asset using Guid(449492bb918066f4b9fd6d2c06f616fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cc3fcba84586a5573e39e65c25167c4a') in 0.007022 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_437.asset
+  artifactKey: Guid(6d86a1da605d91f409fa0614d07fbb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_437.asset using Guid(6d86a1da605d91f409fa0614d07fbb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4be30f6ffd487537e03b49211d0cfd97') in 0.008129 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/IMG/Khoi/tilemap/main_lev_build_447.asset
+  artifactKey: Guid(5eba9efa4a0265f41807bd5fcb32352d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/main_lev_build_447.asset using Guid(5eba9efa4a0265f41807bd5fcb32352d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '35d3b55f3e5666c9b267e3780c0c42a7') in 0.002610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_468.asset
+  artifactKey: Guid(5f8a281f04f342c4298be2e0af96445d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_468.asset using Guid(5f8a281f04f342c4298be2e0af96445d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ce3768a3a0b404aae3ebb32608a34329') in 0.007070 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/main_lev_build_462.asset
+  artifactKey: Guid(622e57791dc5f9e4ba5bdfc554956ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/main_lev_build_462.asset using Guid(622e57791dc5f9e4ba5bdfc554956ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '45e55edb11edd4c47ef0c4dba7c11407') in 0.003312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/main_lev_build_469.asset
+  artifactKey: Guid(6ec32a7ad229b2d418a30dd54100cc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/main_lev_build_469.asset using Guid(6ec32a7ad229b2d418a30dd54100cc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6414e44637897de6c1e1b996bac546e2') in 0.002751 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/IMG/Khoi/tilemap/main_lev_build_473.asset
+  artifactKey: Guid(7cc2dedc4ee41304d802aa12471b90ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/main_lev_build_473.asset using Guid(7cc2dedc4ee41304d802aa12471b90ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bd2faa7c12f32b4c20cdf92d646eaba1') in 0.003239 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_440.asset
+  artifactKey: Guid(fae8dce3c449a12408103d9c00bd86ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_440.asset using Guid(fae8dce3c449a12408103d9c00bd86ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9ed925c3cdeafa90b27c049782dfd65e') in 0.006756 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/IMG/Khoi/tilemap/main_lev_build_483.asset
+  artifactKey: Guid(5b2634027b16d3b41b797597cbdcb8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/main_lev_build_483.asset using Guid(5b2634027b16d3b41b797597cbdcb8b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6be60807c3b91c5907d439aaec71ba46') in 0.002988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_271.asset
+  artifactKey: Guid(75ef3eea83c015047b32dfd00f92109a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_271.asset using Guid(75ef3eea83c015047b32dfd00f92109a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0c40a7e6c48b01fca242c727826efbab') in 0.007898 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_292.asset
+  artifactKey: Guid(b094783471f25e74984e2163c330cc2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_292.asset using Guid(b094783471f25e74984e2163c330cc2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '49b0afdd4c159e508f3a92eb8b2f7443') in 0.007847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_334.asset
+  artifactKey: Guid(edf1884686cad76439b81256e632c472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_334.asset using Guid(edf1884686cad76439b81256e632c472) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7917fe1045e330aa27260e0490e9b2ed') in 0.006924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_351.asset
+  artifactKey: Guid(1c2f2f76201bee54b9423a85ccbd4b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_351.asset using Guid(1c2f2f76201bee54b9423a85ccbd4b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '213194556fa586485f323a95530abb2f') in 0.006625 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_327.asset
+  artifactKey: Guid(0eb2b53baa51efb40b801d8c4b1ffeac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_327.asset using Guid(0eb2b53baa51efb40b801d8c4b1ffeac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6b13b7a4611d42b6b08656c2d486e2bd') in 0.006665 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_340.asset
+  artifactKey: Guid(5492c821ecd439e4ba63d013c20a97d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_340.asset using Guid(5492c821ecd439e4ba63d013c20a97d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '78bd2c7ce100f885f9bc32b0dd63c21b') in 0.006711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/IMG/Khoi/tilemap/castle_env_398.asset
+  artifactKey: Guid(6e4ef67798275d64dad3dc16a944203d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/castle_env_398.asset using Guid(6e4ef67798275d64dad3dc16a944203d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4570730ded8192c01b4aab2c41934f3e') in 0.006422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/IMG/Khoi/tilemap/castle_env_420.asset
+  artifactKey: Guid(b1245ea8f75dc5345a76a3c6761e77ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/castle_env_420.asset using Guid(b1245ea8f75dc5345a76a3c6761e77ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8d3551fa1534f26e944a2db792e49024') in 0.006944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/IMG/Khoi/tilemap/castle_env_432.asset
+  artifactKey: Guid(8f083da95546e564bb69109befcbaf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/castle_env_432.asset using Guid(8f083da95546e564bb69109befcbaf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e67da84ae876070862e9725cd912f793') in 0.008006 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/main_lev_build_480.asset
+  artifactKey: Guid(10699c0b3a0233247b5e9909b6091331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/main_lev_build_480.asset using Guid(10699c0b3a0233247b5e9909b6091331) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bdaeb5cb0312362497891b1cdb9ededa') in 0.003000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_354.asset
+  artifactKey: Guid(b7df000be64067440905ff630813099b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_354.asset using Guid(b7df000be64067440905ff630813099b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '937f8a0873fe42de3217860220d9bef5') in 0.006517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/IMG/Khoi/tilemap/6new_1.asset
+  artifactKey: Guid(3b5c07ff5730a3542aaca22dc0c66717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/6new_1.asset using Guid(3b5c07ff5730a3542aaca22dc0c66717) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '31eb66be4cb8589ea8f0b6144b4d6cb5') in 0.006438 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_12.asset
+  artifactKey: Guid(a90164d4e8f65e94dbae519feeac75c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_12.asset using Guid(a90164d4e8f65e94dbae519feeac75c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b892ee62ed7a8d5912cf71f67975e1b2') in 0.002278 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/IMG/Khoi/tilemap/main_lev_build_472.asset
+  artifactKey: Guid(cb4469513747d3041a7c99e6c0e3d4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/main_lev_build_472.asset using Guid(cb4469513747d3041a7c99e6c0e3d4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '25987363791121507a10c15626099616') in 0.002543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_335.asset
+  artifactKey: Guid(6a55b4f43e091ca4da614af0a4a3ca4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_335.asset using Guid(6a55b4f43e091ca4da614af0a4a3ca4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9ae728c4ebc74ef0063ced2144807193') in 0.005744 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_273.asset
+  artifactKey: Guid(aba91a716701e004da980042bd2f7713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_273.asset using Guid(aba91a716701e004da980042bd2f7713) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2579ec3b4cc2afee7622d9477407b0eb') in 0.006958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/6new_0.asset
+  artifactKey: Guid(74cf2fef17fa905448c5ffa3b7028518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/6new_0.asset using Guid(74cf2fef17fa905448c5ffa3b7028518) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '102bc9798286d7dfc64278bca8f1528b') in 0.006996 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_455.asset
+  artifactKey: Guid(a28458fd00ebfdc42813f5888cc7d747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_455.asset using Guid(a28458fd00ebfdc42813f5888cc7d747) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'df4ffa69237f1d254c92631c70da8f8d') in 0.008405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IMG/Khoi/tilemap/main_lev_build_482.asset
+  artifactKey: Guid(4b2726ecd7870ba4fac9cbd24e49abfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/main_lev_build_482.asset using Guid(4b2726ecd7870ba4fac9cbd24e49abfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '036d0abbea0a69a18eeb040cef26f3cb') in 0.003785 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/IMG/Khoi/tilemap/castle_env_421.asset
+  artifactKey: Guid(bc8ae1d14309dcf4c9d546eda30238bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/castle_env_421.asset using Guid(bc8ae1d14309dcf4c9d546eda30238bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '70780985dfaa46522b6162a8c585a941') in 0.007313 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/IMG/Khoi/tilemap/main_lev_build_474.asset
+  artifactKey: Guid(441c2532cfffeb6459e83c642349ae2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/main_lev_build_474.asset using Guid(441c2532cfffeb6459e83c642349ae2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '41ab545681322167dea443afda222a22') in 0.003372 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_323.asset
+  artifactKey: Guid(aa1a035a6655c0a438f38a32d5582fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_323.asset using Guid(aa1a035a6655c0a438f38a32d5582fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ef7c287aa2617803263c5e67d3fb5df6') in 0.006799 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/IMG/Khoi/tilemap/main_lev_build_479.asset
+  artifactKey: Guid(76df4cbfbecac4146b7e5ca6f0eaadb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/main_lev_build_479.asset using Guid(76df4cbfbecac4146b7e5ca6f0eaadb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c7aba19107b3cd5f84ccfb92612ad5f4') in 0.002488 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_356.asset
+  artifactKey: Guid(6e32c134eade79046bd339937528b9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_356.asset using Guid(6e32c134eade79046bd339937528b9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6e0af71e13f123785a25a0a8a82bfea1') in 0.009185 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_470.asset
+  artifactKey: Guid(b2db26f09ca6ed54da597f375d1b03a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_470.asset using Guid(b2db26f09ca6ed54da597f375d1b03a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3a3d15a65773a249a13b1de8b5810f3f') in 0.007530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_436.asset
+  artifactKey: Guid(f12e3d2ff193b6841b8156f4630fc194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_436.asset using Guid(f12e3d2ff193b6841b8156f4630fc194) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b1ffe1b818ab4dfe9331499ac2b1dd1b') in 0.009183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_274.asset
+  artifactKey: Guid(26ce97b3226c63c4386b0491db8a90c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_274.asset using Guid(26ce97b3226c63c4386b0491db8a90c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0457f82ee67c9e52accb725c7afeec26') in 0.006542 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_10.asset
+  artifactKey: Guid(fc91f2b479a53cd43ae7f8e03a3749c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_10.asset using Guid(fc91f2b479a53cd43ae7f8e03a3749c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5a97aa9acffe7ab95caf14664a8bd5dd') in 0.002398 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_13.asset
+  artifactKey: Guid(a74ee5c31cf829749b70783faaa0ba62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_13.asset using Guid(a74ee5c31cf829749b70783faaa0ba62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8e5b7a7c95da30cbaa20f4dc41af3562') in 0.003193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_23.asset
+  artifactKey: Guid(54b4296121f009543943f65c3d28d30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_23.asset using Guid(54b4296121f009543943f65c3d28d30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a36e24a6a7b8a00f1fd64a26762b5888') in 0.002291 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_28.asset
+  artifactKey: Guid(32761ba59d3538f47aef7e5e948f7073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_28.asset using Guid(32761ba59d3538f47aef7e5e948f7073) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '94c80eecf62259968e0033652b1e4c6f') in 0.002574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_11.asset
+  artifactKey: Guid(13a8d19bc5d2bcd469ac6cadfa584862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_11.asset using Guid(13a8d19bc5d2bcd469ac6cadfa584862) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8c11e9904c89cb699239ab38ca6dc1ec') in 0.003045 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_360.asset
+  artifactKey: Guid(f69e31992cc35d64fb19ff5dd9beef3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_360.asset using Guid(f69e31992cc35d64fb19ff5dd9beef3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '123da0a45ca9901d98d6bdad6441396b') in 0.007952 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_9.asset
+  artifactKey: Guid(c0d4d3339423db1478246136f0e70580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_9.asset using Guid(c0d4d3339423db1478246136f0e70580) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f685b353b242e0f4fefa1a2ca5c93b6b') in 0.003551 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/castle_env_430.asset
+  artifactKey: Guid(8faca9eac7555d940ac7cf0892dbab3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/castle_env_430.asset using Guid(8faca9eac7555d940ac7cf0892dbab3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8941c63c16370069c863bdbf6081afad') in 0.008363 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/IMG/Khoi/tilemap/castle_env_397.asset
+  artifactKey: Guid(d9c77c78e2b162c4685479197d774cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/castle_env_397.asset using Guid(d9c77c78e2b162c4685479197d774cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3e08ee2d86e6c2512e640aeef2a6e31a') in 0.008100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_294.asset
+  artifactKey: Guid(4fbad7d35b4799147becef913d64b6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_294.asset using Guid(4fbad7d35b4799147becef913d64b6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '27f8b93795f06c5a0ca8d876f0b097cb') in 0.008675 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_443.asset
+  artifactKey: Guid(2e5aa2f61cf44604bb44c35603f0522b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_443.asset using Guid(2e5aa2f61cf44604bb44c35603f0522b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e5577d3430e3efa08bf6e1a40870e8a3') in 0.007992 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_349.asset
+  artifactKey: Guid(420716d17e93a0d4ebab59dcd76b6282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_349.asset using Guid(420716d17e93a0d4ebab59dcd76b6282) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ee0e80999d32930d0c2f6c96d4260ab3') in 0.007085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/IMG/Khoi/tilemap/castle_env_415.asset
+  artifactKey: Guid(953776c759430c942aacb6fa8eff1852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/castle_env_415.asset using Guid(953776c759430c942aacb6fa8eff1852) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9b4054daadfcf2ea7796a24639dcb4c0') in 0.008186 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/IMG/Khoi/tilemap/6_2.asset
+  artifactKey: Guid(fde4894454f45274ebad33e3053c60a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/6_2.asset using Guid(fde4894454f45274ebad33e3053c60a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '71deac8864d9d838a2dfb0cdadfbed1d') in 0.006862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/IMG/Khoi/tilemap/castle_env_404.asset
+  artifactKey: Guid(0e7993fffb4fde344948060885630c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/castle_env_404.asset using Guid(0e7993fffb4fde344948060885630c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0dc656b8df0bd103488ab40f7539335c') in 0.006973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_321.asset
+  artifactKey: Guid(5e02ae0ee44412a488fa371dcac17be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_321.asset using Guid(5e02ae0ee44412a488fa371dcac17be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '706b56af7dddf0356fce4bfc46b004af') in 0.007553 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_14.asset
+  artifactKey: Guid(f689bd095d543214fa3cd6d58cf10984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/07 - Tileset - Transparent_14.asset using Guid(f689bd095d543214fa3cd6d58cf10984) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cba000f7eaf3d4a27cf6fa87c7215ec5') in 0.003422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_far_191.asset
+  artifactKey: Guid(bacb745b00f04634a85e5b30aecbac96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_far_191.asset using Guid(bacb745b00f04634a85e5b30aecbac96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c06657e84867db332b96f5cb95547d19') in 0.007727 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_276.asset
+  artifactKey: Guid(17d82947b6f590244a15f321ee6fc912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_276.asset using Guid(17d82947b6f590244a15f321ee6fc912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a3790868acb964d8ed5a133fd36f0a6e') in 0.008121 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_355.asset
+  artifactKey: Guid(0208e1c482ef38a468865a98c696f470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_355.asset using Guid(0208e1c482ef38a468865a98c696f470) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8bdf60cb083b19283314a1e6c3263917') in 0.008236 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_284.asset
+  artifactKey: Guid(0b64f3f5093c9b040a7623f4283e9ca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_284.asset using Guid(0b64f3f5093c9b040a7623f4283e9ca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '81843f9fe21370bc28ddd19980aa7c4e') in 0.007210 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_263.asset
+  artifactKey: Guid(7815cf4305d1c2049b7128337ec8974a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_263.asset using Guid(7815cf4305d1c2049b7128337ec8974a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b31d39c84808441934ba5ca1735a7fdc') in 0.007179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_447.asset
+  artifactKey: Guid(f45bdc77ab0cd7f44acb946821cf8dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_447.asset using Guid(f45bdc77ab0cd7f44acb946821cf8dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8a564cefaacb9da7000a93a07fc61341') in 0.008270 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/IMG/Khoi/tilemap/castle_env_400.asset
+  artifactKey: Guid(e02667e9561767b47a32b4e6afe389ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/castle_env_400.asset using Guid(e02667e9561767b47a32b4e6afe389ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1cf68680399f1abda7b8d6b9af968fb3') in 0.009496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/IMG/Khoi/tilemap/walls_296.asset
+  artifactKey: Guid(a0a6c28e1e38d1447bd0ff129cf44ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/walls_296.asset using Guid(a0a6c28e1e38d1447bd0ff129cf44ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b512f57d8d69ecb91aa2711e786892c8') in 0.008289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/IMG/Khoi/tilemap/env_objects_341.asset
+  artifactKey: Guid(0e77054011f15e643a6f3cc90ccd4a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/env_objects_341.asset using Guid(0e77054011f15e643a6f3cc90ccd4a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e2594421f92a3dfc25199d2d607c0cf2') in 0.007736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/IMG/Khoi/tilemap/castle_env_407.asset
+  artifactKey: Guid(4876218177fde0e448d48386cda062bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/castle_env_407.asset using Guid(4876218177fde0e448d48386cda062bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '57e96ea4c305c432fac7201e3a887ab5') in 0.011502 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/IMG/Khoi/tilemap/mainlevbuild_465.asset
+  artifactKey: Guid(65550de205f2c924b9a2b91321d9de89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMG/Khoi/tilemap/mainlevbuild_465.asset using Guid(65550de205f2c924b9a2b91321d9de89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7515eb56cb65f490a8da12aa70115719') in 0.009332 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

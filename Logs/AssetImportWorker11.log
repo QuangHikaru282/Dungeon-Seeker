@@ -1,0 +1,1469 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.45f1 (a13dfa44d684) revision 10567162'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit CoreSingleLanguage' Language: 'vi' Physical Memory: 16163 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.45f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker11
+-projectPath
+D:/DN/UNITY/Solo-Abyss
+-logFile
+Logs/AssetImportWorker11.log
+-srvPort
+64374
+Successfully changed project path to: D:/DN/UNITY/Solo-Abyss
+D:/DN/UNITY/Solo-Abyss
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [22916]  Target information:
+
+Player connection [22916]  * "[IP] 26.253.110.139 [Port] 0 [Flags] 2 [Guid] 1969526847 [EditorId] 1969526847 [Version] 1048832 [Id] WindowsEditor(7,GIGABYTE_G5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22916]  * "[IP] 192.168.100.100 [Port] 0 [Flags] 2 [Guid] 1969526847 [EditorId] 1969526847 [Version] 1048832 [Id] WindowsEditor(7,GIGABYTE_G5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22916] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [22916] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 5.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.45f1 (a13dfa44d684)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/DN/UNITY/Solo-Abyss/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   32.0.15.9186
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56464
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009380 seconds.
+- Loaded All Assemblies, in  0.396 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 249 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.595 seconds
+Domain Reload Profiling: 989ms
+	BeginReloadAssembly (110ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (67ms)
+	LoadAllAssembliesAndSetupDomain (169ms)
+		LoadAssemblies (107ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (166ms)
+			TypeCache.Refresh (164ms)
+				TypeCache.ScanAssembly (149ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (596ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (538ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (337ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (132ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.661 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.153 seconds
+Domain Reload Profiling: 1810ms
+	BeginReloadAssembly (168ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (366ms)
+		LoadAssemblies (312ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (153ms)
+			TypeCache.Refresh (116ms)
+				TypeCache.ScanAssembly (100ms)
+			ScanForSourceGeneratedMonoScriptInfo (24ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1154ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (903ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (146ms)
+			ProcessInitializeOnLoadAttributes (332ms)
+			ProcessInitializeOnLoadMethodAttributes (381ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 3.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3899 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 37 unused Assets / (413.1 KB). Loaded Objects now: 4380.
+Memory consumption went from 206.9 MB to 206.5 MB.
+Total: 3.856900 ms (FindLiveObjects: 0.324700 ms CreateObjectMapping: 0.129700 ms MarkObjects: 3.207500 ms  DeleteObjects: 0.182900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 23976.530448 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/take_hit/take_hit_1.png
+  artifactKey: Guid(3e25713ec851a144fae3363a3a530b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/take_hit/take_hit_1.png using Guid(3e25713ec851a144fae3363a3a530b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '26842c4e26f14465ebfb5cf23e454930') in 0.119509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 41.018098 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/Materials
+  artifactKey: Guid(b0afd09afbd218b498fe96d66a11120c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/Materials using Guid(b0afd09afbd218b498fe96d66a11120c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'eec7bf17b378f64b2b8745a8624c679b') in 0.000755 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.407466 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/Materials/idle_1.mat
+  artifactKey: Guid(ab5376db1d93d9a4aab809aea4503bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/Materials/idle_1.mat using Guid(ab5376db1d93d9a4aab809aea4503bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '164e99545cf8d02420d3e138f4a39843') in 0.226612 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 36.075829 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/aseprite/frost_guardian.aseprite
+  artifactKey: Guid(a65b0b727e3f23d4482d0ee2455ff3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/aseprite/frost_guardian.aseprite using Guid(a65b0b727e3f23d4482d0ee2455ff3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fd644eeb804a1c6674fa2fa1d28e9bf8') in 0.365132 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 148
+========================================================================
+Received Import Request.
+  Time since last request: 48.919245 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/aseprite/frost_guardian.aseprite
+  artifactKey: Guid(a65b0b727e3f23d4482d0ee2455ff3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/aseprite/frost_guardian.aseprite using Guid(a65b0b727e3f23d4482d0ee2455ff3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4d0e2ccf07d4de99774a1b06a65cab81') in 0.290320 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 148
+========================================================================
+Received Import Request.
+  Time since last request: 28.323946 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/idle_1.png
+  artifactKey: Guid(5b3c25992c2f9a3448d98b919b905fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/idle_1.png using Guid(5b3c25992c2f9a3448d98b919b905fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '25c2367a163ae6466271d3f7aecde2b9') in 0.009286 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.017013 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/idle_2.png
+  artifactKey: Guid(6c5455715b9e9d54ea764daba5abef99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/idle_2.png using Guid(6c5455715b9e9d54ea764daba5abef99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a850fc9dfef334da1d82c2225b9f0c64') in 0.009871 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/idle_4.png
+  artifactKey: Guid(b64b8492e3f501046a66de3f948e2de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/idle_4.png using Guid(b64b8492e3f501046a66de3f948e2de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '716e5c42dc033708347e8f947c65f271') in 0.010648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/idle_6.png
+  artifactKey: Guid(1b063feed4d881247a904de10d2d420d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/idle_6.png using Guid(1b063feed4d881247a904de10d2d420d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bd264f825d587dba903d96f490df6813') in 0.010528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 7430.589654 seconds.
+  path: Assets/Khoi/Animation
+  artifactKey: Guid(4ec4abaa7c5d4964f8bfe825e6d922fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Animation using Guid(4ec4abaa7c5d4964f8bfe825e6d922fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4502f4a94ee258afdea99cc8e5b86389') in 0.003808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 29.027245 seconds.
+  path: Assets/Khoi/Animation/Frost_Guardian.controller
+  artifactKey: Guid(bfaac58321ec08e4185fad7df8ce6156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Animation/Frost_Guardian.controller using Guid(bfaac58321ec08e4185fad7df8ce6156) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '61a37f5c9aeab52c059f84b1130fcbc7') in 0.002987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 19.206447 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_1.png
+  artifactKey: Guid(616fff5a11702db4786d20936911be15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_1.png using Guid(616fff5a11702db4786d20936911be15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '465b0a56eee950b705c7436bef50b5ef') in 0.044549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001285 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_6.png
+  artifactKey: Guid(0eae77c4f5acf2b4eaf65cc3e0a2f295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_6.png using Guid(0eae77c4f5acf2b4eaf65cc3e0a2f295) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cedbc097acb88ad9255611fb567b1ac2') in 0.012145 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_8.png
+  artifactKey: Guid(1bfd92782482a444eb97f2d375a7b5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_8.png using Guid(1bfd92782482a444eb97f2d375a7b5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2480cd4a8524e2f66adec26af39d97bc') in 0.014177 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_12.png
+  artifactKey: Guid(777e12749ccbd084699e4b6cda7d45ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_12.png using Guid(777e12749ccbd084699e4b6cda7d45ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a673b47431f16a712b083608e3587cad') in 0.011802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_13.png
+  artifactKey: Guid(27f818fabffea484baf8cd51157dc260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_13.png using Guid(27f818fabffea484baf8cd51157dc260) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ac5b2de92711984989ea03226d101062') in 0.010572 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_3.png
+  artifactKey: Guid(6762bb2ec4fd6ad4cbcb4bce976b13b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_3.png using Guid(6762bb2ec4fd6ad4cbcb4bce976b13b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9813f420a312431e8775a0d6e2baaa54') in 0.010777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_5.png
+  artifactKey: Guid(f0b10d1536922ea4496fbcd0c997f466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_5.png using Guid(f0b10d1536922ea4496fbcd0c997f466) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '510fc33b263c5fec4a6212d5a1b87a0f') in 0.012131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_14.png
+  artifactKey: Guid(e511445a7d5568b48a4b0d70bd5c42fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_14.png using Guid(e511445a7d5568b48a4b0d70bd5c42fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2a17b580634ed324385972c9d1da8002') in 0.010112 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_4.png
+  artifactKey: Guid(3955c6320dae8834e91fbc48126810aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_4.png using Guid(3955c6320dae8834e91fbc48126810aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '095b5426f7e02ad7c69d923d16743064') in 0.010555 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_10.png
+  artifactKey: Guid(7852a079a7ef385479042c6871941146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_10.png using Guid(7852a079a7ef385479042c6871941146) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7ca10e878078b8927f94900000e3bb59') in 0.012228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_9.png
+  artifactKey: Guid(04c8c0a680532a548ad9dd2db7b976cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_9.png using Guid(04c8c0a680532a548ad9dd2db7b976cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '66576bbde1aed8e58a487a4242cd2385') in 0.011300 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.532051 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_1.png
+  artifactKey: Guid(b1fceee71dd282340a7d5e376c4a5d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_1.png using Guid(b1fceee71dd282340a7d5e376c4a5d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6800f6cfeba7424667a7a9f6be4990ef') in 0.012846 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_10.png
+  artifactKey: Guid(a57ed3cabac4b4a438e1eabb152ba737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_10.png using Guid(a57ed3cabac4b4a438e1eabb152ba737) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '88b1bab86e0957eb49593f1508c32bd5') in 0.014127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_4.png
+  artifactKey: Guid(2f44fa1f40ea62f4bb3f09aea4589812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_4.png using Guid(2f44fa1f40ea62f4bb3f09aea4589812) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b1b8c536dc7b61f35f6692ab60c82406') in 0.013609 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_9.png
+  artifactKey: Guid(99cc37fea9f6b354fb20b48963dda7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_9.png using Guid(99cc37fea9f6b354fb20b48963dda7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '499ea7f95ba1a71fd03fa14908fbec47') in 0.015905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_6.png
+  artifactKey: Guid(88effb1cfdb7e7b4a96c7e7ccfcb3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_6.png using Guid(88effb1cfdb7e7b4a96c7e7ccfcb3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '97c55400ab4cd250c629d20e5e3a9ede') in 0.012748 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.252192 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_1.png
+  artifactKey: Guid(b1fceee71dd282340a7d5e376c4a5d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_1.png using Guid(b1fceee71dd282340a7d5e376c4a5d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '17fa719b1851992f670c3a86b081302c') in 0.009389 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.022471 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_2.png
+  artifactKey: Guid(a8e02985ccfdbc14dabbeb663540fa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_2.png using Guid(a8e02985ccfdbc14dabbeb663540fa4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c552f73888199aad620fc9be013fd625') in 0.009740 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_10.png
+  artifactKey: Guid(a57ed3cabac4b4a438e1eabb152ba737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_10.png using Guid(a57ed3cabac4b4a438e1eabb152ba737) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3f8eb7c62eaa9abe2186984b3757e464') in 0.010948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_9.png
+  artifactKey: Guid(99cc37fea9f6b354fb20b48963dda7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_9.png using Guid(99cc37fea9f6b354fb20b48963dda7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bdc0579706b47f5535b0557ce30a8142') in 0.011544 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_6.png
+  artifactKey: Guid(88effb1cfdb7e7b4a96c7e7ccfcb3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_6.png using Guid(88effb1cfdb7e7b4a96c7e7ccfcb3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '888d6006ea08628b3f9a666e282435d6') in 0.011137 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.186140 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_1.png
+  artifactKey: Guid(b59181a0707ddde4ea9d709907f64301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_1.png using Guid(b59181a0707ddde4ea9d709907f64301) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f82f8da6c53fed7e416448b0b5ed57c2') in 0.012236 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_13.png
+  artifactKey: Guid(92d9fc79b8892f84cae2a889b7039668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_13.png using Guid(92d9fc79b8892f84cae2a889b7039668) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8be9969922da68e2bf34abc40de5cb5d') in 0.014379 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_10.png
+  artifactKey: Guid(8bd599db83b7b6a4198c9d77afef6e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_10.png using Guid(8bd599db83b7b6a4198c9d77afef6e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e1a427449922907e8b0f65cdf34265ab') in 0.011751 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_14.png
+  artifactKey: Guid(68275c0542b0e874887359de03f4c6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_14.png using Guid(68275c0542b0e874887359de03f4c6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f570d9346aae97e4c32db2a19bcb3669') in 0.012144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.471869 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_1.png
+  artifactKey: Guid(b59181a0707ddde4ea9d709907f64301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_1.png using Guid(b59181a0707ddde4ea9d709907f64301) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7921bcc7ea72b296fd1ad27d8fc8b9cf') in 0.008463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.023061 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_2.png
+  artifactKey: Guid(3ad9fda7906ef9747a307754dd9b3a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_2.png using Guid(3ad9fda7906ef9747a307754dd9b3a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '57ca715f88ce6986fd6ed91ee5b9071a') in 0.010953 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_12.png
+  artifactKey: Guid(21c6fe8fefc056f4991eb510d0e4b492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_12.png using Guid(21c6fe8fefc056f4991eb510d0e4b492) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cb0ffe74ac0bc2301cef6ea0176df6e8') in 0.012090 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_7.png
+  artifactKey: Guid(1fdf88816a69c2541a912b164e50a6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_7.png using Guid(1fdf88816a69c2541a912b164e50a6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dda0fefbcd01cd583459705e04724769') in 0.010875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.293277 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_1.png
+  artifactKey: Guid(182730d5a3169ba499d4892f1816786d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_1.png using Guid(182730d5a3169ba499d4892f1816786d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7e523e3437b8991f55fccbca4a69dc84') in 0.010451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_11.png
+  artifactKey: Guid(cc6c38ad5f45e1b4f83107544841b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_11.png using Guid(cc6c38ad5f45e1b4f83107544841b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6409652878a357adbe164c1e1d53cb4c') in 0.012715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_6.png
+  artifactKey: Guid(0bbb7606b72560841b7be8f16eb92564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_6.png using Guid(0bbb7606b72560841b7be8f16eb92564) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3e5301c5fed3839e42e6482cc1501deb') in 0.010504 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_8.png
+  artifactKey: Guid(5fc4acb4b847120478b54c2d7d6beca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_8.png using Guid(5fc4acb4b847120478b54c2d7d6beca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0dbcbeae4efeaae61349210dad3e80a0') in 0.011523 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.220369 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_1.png
+  artifactKey: Guid(182730d5a3169ba499d4892f1816786d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_1.png using Guid(182730d5a3169ba499d4892f1816786d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2a0da888351ad92b4ced6a6caf2e8371') in 0.008127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.024464 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_2.png
+  artifactKey: Guid(f9a521e4b02539f48bef17e9642c84e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_2.png using Guid(f9a521e4b02539f48bef17e9642c84e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7a09e681adfb3416a84d45cbc357217d') in 0.008893 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_11.png
+  artifactKey: Guid(cc6c38ad5f45e1b4f83107544841b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_11.png using Guid(cc6c38ad5f45e1b4f83107544841b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '24859d6293d3abfc4a378b50a27935a9') in 0.011681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_6.png
+  artifactKey: Guid(0bbb7606b72560841b7be8f16eb92564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_6.png using Guid(0bbb7606b72560841b7be8f16eb92564) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5784f3cfb6def2d19bf37e8f85c710c2') in 0.012465 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_15.png
+  artifactKey: Guid(88a32a4c56dd9c747b1f01d098e13d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_15.png using Guid(88a32a4c56dd9c747b1f01d098e13d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bc6ec63f3d7065c834a83bf45003cd68') in 0.009061 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 10.938684 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_1.png
+  artifactKey: Guid(09173d16885ded3468f1aecd235941d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_1.png using Guid(09173d16885ded3468f1aecd235941d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4583d70dcbd56face38b22191cb1ff2a') in 0.008885 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.026279 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_2.png
+  artifactKey: Guid(299b1bd0b30174e41ae1258f0923852c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_2.png using Guid(299b1bd0b30174e41ae1258f0923852c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '65840ac73ecda45379f10de1e14f2d73') in 0.012887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_10.png
+  artifactKey: Guid(2745dfec92c081348bfd7c29d0636748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_10.png using Guid(2745dfec92c081348bfd7c29d0636748) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cbbb37bae48d844cf46607b0173f6efe') in 0.011781 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_8.png
+  artifactKey: Guid(e277471286be5c74d80c9d9bb4829c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_8.png using Guid(e277471286be5c74d80c9d9bb4829c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '48a1992c9538e72a2a95fa167a1a2230') in 0.012412 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_9.png
+  artifactKey: Guid(73a9974cf02564c479f3f453acf1562a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_9.png using Guid(73a9974cf02564c479f3f453acf1562a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9f8707a50bb7b64e1745f1bde833295b') in 0.011812 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_6.png
+  artifactKey: Guid(2d6846071e1807346b1bf9209a4e056a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_6.png using Guid(2d6846071e1807346b1bf9209a4e056a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b5824d386fead64f15fa82be27472ebc') in 0.010272 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 8.672686 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/stagger/stagger_1.png
+  artifactKey: Guid(d1c558abc9964c64f821c5ddaab87800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/stagger/stagger_1.png using Guid(d1c558abc9964c64f821c5ddaab87800) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd02d9ab2c90bfb10a48687342b973809') in 0.009197 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.024028 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/stagger/stagger_2.png
+  artifactKey: Guid(c422de5fc1aaf3143b34a9bb8e8f6765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/stagger/stagger_2.png using Guid(c422de5fc1aaf3143b34a9bb8e8f6765) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '647687363ce23eada9eed3ddce01f16a') in 0.009669 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/stagger/stagger_6.png
+  artifactKey: Guid(583086be19386b74b81d525867b91a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/stagger/stagger_6.png using Guid(583086be19386b74b81d525867b91a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '116e164c6d29624102ed5e3aab4566a9') in 0.009858 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 11.024658 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/take_hit/take_hit_1.png
+  artifactKey: Guid(3e25713ec851a144fae3363a3a530b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/take_hit/take_hit_1.png using Guid(3e25713ec851a144fae3363a3a530b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '15d433e3957c8a596e2c3ea33a6e19c3') in 0.008650 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.023214 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/take_hit/take_hit_2.png
+  artifactKey: Guid(97b7c80673f1b8b41a3f74de65bc5cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/take_hit/take_hit_2.png using Guid(97b7c80673f1b8b41a3f74de65bc5cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '779edc013e4339e0b49f457d64a7f5ad') in 0.011162 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.301025 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_1.png
+  artifactKey: Guid(87d4f2e36b90b484fbeda4286af99a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_1.png using Guid(87d4f2e36b90b484fbeda4286af99a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e691ea4b30abc7e3b33155e2406a9ff2') in 0.010830 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_5.png
+  artifactKey: Guid(a9cca683f70e09c45bcfdf915a96d76e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_5.png using Guid(a9cca683f70e09c45bcfdf915a96d76e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ad4e2040b02feff8351a308cfbcad8de') in 0.012603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_10.png
+  artifactKey: Guid(41dc03a163756284c8a22b0da6643a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_10.png using Guid(41dc03a163756284c8a22b0da6643a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b521f9ecc887f506dcf76d6998cce8ae') in 0.012535 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 9.795245 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_1.png
+  artifactKey: Guid(87d4f2e36b90b484fbeda4286af99a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_1.png using Guid(87d4f2e36b90b484fbeda4286af99a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '50e1cc4552f1323fe4e86da41848759f') in 0.009728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.024153 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_2.png
+  artifactKey: Guid(0978f4d2666afd54da3ae3def0650561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_2.png using Guid(0978f4d2666afd54da3ae3def0650561) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bd96d5e37b321e295445939561942e74') in 0.008444 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_9.png
+  artifactKey: Guid(c351f6b53cd231647b0bfd9278380a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_9.png using Guid(c351f6b53cd231647b0bfd9278380a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b00dcdb6b26d81cc8e4896a8b55a1139') in 0.009999 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_8.png
+  artifactKey: Guid(88878adad0fdd27428e9176977abcdc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_8.png using Guid(88878adad0fdd27428e9176977abcdc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5f5c94dc9ba069dd13e11a8c6f670cc2') in 0.009242 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 41.817481 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen/frozen.png
+  artifactKey: Guid(6d806214dce68a449abf32fce2cf0c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen/frozen.png using Guid(6d806214dce68a449abf32fce2cf0c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd48c45167c92d831907f00fe76aef5d8') in 0.010027 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 14.150174 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen/frozen.png
+  artifactKey: Guid(6d806214dce68a449abf32fce2cf0c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen/frozen.png using Guid(6d806214dce68a449abf32fce2cf0c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '081d574ea531fe39b921a2992c0ff485') in 0.008563 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 12.407034 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen/frozen.png
+  artifactKey: Guid(6d806214dce68a449abf32fce2cf0c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen/frozen.png using Guid(6d806214dce68a449abf32fce2cf0c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2392a67617005c3de16db040814516d9') in 0.008171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 80.406160 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_shine/frozen_shine_1.png
+  artifactKey: Guid(64de40713cf54984aaa6ef19fbfa59ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_shine/frozen_shine_1.png using Guid(64de40713cf54984aaa6ef19fbfa59ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '96779ee6d9b4aa43b456252febb4da64') in 0.008407 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.024711 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_shine/frozen_shine_2.png
+  artifactKey: Guid(cd3d81943b024a344b67950107ca3399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_shine/frozen_shine_2.png using Guid(cd3d81943b024a344b67950107ca3399) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cd751526ec1f62fbadff4243e954a638') in 0.008225 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_shine/frozen_shine_4.png
+  artifactKey: Guid(8d768159fa04e15468f4cfe8785bbcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_shine/frozen_shine_4.png using Guid(8d768159fa04e15468f4cfe8785bbcb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '49532366b6bf7ea9c7e00091537a61b2') in 0.009867 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 18.021545 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_1.png
+  artifactKey: Guid(07498d7fc0ad33a478ace8c04802b7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_1.png using Guid(07498d7fc0ad33a478ace8c04802b7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '053aa07cfb17b5a3c8d8815df11757aa') in 0.007690 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.022317 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_2.png
+  artifactKey: Guid(c650f60d6cfc7ff4d81b79ed4af51ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_2.png using Guid(c650f60d6cfc7ff4d81b79ed4af51ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1dca8399d81fbe5c525c27eedb1700e3') in 0.007912 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 20.385568 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_1.png
+  artifactKey: Guid(07498d7fc0ad33a478ace8c04802b7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_1.png using Guid(07498d7fc0ad33a478ace8c04802b7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3f5d9eea1f0dddc3685d3e14636ec0b4') in 0.008153 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.213719 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_1.png
+  artifactKey: Guid(07498d7fc0ad33a478ace8c04802b7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_1.png using Guid(07498d7fc0ad33a478ace8c04802b7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '434fa3d32df9fafd2b54743d2bfb682f') in 0.009107 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 12.572879 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_2.png
+  artifactKey: Guid(c650f60d6cfc7ff4d81b79ed4af51ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile/ground_projectile_2.png using Guid(c650f60d6cfc7ff4d81b79ed4af51ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cdb02c984ed7ef8706c56ab93c4b138a') in 0.007641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 15.991389 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_1.png
+  artifactKey: Guid(351262128803e9349a821a54cf933204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_1.png using Guid(351262128803e9349a821a54cf933204) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6d6f635abc2a529412f2e7a3a59ae071') in 0.007112 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.020902 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_2.png
+  artifactKey: Guid(6d051c10a479a2347bb8266bffdfbe2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_2.png using Guid(6d051c10a479a2347bb8266bffdfbe2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a0482f2fd816ef91a57902b19af46769') in 0.008789 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_6.png
+  artifactKey: Guid(2d4dc57538c13a747b94b60aff1d5ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_6.png using Guid(2d4dc57538c13a747b94b60aff1d5ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0ff62e9c08667a0549af4938d469e044') in 0.010422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_5.png
+  artifactKey: Guid(7c4ac1360ec604b4a8536aa873bdce48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/ground_projectile_blast/ground_projectile_blast_5.png using Guid(7c4ac1360ec604b4a8536aa873bdce48) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '784ffd8506c2ce21f8d27ad51dadc123') in 0.011420 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 20.360619 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_2.png
+  artifactKey: Guid(1bbc3ba3266e10445875ea1009599d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_2.png using Guid(1bbc3ba3266e10445875ea1009599d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '36fe8d759a1d229f46828e5fccbef069') in 0.011708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_4.png
+  artifactKey: Guid(9f4ab5a7613dca04880ddae2aa000ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_4.png using Guid(9f4ab5a7613dca04880ddae2aa000ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '82da83c04a5e680c44be7a47691c2f63') in 0.008582 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_15.png
+  artifactKey: Guid(48f823b847a445c408fe5ec1231430b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_15.png using Guid(48f823b847a445c408fe5ec1231430b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4aa1e9aae683b4786647aa3ba05fd765') in 0.009396 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_8.png
+  artifactKey: Guid(10f8af29ef3f694448eb4d3db9c420fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_8.png using Guid(10f8af29ef3f694448eb4d3db9c420fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e11a9438569ab1ac866787d08f582cc0') in 0.009568 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_14.png
+  artifactKey: Guid(674ce554b4b71904ab6086ccbfb2d67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_14.png using Guid(674ce554b4b71904ab6086ccbfb2d67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '188b2d0fc45ddd5b374bdd7a8baaa165') in 0.007588 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_13.png
+  artifactKey: Guid(0ba768afe11555544a01055fad105cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_destroyed/frozen_destroyed_13.png using Guid(0ba768afe11555544a01055fad105cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9ce9b0add08cccce89490637505802dd') in 0.010322 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.971888 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_crack_1/frozen_crack_3.png
+  artifactKey: Guid(7137b9ad81b14984b950474d3074333a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_crack_1/frozen_crack_3.png using Guid(7137b9ad81b14984b950474d3074333a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '30210c762e815e84bf9459c06c1b416b') in 0.009346 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_crack_1/frozen_crack_6.png
+  artifactKey: Guid(96bfac2e296da0343925115aa23be357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_crack_1/frozen_crack_6.png using Guid(96bfac2e296da0343925115aa23be357) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '500d0c63c7006be6db8a7007a7347f2d') in 0.008367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.330422 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_crack_2/frozen_crack_2_3.png
+  artifactKey: Guid(a08f044df3f863c439bcf64285743917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_crack_2/frozen_crack_2_3.png using Guid(a08f044df3f863c439bcf64285743917) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3c14da9c049f5890280b77c2cf9ad89d') in 0.008838 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_crack_2/frozen_crack_2_6.png
+  artifactKey: Guid(fc9cc4e7b673d4d4d9f713a03a9b3ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/ice_effects/frozen_crack_2/frozen_crack_2_6.png using Guid(fc9cc4e7b673d4d4d9f713a03a9b3ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bd9f29118517dbd0d017a449631a1489') in 0.008247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 14.206937 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/spritesheets/ice_effects_96x96_SpriteSheet.png
+  artifactKey: Guid(e5581bcdf3b86ba4eaef43e68919662e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/spritesheets/ice_effects_96x96_SpriteSheet.png using Guid(e5581bcdf3b86ba4eaef43e68919662e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '83d181f596481df5be2581a7ad0a09e4') in 0.014829 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 838.248249 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_3.png
+  artifactKey: Guid(6762bb2ec4fd6ad4cbcb4bce976b13b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_3.png using Guid(6762bb2ec4fd6ad4cbcb4bce976b13b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0fb069e046f3a424b9ff7bb187858dc3') in 0.015304 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_8.png
+  artifactKey: Guid(1bfd92782482a444eb97f2d375a7b5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_8.png using Guid(1bfd92782482a444eb97f2d375a7b5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7947b958cbfe6c58eeb647a284884039') in 0.010233 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_13.png
+  artifactKey: Guid(27f818fabffea484baf8cd51157dc260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_13.png using Guid(27f818fabffea484baf8cd51157dc260) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5e770f3c035f7d699f29d79509712af6') in 0.011418 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_14.png
+  artifactKey: Guid(e511445a7d5568b48a4b0d70bd5c42fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_14.png using Guid(e511445a7d5568b48a4b0d70bd5c42fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '12a0f09eb3fd215bcebd60a73e6fffc4') in 0.008563 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_11.png
+  artifactKey: Guid(811cc700e79b18542ab7abd109097c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_11.png using Guid(811cc700e79b18542ab7abd109097c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a07bef283a1c71c61092259c0cce2341') in 0.009531 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_7.png
+  artifactKey: Guid(943bf6c80bcd72d43b7efb9a34cf96f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_7.png using Guid(943bf6c80bcd72d43b7efb9a34cf96f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '451fe552f7852bc0510517fa21b405b6') in 0.012371 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.273648 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_3.png
+  artifactKey: Guid(6762bb2ec4fd6ad4cbcb4bce976b13b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_3.png using Guid(6762bb2ec4fd6ad4cbcb4bce976b13b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '89972b05ff4ef0cdddc9beaa582daf91') in 0.008937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_8.png
+  artifactKey: Guid(1bfd92782482a444eb97f2d375a7b5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_8.png using Guid(1bfd92782482a444eb97f2d375a7b5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5490b843140004e546292987a2511dd2') in 0.009269 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_12.png
+  artifactKey: Guid(777e12749ccbd084699e4b6cda7d45ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_12.png using Guid(777e12749ccbd084699e4b6cda7d45ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b5e25adcba1b9b34df60907713f39b52') in 0.011273 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_14.png
+  artifactKey: Guid(e511445a7d5568b48a4b0d70bd5c42fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_14.png using Guid(e511445a7d5568b48a4b0d70bd5c42fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd64864de00c13877008f1d110bac5987') in 0.011214 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_11.png
+  artifactKey: Guid(811cc700e79b18542ab7abd109097c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_11.png using Guid(811cc700e79b18542ab7abd109097c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0a667c3d8fb23b5e3b6e257cc294cf3f') in 0.010400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_7.png
+  artifactKey: Guid(943bf6c80bcd72d43b7efb9a34cf96f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_7.png using Guid(943bf6c80bcd72d43b7efb9a34cf96f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '40b6fbaeb85eacc23583698e1a4bb67e') in 0.010773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_9.png
+  artifactKey: Guid(04c8c0a680532a548ad9dd2db7b976cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/1_atk/1_atk_9.png using Guid(04c8c0a680532a548ad9dd2db7b976cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd696c417663d9f4ff84d85a9863fc759') in 0.009067 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 44.318799 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_3.png
+  artifactKey: Guid(1c7979b52c303054795dc140c6b79b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_3.png using Guid(1c7979b52c303054795dc140c6b79b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '94c955473ddbb56481f89cc6b6c5b2b8') in 0.010891 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_10.png
+  artifactKey: Guid(a57ed3cabac4b4a438e1eabb152ba737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_10.png using Guid(a57ed3cabac4b4a438e1eabb152ba737) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '11051eee79ffcb74b5a44c2e16c1b760') in 0.011489 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_9.png
+  artifactKey: Guid(99cc37fea9f6b354fb20b48963dda7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_9.png using Guid(99cc37fea9f6b354fb20b48963dda7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f3d2ba2edcd97b3868fabf195372b7f9') in 0.011319 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_6.png
+  artifactKey: Guid(88effb1cfdb7e7b4a96c7e7ccfcb3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/2_atk/2_atk_6.png using Guid(88effb1cfdb7e7b4a96c7e7ccfcb3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cb0d11ea346a3256484bea3608f11988') in 0.010960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.613551 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_3.png
+  artifactKey: Guid(af1173cb6cd33594c81c139a1d8ca0df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_3.png using Guid(af1173cb6cd33594c81c139a1d8ca0df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f798e7dfcabb2bc8df7007ec51c0696e') in 0.009934 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_13.png
+  artifactKey: Guid(92d9fc79b8892f84cae2a889b7039668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_13.png using Guid(92d9fc79b8892f84cae2a889b7039668) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '912af48941c801c68c762887e32f6b42') in 0.012636 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_10.png
+  artifactKey: Guid(8bd599db83b7b6a4198c9d77afef6e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_10.png using Guid(8bd599db83b7b6a4198c9d77afef6e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1477eedc283ee6308b78315f4a337898') in 0.011638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_15.png
+  artifactKey: Guid(103e9348fd0977f4cab53c7ca7fadda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/3_atk/3_atk_15.png using Guid(103e9348fd0977f4cab53c7ca7fadda5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2f53d35eb934ce20dbd1abb7e7560885') in 0.011161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.715089 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_3.png
+  artifactKey: Guid(3e173e72e806d35409847cf119dd242c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_3.png using Guid(3e173e72e806d35409847cf119dd242c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1dd6f06ea6470061ef15eba946e68df3') in 0.008193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_11.png
+  artifactKey: Guid(cc6c38ad5f45e1b4f83107544841b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_11.png using Guid(cc6c38ad5f45e1b4f83107544841b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6d1af5349c6172704a1d559e2ec4c2d1') in 0.009301 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_16.png
+  artifactKey: Guid(e8d9c1d1ba701a440a475e0364a9972d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_16.png using Guid(e8d9c1d1ba701a440a475e0364a9972d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5c53b853253e659f22224dffe17a7f0e') in 0.011309 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_8.png
+  artifactKey: Guid(5fc4acb4b847120478b54c2d7d6beca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/death/death_8.png using Guid(5fc4acb4b847120478b54c2d7d6beca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '377e31d9400100cda0470d0fe3a6e600') in 0.009322 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.678310 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/idle_3.png
+  artifactKey: Guid(5e19c20577f6a3246a9b92aee7569b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/idle/idle_3.png using Guid(5e19c20577f6a3246a9b92aee7569b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '766a569fe97ef01f92bb604953d163bd') in 0.009064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.236261 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_3.png
+  artifactKey: Guid(a65e848e6d903184ba873e584918e08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_3.png using Guid(a65e848e6d903184ba873e584918e08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fafa14f2c13d747c4f8caf8797226c4f') in 0.010333 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_14.png
+  artifactKey: Guid(71839c6bf51cd3c40866313fd10b58e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_14.png using Guid(71839c6bf51cd3c40866313fd10b58e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1c8291e12d9799b8d2c1511483f5e7aa') in 0.010464 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_19.png
+  artifactKey: Guid(6b35eddb2462bb94dbf7086b279611fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_19.png using Guid(6b35eddb2462bb94dbf7086b279611fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '047d6e35baae55857d078f7e9b2c2f02') in 0.012299 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_20.png
+  artifactKey: Guid(a07207b32a2cd784fa87662118edab88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/intro_or_revive/intro_or_revive_20.png using Guid(a07207b32a2cd784fa87662118edab88) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5739cd8bb8f2a21c4a8cd67a6e8e2265') in 0.009235 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.986657 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/stagger/stagger_3.png
+  artifactKey: Guid(e7f352dfcff1b9f429f810a3d691ca99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/stagger/stagger_3.png using Guid(e7f352dfcff1b9f429f810a3d691ca99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fe39d305f67d017730f0237289f98e5a') in 0.009446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.450681 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/take_hit/take_hit_3.png
+  artifactKey: Guid(06e0cf692d8c5d24fbadd071ab801042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/take_hit/take_hit_3.png using Guid(06e0cf692d8c5d24fbadd071ab801042) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7039561fa27b97cb9f788df5ad1d371e') in 0.009312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/take_hit/take_hit_6.png
+  artifactKey: Guid(1c440353d95272d4fa5d3e95fcc3626c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/take_hit/take_hit_6.png using Guid(1c440353d95272d4fa5d3e95fcc3626c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b8b1d22aa58baa778e1339bef5b5e0b6') in 0.009549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.805324 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_3.png
+  artifactKey: Guid(9660807ef5c98bd4d88cc702a6ba8264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_3.png using Guid(9660807ef5c98bd4d88cc702a6ba8264) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c0d8dbc2cd7502d67a75013617b025cb') in 0.009635 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_6.png
+  artifactKey: Guid(5f70fa325d9fa11428ef92e0974cfa8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Khoi/Asset/Frost_Guardian_FULL_v1.0/PNG files/frost_guardian/walk/walk_6.png using Guid(5f70fa325d9fa11428ef92e0974cfa8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a59075216788318570b47515c2fdf864') in 0.009587 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

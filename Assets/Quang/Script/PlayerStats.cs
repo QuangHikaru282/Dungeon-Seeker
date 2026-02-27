@@ -11,6 +11,7 @@ public class PlayerStats : MonoBehaviour
     private bool isInvincible;
     private PlayerController controller;
     private CameraFollow cam;
+    public static bool IsDead = false;
 
     void Awake()
     {
@@ -18,7 +19,7 @@ public class PlayerStats : MonoBehaviour
         controller = GetComponent<PlayerController>();
         currentHP = maxHP;
 
-        cam = GetComponent<CameraFollow>();
+        cam = FindObjectOfType<CameraFollow>();
     }
 
     public void SetInvincible(bool value) => isInvincible = value;
@@ -28,20 +29,15 @@ public class PlayerStats : MonoBehaviour
         if (isInvincible || currentHP <= 0) return;
 
         currentHP -= damage;
-
         cam?.TriggerShake();
 
         if (currentHP <= 0)
         {
             currentHP = 0;
+            IsDead = true;
             controller.OnDeath();
         }
-        else
-        {
-            controller.OnHurt();
-        }
-
-        // TODO: cập nhật UI HP bar
+        else controller.OnHurt();
     }
 
     public void Heal(int amount)
