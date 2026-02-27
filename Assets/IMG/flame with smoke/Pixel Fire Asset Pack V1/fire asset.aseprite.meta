@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -121,7 +122,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: fire asset_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +133,7 @@ ScriptedImporter:
       y: 4
       width: 303
       height: 299
-    spriteID: 9c3d558fe9ce5e2499e86e545a74a38d
+    spriteID: f2577f82e9cc4b048905876ec19405b1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +142,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: fire asset_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +153,7 @@ ScriptedImporter:
       y: 4
       width: 303
       height: 299
-    spriteID: 024b11f161620e14cace2506309da55c
+    spriteID: 9e823c0ff97dd8a4daa9c2fe05fdb1df
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +162,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 315, y: 4}
-  - name: fire asset_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +173,7 @@ ScriptedImporter:
       y: 4
       width: 303
       height: 299
-    spriteID: bd0d95f97e04dd34db63c7130abda437
+    spriteID: 5da857fbe9447924e9ceb4671d7c159c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +182,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 626, y: 4}
-  - name: fire asset_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +193,7 @@ ScriptedImporter:
       y: 311
       width: 303
       height: 299
-    spriteID: 4172129885863924fb924cff4d87de62
+    spriteID: afa1aafc32b0e70419f1c892e9257952
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +202,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 311}
-  - name: fire asset_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +213,7 @@ ScriptedImporter:
       y: 311
       width: 303
       height: 299
-    spriteID: 8e47ffbf5eb778843ad88947116f3f5d
+    spriteID: d6b6b37aa5855b2458502ca363cb70a9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +222,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 315, y: 311}
-  - name: fire asset_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +233,7 @@ ScriptedImporter:
       y: 311
       width: 303
       height: 299
-    spriteID: 8bda11a5c8d7340459893acc56d7b685
+    spriteID: 33a23071e5c43f7488b1abb67de71f48
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +242,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 626, y: 311}
-  - name: fire asset_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +253,7 @@ ScriptedImporter:
       y: 618
       width: 303
       height: 299
-    spriteID: dd538296941bc0a49b9f4ae59055a09b
+    spriteID: 7afe79a581be046448d054e4bf030ad7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +262,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 618}
-  - name: fire asset_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +273,7 @@ ScriptedImporter:
       y: 618
       width: 303
       height: 299
-    spriteID: 7d35f9114472aa44b9aa2414862be822
+    spriteID: 5cc713b8400258b4bb5ff78f48df8a87
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -284,13 +285,18 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -69819990
+    uuid:
+      value0: 205376722
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 0
     name: fire asset
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: fire asset_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -298,8 +304,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 9c3d558fe9ce5e2499e86e545a74a38d
-    - name: fire asset_Frame_1
+      spriteId: f2577f82e9cc4b048905876ec19405b1
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -307,8 +313,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 024b11f161620e14cace2506309da55c
-    - name: fire asset_Frame_2
+      spriteId: 9e823c0ff97dd8a4daa9c2fe05fdb1df
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -316,8 +322,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: bd0d95f97e04dd34db63c7130abda437
-    - name: fire asset_Frame_3
+      spriteId: 5da857fbe9447924e9ceb4671d7c159c
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -325,8 +331,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 4172129885863924fb924cff4d87de62
-    - name: fire asset_Frame_4
+      spriteId: afa1aafc32b0e70419f1c892e9257952
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -334,8 +340,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 8e47ffbf5eb778843ad88947116f3f5d
-    - name: fire asset_Frame_5
+      spriteId: d6b6b37aa5855b2458502ca363cb70a9
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -343,8 +349,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 8bda11a5c8d7340459893acc56d7b685
-    - name: fire asset_Frame_6
+      spriteId: 33a23071e5c43f7488b1abb67de71f48
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -352,8 +358,8 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: dd538296941bc0a49b9f4ae59055a09b
-    - name: fire asset_Frame_7
+      spriteId: 7afe79a581be046448d054e4bf030ad7
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -361,7 +367,7 @@ ScriptedImporter:
         y: 0
         width: 303
         height: 299
-      spriteId: 7d35f9114472aa44b9aa2414862be822
+      spriteId: 5cc713b8400258b4bb5ff78f48df8a87
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -381,3 +387,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 303, y: 299}
+  previousTextureSize: {x: 1024, y: 1024}
