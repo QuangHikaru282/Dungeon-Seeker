@@ -1,10 +1,15 @@
 ﻿// HealthUIManager.cs
 using UnityEngine;
 using TMPro;
+using UnityEngine.UI;
 
 public class HealthUIManager : MonoBehaviour
 {
     public static HealthUIManager Instance;
+
+    [Header("New HP Slider")]
+    public Slider hpSlider;              // Slider hiển thị máu 0-100
+    public TextMeshProUGUI livesText;
 
     [Header("Health Bar Settings")]
     public Transform healthBar;
@@ -25,18 +30,14 @@ public class HealthUIManager : MonoBehaviour
     }
     public void UpdateHealthUI(int currentHP)
     {
-        int totalRows = (currentHP > 0) ? Mathf.CeilToInt(currentHP / 3f) : 0;
-        int fillCount = 0;
-        if (currentHP > 0)
-            fillCount = (currentHP % 3 == 0) ? 3 : (currentHP % 3);
+        if (hpSlider != null)
+            hpSlider.value = currentHP;
+    }
 
-        for (int i = 0; i < slotCount; i++)
-        { 
-            Transform heartFill = healthBar.GetChild(i);
-            heartFill.gameObject.SetActive(i < fillCount);
-        }
-
-        if (heartCountText != null)
-            heartCountText.text = "x" + totalRows.ToString();
+    // Cập nhật số mạng
+    public void UpdateLivesUI(int lives)
+    {
+        if (livesText != null)
+            livesText.text = "x" + lives;
     }
 }
