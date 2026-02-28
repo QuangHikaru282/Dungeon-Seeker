@@ -40,16 +40,16 @@ public class IGDieState : DieState
 
         if (noise != null)
         {
-            noise.AmplitudeGain = shakeAmplitude;
-            noise.FrequencyGain = shakeFrequency;
+            noise.m_AmplitudeGain = shakeAmplitude;
+            noise.m_FrequencyGain = shakeFrequency;
         }
 
         yield return new WaitForSeconds(1.25f); 
 
         if (noise != null)
         {
-            noise.AmplitudeGain = 0f;
-            noise.FrequencyGain = 0f;
+            noise.m_AmplitudeGain = 0f;
+            noise.m_FrequencyGain = 0f;
         }
 
         if (bossCam != null)

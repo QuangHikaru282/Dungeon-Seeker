@@ -54,16 +54,16 @@ public class IGIntroState : State
         yield return new WaitForSeconds(shakeDelay);
         if (noise != null)
         {
-            noise.AmplitudeGain = shakeAmplitude;
-            noise.FrequencyGain = shakeFrequency;
+            noise.m_AmplitudeGain = shakeAmplitude;
+            noise.m_FrequencyGain = shakeFrequency;
         }
 
         yield return new WaitForSeconds(shakeDuration);
 
         if (noise != null)
         {
-            noise.AmplitudeGain = 0f;
-            noise.FrequencyGain = 0f;
+            noise.m_AmplitudeGain = 0f;
+            noise.m_FrequencyGain = 0f;
         }
 
         if (animator != null)
@@ -90,8 +90,8 @@ public class IGIntroState : State
 
         if (noise != null)
         {
-            noise.AmplitudeGain = 0f;
-            noise.FrequencyGain = 0f;
+            noise.m_AmplitudeGain = 0f;
+            noise.m_FrequencyGain = 0f;
         }
 
         if (bossCam != null)
