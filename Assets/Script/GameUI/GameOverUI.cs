@@ -115,11 +115,10 @@ public class GameOverManager : MonoBehaviour
     public void RestartGame()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         if (gameOverPanel != null)
-        {
             gameOverPanel.SetActive(false);
-        }
+
+        SceneManager.LoadScene("scene_Begin"); // ← đổi sang scene_Begin
     }
     public void MenuGame()
     {
