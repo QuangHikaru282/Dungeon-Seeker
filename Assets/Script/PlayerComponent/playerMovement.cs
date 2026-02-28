@@ -12,8 +12,12 @@ public class playerScript : MonoBehaviour
     public float movementSmoothing = 0.05f;
 
     [Header("Health Settings")]
-    public int maxHealth = 15;
+    public int maxHealth = 100;
     public int currentHealth;
+
+    [Header("Lives Settings")]
+    public int maxLives = 3;
+    public int currentLives;
 
     [Header("Respawn Settings")]
     public Vector2 respawnPosition;
@@ -111,6 +115,15 @@ public class playerScript : MonoBehaviour
         jumpCount = maxJumpCount;
 
         HealthUIManager.Instance.InitializeHealthBar(currentHealth);
+        currentLives = maxLives;
+        HealthUIManager.Instance.UpdateLivesUI(currentLives);
+
+        // Khởi tạo slider max
+        if (HealthUIManager.Instance.hpSlider != null)
+        {
+            HealthUIManager.Instance.hpSlider.maxValue = maxHealth;
+            HealthUIManager.Instance.hpSlider.value = currentHealth;
+        }
 
         if (PlayerPrefs.HasKey("HasCheckpoint") && PlayerPrefs.GetInt("HasCheckpoint") == 1)
         {
@@ -529,12 +542,64 @@ public class playerScript : MonoBehaviour
     {
         if (isDead) return;
         isDead = true;
+
+        // Reset các trigger thừa để tránh xung đột animation
+        ResetAttackTriggers();
+        animator.ResetTrigger("HurtTrigger");
         animator.SetTrigger("DieTrigger");
 
+        // KHÔNG gọi this.enabled = false ở đây — sẽ kill Coroutine
+        rb.velocity = Vector2.zero;
+
+        currentLives--;
+        HealthUIManager.Instance.UpdateLivesUI(currentLives);
+
+        if (currentLives <= 0)
+        {
+            // Hết mạng → Game Over (dùng Coroutine để chờ animation xong)
+            StartCoroutine(ShowGameOverAfterDelay());
+        }
+        else
+        {
+            // Còn mạng → hồi sinh sau delay
+            StartCoroutine(RespawnAfterDeath());
+        }
+    }
+
+    private IEnumerator ShowGameOverAfterDelay()
+    {
+        yield return new WaitForSeconds(0f);
         if (gameOverManager != null)
             gameOverManager.ShowGameOver();
-
         this.enabled = false;
+    }
+
+    private IEnumerator RespawnAfterDeath()
+    {
+        // Chờ animation Die chạy xong
+        yield return new WaitForSeconds(2f);
+
+        // ── Reset toàn bộ trạng thái ──
+        isDead = false;
+        isHurt = false;
+        cantBeDamaged = false;
+        isFlamethrowerActive = false;
+
+        // Reset Animator về Idle
+        animator.Rebind();          // ← xóa sạch mọi state/trigger
+        animator.Update(0f);        // ← force update ngay lập tức
+
+        // Teleport về checkpoint
+        transform.position = checkpointPosition;
+        rb.velocity = Vector2.zero;
+
+        // Hồi máu đầy
+        currentHealth = maxHealth;
+
+        // Cập nhật UI
+        HealthUIManager.Instance.UpdateHealthUI(currentHealth);
+        HealthUIManager.Instance.UpdateLivesUI(currentLives);
+        UIUpdateLogic.Instance.UpdateArrowUI(bulletCount);
     }
 
     public void Respawn()
